@@ -8,14 +8,14 @@ export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
     '/': {
-      title: 'City Walk 首页',
+      title: '城市漫步-深圳',
       lang: 'zh-CN',
-      description: 'city walk website home',
+      description: '城市漫步深圳站点',
     },
     '/en/': {
-      title: 'City Walk Home',
+      title: 'City Walk ShenZhen',
       lang: 'en-US',
-      description: 'city walk website home',
+      description: 'city walk website ShenZhen',
     },
   },
 
@@ -23,7 +23,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    hostname: 'https://citywalk.group',
+    hostname: 'https://shenzhen.citywalk.group',
 
     plugins: {
       /**
