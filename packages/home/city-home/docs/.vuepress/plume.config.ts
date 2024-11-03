@@ -21,6 +21,7 @@ export default defineThemeConfig({
     { icon: 'github', link: 'https://github.com/sunshang-hl/CityWalk' },
     { icon: 'qq', link: 'https://txc.qq.com/products/674896' },
   ],
+  navbarSocialInclude: ['github', 'qq'],
 
   profile: {
     avatar: '/plume.png',
