@@ -23,7 +23,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    // hostname: 'https://citywalk.group',
+    hostname: 'https://citywalk.group',
 
     plugins: {
       /**
