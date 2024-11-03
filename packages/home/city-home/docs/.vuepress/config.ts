@@ -8,9 +8,9 @@ export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
     '/': {
-      title: 'City Walk',
+      title: '城市漫步',
       lang: 'zh-CN',
-      description: 'city walk website home',
+      description: '城市漫步',
     },
     '/en/': {
       title: 'City Walk',
@@ -23,7 +23,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    // hostname: 'https://your_site_url',
+    // hostname: 'https://citywalk.group',
 
     plugins: {
       /**
@@ -52,23 +52,23 @@ export default defineUserConfig({
        *  markdown power
        * @see https://theme-plume.vuejs.press/config/plugin/markdown-power/
        */
-      // markdownPower: {
-      //   pdf: true,
-      //   caniuse: true,
-      //   plot: true,
-      //   bilibili: true,
-      //   youtube: true,
-      //   icons: true,
-      //   codepen: true,
-      //   replit: true,
-      //   codeSandbox: true,
-      //   jsfiddle: true,
-      //   repl: {
-      //     go: true,
-      //     rust: true,
-      //     kotlin: true,
-      //   },
-      // },
+      markdownPower: {
+        pdf: true,
+        //   caniuse: true,
+        //   plot: true,
+        bilibili: true,
+        youtube: true,
+        icons: true,
+        //   codepen: true,
+        //   replit: true,
+        //   codeSandbox: true,
+        //   jsfiddle: true,
+        //   repl: {
+        //     go: true,
+        //     rust: true,
+        //     kotlin: true,
+        //   },
+      },
 
       /**
        * 评论 comments
