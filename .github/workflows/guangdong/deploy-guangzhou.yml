@@ -1,0 +1,48 @@
+name: Deploy City GuangZhou
+
+on:
+  push:
+    # 只有当推送以下列出的文件或文件夹中的文件变更后，才会触发构建
+    paths:
+      # !! 请记得新的站点要修改这里的目录
+      - packages/guangdong/city-guangzhou/**
+      - shared/**
+
+  # 支持手动触发
+  workflow_dispatch:
+
+jobs:
+  deploy-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install deps
+        run: pnpm install --frozen-lockfile
+
+      - name: Docs build
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
+        # !! 这里的 --filter 一定要对应 package.json 中的 name 字段值
+        # !! 这是为了仅构建 单个文档站点的目录
+        run: pnpm --filter=packages/guangdong/city-guangzhou docs:build
+
+      - name: Deploy docs
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          # !! 每个城市推送的分支都不一样，所以需要单独配置
+          branch: city-guangzhou
+          # !! 每个站点的投建输出目录都不一样，所以需要单独配置
+          folder: packages/guangdong/city-guangzhou/docs/.vuepress/dist
+          single-commit: true

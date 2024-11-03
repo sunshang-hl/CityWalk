@@ -1,0 +1,26 @@
+{
+  "name": "city-shenzhen",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "city walk with shenzhen",
+  "author": "username <email>",
+  "license": "MIT",
+  "engines": {
+    "node": "^18.20.0 || >=20.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.18",
+    "http-server": "^14.1.1",
+    "sass-embedded": "^1.80.6",
+    "vue": "^3.5.12",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-theme-plume": "1.0.0-rc.114"
+  }
+}

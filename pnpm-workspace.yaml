@@ -1,0 +1,3 @@
+# 这里匹配的是 根目录下， 目录名 city- 开头的前缀， 例如： city-shenzhen
+packages:
+  - city-*
