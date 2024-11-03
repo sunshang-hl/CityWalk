@@ -63,6 +63,27 @@ importers:
         specifier: 1.0.0-rc.114
         version: 1.0.0-rc.114(@algolia/client-search@5.12.0)(markdown-it@14.1.0)(sass-embedded@1.80.6)(search-insights@2.17.2)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.8.6)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
 
+  packages/home/city-home:
+    devDependencies:
+      '@vuepress/bundler-vite':
+        specifier: 2.0.0-rc.18
+        version: 2.0.0-rc.18(@types/node@22.8.6)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3)
+      http-server:
+        specifier: ^14.1.1
+        version: 14.1.1
+      sass-embedded:
+        specifier: ^1.80.6
+        version: 1.80.6
+      vue:
+        specifier: ^3.5.12
+        version: 3.5.12(typescript@5.6.3)
+      vuepress:
+        specifier: 2.0.0-rc.18
+        version: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.8.6)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))
+      vuepress-theme-plume:
+        specifier: 1.0.0-rc.114
+        version: 1.0.0-rc.114(@algolia/client-search@5.12.0)(markdown-it@14.1.0)(sass-embedded@1.80.6)(search-insights@2.17.2)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.8.6)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
+
 packages:
 
   '@algolia/autocomplete-core@1.9.3':

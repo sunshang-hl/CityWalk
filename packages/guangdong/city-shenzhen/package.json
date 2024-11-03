@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "city walk with shenzhen",
-  "author": "username <email>",
+  "author": "helong <hhhelong@126.com>(https://github.com/sunshang-hl)",
   "license": "MIT",
   "engines": {
     "node": "^18.20.0 || >=20.0.0"

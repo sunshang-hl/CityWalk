@@ -1,8 +1,8 @@
 {
-  "name": "city-guangzhou",
+  "name": "city-home",
   "type": "module",
   "version": "1.0.0",
-  "description": "city walk with guangzhou",
+  "description": "city walk 网站首页，这里将是访问city walk的入口，是一切的开始。",
   "author": "helong <hhhelong@126.com>(https://github.com/sunshang-hl)",
   "license": "MIT",
   "engines": {
