@@ -8,12 +8,12 @@ export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
     '/': {
-      title: '城市漫步',
+      title: '城市漫步-中国',
       lang: 'zh-CN',
-      description: '城市漫步',
+      description: '城市漫步-中国，收录全中国所有的公园绿地、博物馆、图书馆、骑行绿道、风景名胜地！',
     },
     '/en/': {
-      title: 'City Walk',
+      title: 'City Walk China',
       lang: 'en-US',
       description: 'city walk website home',
     },

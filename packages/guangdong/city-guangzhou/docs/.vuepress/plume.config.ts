@@ -8,14 +8,27 @@ import { enNotes, zhNotes } from './notes'
 export default defineThemeConfig({
   logo: 'https://theme-plume.vuejs.press/plume.png',
   // your git repo url
-  docsRepo: '',
+  docsRepo: 'https://github.com/sunshang-hl/CityWalk',
   docsDir: 'docs',
 
   appearance: true,
 
   social: [
-    { icon: 'github', link: '/' },
+    { icon: 'github', link: 'https://github.com/sunshang-hl/CityWalk' },
+    { icon: 'qq', link: 'https://txc.qq.com/products/674896' },
   ],
+
+  profile: {
+    avatar: '/plume.png',
+    name: '城市漫步-广州 CityWalk',
+    description: '广州-千年都市，这里文化悠久、历史韵律源远流长，这里有白云山、有博物馆、更有串城的珠江，这里有李小龙的故居、有黄木岗烈士公墓。每一处都值得留恋。',
+    location: 'shenzhen, China',
+    organization: 'sunshang-hl',
+  },
+
+  footer: {
+    copyright: 'Copyright © 2024-present sunshang-hl',
+  },
 
   locales: {
     '/': {
