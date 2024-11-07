@@ -4,58 +4,69 @@ import { zhSharedNavbar, enSharedNavbar } from '../../../../../shared/config/nav
 export const zhNavbar = defineNavbarConfig([
   { text: '首页', link: '/' },
   { text: '游记', link: '/blog/' },
-  { text: '标签', link: '/en/blog/tags/' },
-  { text: '归档', link: '/en/blog/archives/' },
-  { text: '综合公园', link: '/notes/ComprehensivePark/README.md' },
-  { text: '社区公园', link: '/notes/CommunityPark/README.md' },
+  // { text: '标签', link: '/blog/tags/' },
+  // { text: '归档', link: '/blog/archives/' },
+  // { text: '综合公园', link: '/notes/ComprehensivePark/README.md' },
+  // { text: '社区公园', link: '/notes/CommunityPark/README.md' },
   {
-    text: '专类公园',
-    items: [{ text: '动物园', link: '/notes/Zoo/README.md' },
-    { text: '植物园', link: '/notes/BotanicalGarden/README.md' },
-    { text: '历史名园', link: '/notes/HistoricGarden/README.md' },
-    { text: '遗址公园', link: '/notes/HeritagePark/README.md' },
-    { text: '游乐公园', link: '/notes/FunParks/README.md' },
-    { text: '儿童公园', link: '/notes/ChildrenPark/README.md' },
-    { text: '体育健身公园', link: '/notes/Sports&Fitness/README.md' },
-    { text: '滨水公园', link: '/notes/WaterfrontPark/README.md' },
-    { text: '纪念性公园', link: '/notes/CommemorativePark/README.md' },
-    { text: '雕塑公园', link: '/notes/SculpturePark/README.md' },
+    text: '公园',
+    items: [{ text: '综合公园', link: '/notes/ComprehensivePark/README.md' },
+    { text: '社区公园', link: '/notes/CommunityPark/README.md' },
+    { text: '专类公园', link: '/notes/SpecializedPark/README.md' },
+    // {
+    //   text: '专类公园',
+    //   items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
+    //   { text: '植物园', link: '/notes/SpecializedPark/BotanicalGarden/README.md' },
+    //   { text: '历史名园', link: '/notes/SpecializedPark/HistoricGarden/README.md' },
+    //   { text: '遗址公园', link: '/notes/SpecializedPark/HeritagePark/README.md' },
+    //   { text: '游乐公园', link: '/notes/SpecializedPark/FunParks/README.md' },
+    //   { text: '儿童公园', link: '/notes/SpecializedPark/ChildrenPark/README.md' },
+    //   { text: '体育健身公园', link: '/notes/SpecializedPark/Sports&Fitness/README.md' },
+    //   { text: '滨水公园', link: '/notes/SpecializedPark/WaterfrontPark/README.md' },
+    //   { text: '纪念性公园', link: '/notes/SpecializedPark/CommemorativePark/README.md' },
+    //   { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
+    //   ]
+    // },
+    { text: '游园', link: '/notes/TravellingGarden/README.md' },
     ]
   },
-  { text: '游园', link: '/notes/TravellingGarden/README.md' },
-  { text: '广场/街区', link: '/notes/Square&Block/README.md' },
-  {
-    text: '风景休憩绿地',
-    items: [{ text: '风景名胜区', link: '/notes/ScenicAttraction/README.md' },
-    { text: '森林公园', link: '/notes/ForestPark/README.md' },
-    { text: '绿地公园', link: '/notes/GreenPark/README.md' },
-    { text: '郊野公园', link: '/notes/CountryPark/README.md' },
-    { text: '野生动物园', link: '/notes/WildlifePark/README.md' },
-    { text: '遗址公园', link: '/notes/HeritagePark /README.md' },
-    { text: '地质公园', link: '/notes/GeologicalPark/README.md' },
-    { text: '矿山公园', link: '/notes/MiningPark/README.md' },
-    ]
-  },
-  { text: '博物/图书馆', link: '/notes/Museum&Library/README.md' },
-  {
-    text: '生态保育绿地',
-    items: [{ text: '自然保护区', link: '/notes/NaturalReserve/README.md' },
-    { text: '水源保护区', link: '/notes/WaterSourceProtectionArea/README.md' },
-    { text: '湿地保护区', link: '/notes/WetlandConservationArea /README.md' },
-    { text: '公益林', link: '/notes/PublicWelfareForest/README.md' },
-    { text: '水体防护林', link: '/notes/WaterBodyProtectiveForest/README.md' },
-    { text: '生态修复地', link: '/notes/EcologicalRestorationArea/README.md' },
-    { text: '生物物种栖息地', link: '/notes/HabitatOfBiologicalSpecies/README.md' },
 
-    ]
-  },
-  {
-    text: '专项',
-    items: [{ text: '骑行&绿道', link: '/notes/Cycling&Greenway/README.md' },
-    { text: '房车营地', link: '/notes/RVPark /README.md' },
-    { text: '红色旅游路线', link: '/notes/RedTourismRoute/README.md' }
-    ]
-  },
+  // { text: '游园', link: '/notes/TravellingGarden/README.md' },
+  { text: '广场/街区', link: '/notes/SquareBlock/README.md' },
+  { text: '风景休憩绿地', link: '/notes/LandscapeLeisureGreenSpace/README.md' },
+  // {
+  //   text: '风景休憩绿地',
+  //   items: [{ text: '风景名胜区', link: '/notes/ScenicAttraction/README.md' },
+  //   { text: '森林公园', link: '/notes/ForestPark/README.md' },
+  //   { text: '绿地公园', link: '/notes/GreenPark/README.md' },
+  //   { text: '郊野公园', link: '/notes/CountryPark/README.md' },
+  //   { text: '野生动物园', link: '/notes/WildlifePark/README.md' },
+  //   { text: '遗址公园', link: '/notes/HeritagePark /README.md' },
+  //   { text: '地质公园', link: '/notes/GeologicalPark/README.md' },
+  //   { text: '矿山公园', link: '/notes/MiningPark/README.md' },
+  //   ]
+  // },
+  { text: '博物/图书馆', link: '/notes/MuseumLibrary/README.md' },
+  // {
+  //   text: '生态保育绿地',
+  //   items: [{ text: '自然保护区', link: '/notes/NaturalReserve/README.md' },
+  //   { text: '水源保护区', link: '/notes/WaterSourceProtectionArea/README.md' },
+  //   { text: '湿地保护区', link: '/notes/WetlandConservationArea /README.md' },
+  //   { text: '公益林', link: '/notes/PublicWelfareForest/README.md' },
+  //   { text: '水体防护林', link: '/notes/WaterBodyProtectiveForest/README.md' },
+  //   { text: '生态修复地', link: '/notes/EcologicalRestorationArea/README.md' },
+  //   { text: '生物物种栖息地', link: '/notes/HabitatOfBiologicalSpecies/README.md' },
+
+  //   ]
+  // },
+  { text: '专项', link: '/notes/Other/README.md' },
+  // {
+  //   text: '专项',
+  //   items: [{ text: '骑行&绿道', link: '/notes/Cycling&Greenway/README.md' },
+  //   { text: '房车营地', link: '/notes/RVPark /README.md' },
+  //   { text: '红色旅游路线', link: '/notes/RedTourismRoute/README.md' }
+  //   ]
+  // },
   ...zhSharedNavbar,
 ])
 
