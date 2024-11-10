@@ -1,0 +1,17 @@
+{
+  "name": "social-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build docs",
+    "serve": "vuepress dev docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress-plugin-social-share": "2.0.0-beta.23"
+  }
+}

@@ -10,9 +10,9 @@ export const zhNavbar = defineNavbarConfig([
   // { text: '社区公园', link: '/notes/CommunityPark/README.md' },
   {
     text: '公园',
-    items: [{ text: '综合公园', link: '/notes/ComprehensivePark/README.md' },
-    { text: '社区公园', link: '/notes/CommunityPark/README.md' },
-    { text: '专类公园', link: '/notes/SpecializedPark/README.md' },
+    items: [{ text: '综合公园', link: '/notes/综合公园/README.md' },
+    { text: '社区公园', link: '/notes/社区公园/README.md' },
+    { text: '专类公园', link: '/notes/专类公园/README.md' },
     // {
     //   text: '专类公园',
     //   items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
@@ -27,13 +27,13 @@ export const zhNavbar = defineNavbarConfig([
     //   { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
     //   ]
     // },
-    { text: '游园', link: '/notes/TravellingGarden/README.md' },
+    { text: '游园', link: '/notes/游园/README.md' },
     ]
   },
 
   // { text: '游园', link: '/notes/TravellingGarden/README.md' },
-  { text: '广场/街区', link: '/notes/SquareBlock/README.md' },
-  { text: '风景休憩绿地', link: '/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: '广场/街区', link: '/notes/广场&街区/README.md' },
+  { text: '风景休憩绿地', link: '/notes/风景休憩绿地/README.md' },
   // {
   //   text: '风景休憩绿地',
   //   items: [{ text: '风景名胜区', link: '/notes/ScenicAttraction/README.md' },
@@ -46,7 +46,7 @@ export const zhNavbar = defineNavbarConfig([
   //   { text: '矿山公园', link: '/notes/MiningPark/README.md' },
   //   ]
   // },
-  { text: '博物/图书馆', link: '/notes/MuseumLibrary/README.md' },
+  { text: '博物/图书馆', link: '/notes/博物&图书馆/README.md' },
   // {
   //   text: '生态保育绿地',
   //   items: [{ text: '自然保护区', link: '/notes/NaturalReserve/README.md' },
@@ -59,7 +59,7 @@ export const zhNavbar = defineNavbarConfig([
 
   //   ]
   // },
-  { text: '专项', link: '/notes/Other/README.md' },
+  { text: '专项', link: '/notes/专项/README.md' },
   // {
   //   text: '专项',
   //   items: [{ text: '骑行&绿道', link: '/notes/Cycling&Greenway/README.md' },
@@ -73,58 +73,44 @@ export const zhNavbar = defineNavbarConfig([
 export const enNavbar = defineNavbarConfig([
   { text: 'Home', link: '/en/' },
   { text: 'TravelNotes', link: '/en/blog/' },
-  { text: 'Tags', link: '/en/blog/tags/' },
-  { text: 'Archives', link: '/en/blog/archives/' },
-  { text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
-  { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
-  {
-    text: 'Specialized Park',
-    items: [{ text: 'Zoo', link: '/en/notes/Zoo/README.md' },
-    { text: 'Botanical Garden', link: '/en/notes/BotanicalGarden/README.md' },
-    { text: 'Historic Garden', link: '/en/notes/HistoricGarden/README.md' },
-    { text: 'Heritage Park', link: '/en/notes/HeritagePark/README.md' },
-    { text: 'FunParks', link: '/en/notes/FunParks/README.md' },
-    { text: 'Children Park', link: '/en/notes/ChildrenPark/README.md' },
-    { text: 'Sports&Fitness', link: '/en/notes/Sports&Fitness/README.md' },
-    { text: 'WaterFrontPark', link: '/en/notes/WaterFrontPark/README.md' },
-    { text: 'CommemorativePark', link: '/en/notes/CommemorativePark/README.md' },
-    { text: 'SculpturePark', link: '/en/notes/SculpturePark/README.md' },
-    ]
-  },
-  { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
-  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
-  {
-    text: 'Landscape Leisure Green Space',
-    items: [{ text: 'ScenicAttraction', link: '/en/notes/ScenicAttraction/README.md' },
-    { text: 'Forest Park', link: '/en/notes/ForestPark/README.md' },
-    { text: 'Green Park', link: '/en/notes/GreenPark/README.md' },
-    { text: 'Country Park', link: '/en/notes/CountryPark/README.md' },
-    { text: 'Wildlife Park', link: '/en/notes/WildlifePark/README.md' },
-    { text: 'Heritage Park', link: '/en/notes/HeritagePark/README.md' },
-    { text: 'Geological Park', link: '/en/notes/GeologicalPark/README.md' },
-    { text: 'Mining Park', link: '/en/notes/MiningPark/README.md' },
-    ]
-  },
-  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
-  {
-    text: 'Ecological Conservation Green Space',
-    items: [{ text: 'Natural Reserve', link: '/en/notes/NaturalReserve/README.md' },
-    { text: 'Water Source Protection Area', link: '/en/notes/WaterSourceProtectionArea/README.md' },
-    { text: 'Wetland Conservation Area', link: '/en/notes/WetlandConservationArea /README.md' },
-    { text: 'Public Welfare Forest', link: '/en/notes/PublicWelfareForest/README.md' },
-    { text: 'Water Body Protective Forest', link: '/en/notes/WaterBodyProtectiveForest/README.md' },
-    { text: 'Ecological Restoration Area', link: '/en/notes/EcologicalRestorationArea/README.md' },
-    { text: 'HabitatOf Biological Species', link: '/en/notes/HabitatOfBiologicalSpecies/README.md' },
+  // { text: 'Tags', link: '/en/blog/tags/' },
+  // { text: 'Archives', link: '/en/blog/archives/' },
+  // { text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+  // { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
 
-    ]
-  },
   {
-    text: 'Other',
-    items: [{ text: 'Cycling&Greenway', link: '/en/notes/Cycling&Greenway/README.md' },
-    { text: 'RVPark', link: '/en/notes/RVPark/README.md' },
-    { text: 'Red Tourism Route', link: '/en/notes/RedTourismRoute/README.md' }
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
     ]
   },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+  // {
+  //   text: 'Ecological Conservation Green Space',
+  //   items: [{ text: 'Natural Reserve', link: '/en/notes/NaturalReserve/README.md' },
+  //   { text: 'Water Source Protection Area', link: '/en/notes/WaterSourceProtectionArea/README.md' },
+  //   { text: 'Wetland Conservation Area', link: '/en/notes/WetlandConservationArea /README.md' },
+  //   { text: 'Public Welfare Forest', link: '/en/notes/PublicWelfareForest/README.md' },
+  //   { text: 'Water Body Protective Forest', link: '/en/notes/WaterBodyProtectiveForest/README.md' },
+  //   { text: 'Ecological Restoration Area', link: '/en/notes/EcologicalRestorationArea/README.md' },
+  //   { text: 'HabitatOf Biological Species', link: '/en/notes/HabitatOfBiologicalSpecies/README.md' },
+
+  //   ]
+  // },
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+  // {
+  //   text: 'Other',
+  //   items: [{ text: 'Cycling&Greenway', link: '/en/notes/Cycling&Greenway/README.md' },
+  //   { text: 'RVPark', link: '/en/notes/RVPark/README.md' },
+  //   { text: 'Red Tourism Route', link: '/en/notes/RedTourismRoute/README.md' }
+  //   ]
+  // },
   ...enSharedNavbar
 ])
 
