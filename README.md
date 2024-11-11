@@ -1,4 +1,21 @@
-# City Walk
+# City Walk 项目介绍
+
+## 项目简介
+City Walk 是一个开源项目，旨在收集和展示全国300多个城市的公园、绿地、博物馆、图书馆、风景名胜区、郊野公园、骑行路线等户外活动区的文化和休闲旅游资源。该项目的目标是为用户提供方便、全面的信息查询服务，帮助用户更好地规划文化和休闲活动。
+
+## 功能特点
+- **全面覆盖**：涵盖全国300多个城市的各类文化和休闲资源。
+- **详细信息**：每个地点都有详细的介绍，包括地址、开放时间、门票价格等。
+- **地图集成**：集成地图服务，提供导航和位置信息。
+- **用户评论**：用户可以查看和发表评论，分享他们的体验和建议。
+- **搜索和过滤**：强大的搜索和过滤功能，帮助用户快速找到感兴趣的地点。
+- **多语言支持**：支持中文和其他常用语言，方便国际用户使用。
+
+## 技术栈
+- **前端**：VuePress,[vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
+- **地图服务**：Google Maps API 或高德地图 API
+- **部署**：Github Actions,, Netlify
+
 
 ## 许可证
 本项目采用 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 许可证。详情见 [LICENSE](LICENSE) 文件。
