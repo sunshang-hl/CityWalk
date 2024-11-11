@@ -27,13 +27,13 @@ City Walk 是一个开源项目，旨在收集和展示全国300多个城市的�
 # 关于我
 
 ## 基本介绍
-- **姓名**：张三
+- **姓名**：songshu
 - **职业**：财务
 - **地点**：深圳
 - **联系方式**：
   - 电子邮件：hhhelong@gmail.com
-  - GitHub：[zhangsan](https://github.com/sunshang-hl)
-  - Gitee：[zhangsan](https://gitee.com/hhhelong)
+  - GitHub：[songshu](https://github.com/sunshang-hl)
+  - Gitee：[songshu](https://gitee.com/hhhelong)
 
 ## 兴趣爱好
 
