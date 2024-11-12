@@ -1,5 +1,5 @@
 import { defineNavbarConfig } from 'vuepress-theme-plume'
-import { zhSharedNavbar, enSharedNavbar } from '../../../../../shared/config/navbar'
+import { zhSharedNavbar, enSharedNavbar, deSharedNavbar, esSharedNavbar, frSharedNavbar, jaSharedNavbar, ruSharedNavbar, viSharedNavbar, trSharedNavbar, zhTWSharedNavbar } from '../../../../../shared/config/navbar'
 
 export const zhNavbar = defineNavbarConfig([
   { text: '首页', link: '/' },
@@ -112,5 +112,198 @@ export const enNavbar = defineNavbarConfig([
   //   ]
   // },
   ...enSharedNavbar
+])
+
+
+export const deNavbar = defineNavbarConfig([
+  { text: 'Home', link: '/de/' },
+  { text: 'TravelNotes', link: '/de/blog/' },
+
+  {
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  ...deSharedNavbar
+])
+
+
+export const esNavbar = defineNavbarConfig([
+  { text: 'Home', link: '/es/' },
+  { text: 'TravelNotes', link: '/es/blog/' },
+
+  {
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  ...esSharedNavbar
+])
+
+
+export const frNavbar = defineNavbarConfig([
+  { text: 'Home', link: '/fr/' },
+  { text: 'TravelNotes', link: '/fr/blog/' },
+
+  {
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  ...frSharedNavbar
+])
+
+export const jaNavbar = defineNavbarConfig([
+  { text: 'Home', link: '/ja/' },
+  { text: 'TravelNotes', link: '/ja/blog/' },
+
+  {
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  ...jaSharedNavbar
+])
+
+
+
+export const ruNavbar = defineNavbarConfig([
+  { text: 'Home', link: '/ru/' },
+  { text: 'TravelNotes', link: '/ru/blog/' },
+
+  {
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  ...ruSharedNavbar
+])
+
+
+export const trNavbar = defineNavbarConfig([
+  { text: 'Home', link: '/tr/' },
+  { text: 'TravelNotes', link: '/tr/blog/' },
+
+  {
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  ...trSharedNavbar
+])
+
+
+
+export const viNavbar = defineNavbarConfig([
+  { text: 'Home', link: '/vi/' },
+  { text: 'TravelNotes', link: '/vi/blog/' },
+
+  {
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  ...viSharedNavbar
+])
+
+
+export const zhTWNavbar = defineNavbarConfig([
+  { text: 'Home', link: '/zh-TW/' },
+  { text: 'TravelNotes', link: '/zh-TW/blog/' },
+
+  {
+    text: 'Park',
+    items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
+    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
+    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
+
+  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+
+  { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  ...zhTWSharedNavbar
 ])
 

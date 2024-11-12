@@ -1,7 +1,7 @@
 ---
 title: 生物物种栖息地
 createTime: 2024-11-07 00:12:49
-permalink: /en/EcologicalConservation/HabitatOfBiologicalSpecies/
+permalink: /de/EcologicalConservation/QBxn5U2H/
 author: sunshang-hl
 description: xxxx
 ---

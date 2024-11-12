@@ -84,3 +84,120 @@ export const enNotes = defineNotesConfig({
   notes: [enDemoNote],
 })
 
+/* =================== locale: de-DE ======================= */
+
+const deDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const deNotes = defineNotesConfig({
+  dir: 'de/notes',
+  link: '/de/',
+  notes: [deDemoNote],
+})
+
+
+/* =================== locale: es-ES ======================= */
+
+const esDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const esNotes = defineNotesConfig({
+  dir: 'es/notes',
+  link: '/es/',
+  notes: [esDemoNote],
+})
+
+
+/* =================== locale: fr-FR ======================= */
+
+const frDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const frNotes = defineNotesConfig({
+  dir: 'fr/notes',
+  link: '/fr/',
+  notes: [frDemoNote],
+})
+
+/* =================== locale: ja-JP ======================= */
+
+const jaDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const jaNotes = defineNotesConfig({
+  dir: 'ja/notes',
+  link: '/ja/',
+  notes: [frDemoNote],
+})
+
+/* =================== locale: ru-RU ======================= */
+
+const ruDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const ruNotes = defineNotesConfig({
+  dir: 'ru/notes',
+  link: '/ru/',
+  notes: [frDemoNote],
+})
+
+
+/* =================== locale: tr-TR ======================= */
+
+const trDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const trNotes = defineNotesConfig({
+  dir: 'tr/notes',
+  link: '/tr/',
+  notes: [trDemoNote],
+})
+
+
+
+/* =================== locale: vi-VN ======================= */
+
+const viDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const viNotes = defineNotesConfig({
+  dir: 'vi/notes',
+  link: '/vi/',
+  notes: [trDemoNote],
+})
+
+/* =================== locale: zh-TW ======================= */
+
+const zhTWDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const zhTWNotes = defineNotesConfig({
+  dir: 'zh-TW/notes',
+  link: '/zh-TW/',
+  notes: [zhTWDemoNote],
+})
+

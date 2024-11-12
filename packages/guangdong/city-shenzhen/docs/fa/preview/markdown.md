@@ -3,7 +3,7 @@ title: Markdown
 tags:
   - markdown
 createTime: 2024/11/01 16:43:01
-permalink: /en/article/tap781c8/
+permalink: /en/article/IiBuIsy-/
 ---
 
 ## Heading 2
@@ -54,11 +54,11 @@ content right
 - [x] Task List 3
 - [x] Task List 4
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Tables        |      Are      |  Cool |
+| ------------- | :-----------: | ----: |
 | col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 2 is      |   centered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
 
 > quote content
 >

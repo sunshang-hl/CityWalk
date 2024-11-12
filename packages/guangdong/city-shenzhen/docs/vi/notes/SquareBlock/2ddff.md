@@ -1,7 +1,7 @@
 ---
 title: 2ddff
 createTime: 2024/11/07 23:07:50
-permalink: /en/SquareBlock/PhMeqHe8/
+permalink: /vi/SquareBlock/uFac37Uj/
 ---
 ## kkll
 fdasfads

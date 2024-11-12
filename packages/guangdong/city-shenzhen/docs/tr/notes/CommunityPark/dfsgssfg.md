@@ -1,7 +1,7 @@
 ---
 title: dfsgssfg
 createTime: 2024/11/07 22:34:45
-permalink: /en/CommunityPark/sEzQ3Tve/
+permalink: /tr/CommunityPark/2m2IJQTD/
 ---
 fadsfada fadfa fda fasdf sdg
 

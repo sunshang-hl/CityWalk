@@ -1,6 +1,6 @@
 import { defineThemeConfig } from 'vuepress-theme-plume'
-import { enNavbar, zhNavbar } from './navbar'
-import { enNotes, zhNotes } from './notes'
+import { enNavbar, zhNavbar, deNavbar, esNavbar, frNavbar, jaNavbar, ruNavbar, trNavbar, viNavbar, zhTWNavbar } from './navbar'
+import { enNotes, zhNotes, deNotes, esNotes, frNotes, jaNotes, ruNotes, trNotes, viNotes, zhTWNotes } from './notes'
 
 /**
  * @see https://theme-plume.vuejs.press/config/basic/
@@ -58,6 +58,110 @@ export default defineThemeConfig({
 
       navbar: enNavbar,
       notes: enNotes,
+    },
+    '/de/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'City Walk',
+        description: 'city walk with shenzhen',
+        // circle: true,
+        // location: '',
+        // organization: '',
+      },
+
+      navbar: deNavbar,
+      notes: deNotes,
+    },
+    '/es/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'City Walk',
+        description: 'city walk with shenzhen',
+        // circle: true,
+        // location: '',
+        // organization: '',
+      },
+
+      navbar: esNavbar,
+      notes: esNotes,
+    },
+    '/fr/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'City Walk',
+        description: 'city walk with shenzhen',
+        // circle: true,
+        // location: '',
+        // organization: '',
+      },
+
+      navbar: frNavbar,
+      notes: frNotes,
+    },
+    '/ja/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'City Walk',
+        description: 'city walk with shenzhen',
+        // circle: true,
+        // location: '',
+        // organization: '',
+      },
+
+      navbar: jaNavbar,
+      notes: jaNotes,
+    },
+    '/ru/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'City Walk',
+        description: 'city walk with shenzhen',
+        // circle: true,
+        // location: '',
+        // organization: '',
+      },
+
+      navbar: ruNavbar,
+      notes: ruNotes,
+    },
+    '/tr/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'City Walk',
+        description: 'city walk with shenzhen',
+        // circle: true,
+        // location: '',
+        // organization: '',
+      },
+
+      navbar: trNavbar,
+      notes: trNotes,
+    },
+    '/vi/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'City Walk',
+        description: 'city walk with shenzhen',
+        // circle: true,
+        // location: '',
+        // organization: '',
+      },
+
+      navbar: viNavbar,
+      notes: viNotes,
+    },
+    '/zh-TW/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'City Walk',
+        description: 'city walk with shenzhen',
+        // circle: true,
+        // location: '',
+        // organization: '',
+      },
+
+      navbar: zhTWNavbar,
+      notes: zhTWNotes,
     },
   },
 })

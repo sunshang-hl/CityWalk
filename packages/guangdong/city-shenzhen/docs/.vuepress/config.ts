@@ -17,11 +17,126 @@ export default defineUserConfig({
       lang: 'en-US',
       description: 'city walk website ShenZhen',
     },
+    '/de/': {
+      title: 'Stadtspaziergang in Shenzhen',
+      lang: 'de-DE',
+      description: 'city walk website ShenZhen',
+    },
+    '/es/': {
+      title: 'Paseo por la ciudad Shenzhen',
+      lang: 'es-ES',
+      description: 'city walk website ShenZhen',
+    },
+    '/fr/': {
+      title: 'Paseo por la ciudad Shenzhen',
+      lang: 'fr-FR',
+      description: 'city walk website ShenZhen',
+    },
+    '/ja/': {
+      title: '深圳を歩く都市',
+      lang: 'ja-JP',
+      description: '深圳を歩く都市',
+    },
+    '/ru/': {
+      title: 'Прогулка по городу Шэньчжэнь',
+      lang: 'ru-RU',
+      description: 'city walk website ShenZhen',
+    },
+    '/tr/': {
+      title: 'Прогулка по городу Шэньчжэнь',
+      lang: 'tr-TR',
+      description: 'city walk website ShenZhen',
+    },
+    '/vi/': {
+      title: 'Thành phố đi bộ Thâm Quyến',
+      lang: 'vi-VN',
+      description: 'city walk website ShenZhen',
+    },
+    '/zh-TW/': {
+      title: '城市漫步深圳',
+      lang: 'zh-TW',
+      description: 'city walk website ShenZhen',
+    },
   },
 
   bundler: viteBundler(),
 
   theme: plumeTheme({
+    // 主题内的多语言配置
+    locales: {
+      '/': {
+        // 当前语言显示在导航栏多语言下拉菜单的文本
+        selectLanguageName: '简体中文',
+        navbar: [
+          { text: '首页', link: '/' },
+          { text: '博客', link: '/blog/' },
+        ]
+      },
+      '/en/': {
+        selectLanguageName: 'English',
+        navbar: [
+          { text: 'Home', link: '/en/' },
+          { text: 'Blog', link: '/en/blog/' },
+        ]
+      },
+      '/fr/': {
+        selectLanguageName: 'Français',
+        navbar: [
+          { text: 'Accueil', link: '/fr/' },
+          { text: 'Le Blog', link: '/fr/blog/' },
+        ]
+      },
+      '/de/': {
+        selectLanguageName: 'Deutsch',
+        navbar: [
+          { text: 'Accueil', link: '/de/' },
+          { text: 'Le Blog', link: '/de/blog/' },
+        ]
+      },
+      '/es/': {
+        selectLanguageName: 'Español',
+        navbar: [
+          { text: 'Accueil', link: '/es/' },
+          { text: 'Le Blog', link: '/es/blog/' },
+        ]
+      },
+      '/ja/': {
+        selectLanguageName: '日本語',
+        navbar: [
+          { text: 'Accueil', link: '/ja/' },
+          { text: 'Le Blog', link: '/ja/blog/' },
+        ]
+      },
+      '/ru/': {
+        selectLanguageName: 'Русский язык',
+        navbar: [
+          { text: 'Accueil', link: '/ru/' },
+          { text: 'Le Blog', link: '/ru/blog/' },
+        ]
+      },
+      '/tr/': {
+        selectLanguageName: 'Türkçe',
+        navbar: [
+          { text: 'Accueil', link: '/tr/' },
+          { text: 'Le Blog', link: '/tr/blog/' },
+        ]
+      },
+      '/vi/': {
+        selectLanguageName: 'Tiếng Việt',
+        navbar: [
+          { text: 'Accueil', link: '/vi/' },
+          { text: 'Le Blog', link: '/vi/blog/' },
+        ]
+      },
+      '/zh-TW/': {
+        selectLanguageName: '繁体中文',
+        navbar: [
+          { text: 'Accueil', link: '/zh-TW/' },
+          { text: 'Le Blog', link: '/zh-TW/blog/' },
+        ]
+      }
+    },
+
     // 添加您的部署域名
     hostname: 'https://shenzhen.citywalk.group',
 
