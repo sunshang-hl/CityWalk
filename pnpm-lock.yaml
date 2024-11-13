@@ -14,6 +14,9 @@ importers:
       shiki:
         specifier: ^1.22.2
         version: 1.22.2
+      swiper:
+        specifier: ^11.1.14
+        version: 11.1.14
       wait:
         specifier: ^0.4.2
         version: 0.4.2
@@ -29,7 +32,7 @@ importers:
         version: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))
       vuepress-theme-plume:
         specifier: 1.0.0-rc.114
-        version: 1.0.0-rc.114(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
+        version: 1.0.0-rc.114(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(swiper@11.1.14)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
 
   packages/guangdong/city-guangzhou:
     devDependencies:
@@ -50,7 +53,7 @@ importers:
         version: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))
       vuepress-theme-plume:
         specifier: 1.0.0-rc.114
-        version: 1.0.0-rc.114(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
+        version: 1.0.0-rc.114(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(swiper@11.1.14)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
 
   packages/guangdong/city-shenzhen:
     devDependencies:
@@ -71,7 +74,7 @@ importers:
         version: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))
       vuepress-theme-plume:
         specifier: 1.0.0-rc.115
-        version: 1.0.0-rc.115(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
+        version: 1.0.0-rc.115(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(swiper@11.1.14)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
 
   packages/home/city-home:
     devDependencies:
@@ -92,7 +95,7 @@ importers:
         version: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))
       vuepress-theme-plume:
         specifier: 1.0.0-rc.114
-        version: 1.0.0-rc.114(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
+        version: 1.0.0-rc.114(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(swiper@11.1.14)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
 
   plugins/append-date:
     devDependencies:
@@ -2949,6 +2952,10 @@ packages:
   supports-color@8.1.1:
     resolution: {integrity: sha512-MpUEN2OodtUzxvKQl72cUF7RQ5EiHsGvSsVG0ia9c5RbWGL2CI4C7EpPS8UTBIplnlzZiNuV56w+FuNxy3ty2Q==}
     engines: {node: '>=10'}
+
+  swiper@11.1.14:
+    resolution: {integrity: sha512-VbQLQXC04io6AoAjIUWuZwW4MSYozkcP9KjLdrsG/00Q/yiwvhz9RQyt0nHXV10hi9NVnDNy1/wv7Dzq1lkOCQ==}
+    engines: {node: '>= 4.7.0'}
 
   tabbable@6.2.0:
     resolution: {integrity: sha512-Cat63mxsVJlzYvN51JmVXIgNoUokrIaT2zLclCXjRd8boZ0004U4KCs/sToJ75C6sdlByWxpYnb5Boif1VSFew==}
@@ -6473,6 +6480,8 @@ snapshots:
     dependencies:
       has-flag: 4.0.0
 
+  swiper@11.1.14: {}
+
   tabbable@6.2.0: {}
 
   taze@0.18.0:
@@ -6747,7 +6756,7 @@ snapshots:
       - '@vue/composition-api'
       - typescript
 
-  vuepress-theme-plume@1.0.0-rc.114(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))):
+  vuepress-theme-plume@1.0.0-rc.114(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(swiper@11.1.14)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))):
     dependencies:
       '@iconify/utils': 2.1.33
       '@iconify/vue': 4.1.2(vue@3.5.12(typescript@5.6.3))
@@ -6788,6 +6797,7 @@ snapshots:
       vuepress-plugin-md-power: 1.0.0-rc.114(markdown-it@14.1.0)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
     optionalDependencies:
       sass-embedded: 1.80.6
+      swiper: 11.1.14
     transitivePeerDependencies:
       - '@algolia/client-search'
       - '@nuxt/kit'
@@ -6824,7 +6834,7 @@ snapshots:
       - typescript
       - universal-cookie
 
-  vuepress-theme-plume@1.0.0-rc.115(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))):
+  vuepress-theme-plume@1.0.0-rc.115(@algolia/client-search@5.13.0)(markdown-it@14.1.0)(qrcode@1.5.4)(sass-embedded@1.80.6)(search-insights@2.17.2)(swiper@11.1.14)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))):
     dependencies:
       '@iconify/utils': 2.1.33
       '@iconify/vue': 4.1.2(vue@3.5.12(typescript@5.6.3))
@@ -6865,6 +6875,7 @@ snapshots:
       vuepress-plugin-md-power: 1.0.0-rc.115(markdown-it@14.1.0)(typescript@5.6.3)(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.9.0)(jiti@2.4.0)(sass-embedded@1.80.6)(tsx@4.19.2)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
     optionalDependencies:
       sass-embedded: 1.80.6
+      swiper: 11.1.14
     transitivePeerDependencies:
       - '@algolia/client-search'
       - '@nuxt/kit'

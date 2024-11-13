@@ -108,24 +108,6 @@ config:
     type: custom
 ---
 
-<script setup lang="ts">
-  import { ref, onMounted } from 'vue'
-import Swiper from 'vuepress-theme-plume/features/Swiper.vue'
-
-const images = ref([])
-
-async function fetchImage() {
-  const res = await fetch('https://api.pengzhanbo.cn/wallpaper/bing/list/zh/').then((res) => res.json())
-  images.value = res.map(item => ({
-    name: item.title,
-    link: item.url,
-  }))
-}
-
-if (!__VUEPRESS_SSR__) {
-  fetchImage()
-}
-</script>
 
 ### 安装
 
@@ -144,7 +126,6 @@ yarn add vuepress@next vuepress-theme-plume
 ```
 :::
 
-<!-- <Swiper :items="['.vueperss/public/images/th.webp', '.vueperss/public/images/th (1).webp']" /> -->
-<Swiper :items="images" effect="cards" />
+
 
 

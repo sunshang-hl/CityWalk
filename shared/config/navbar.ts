@@ -21,3 +21,95 @@ export const enSharedNavbar = defineNavbarConfig([
     ]
   }
 ])
+
+export const deSharedNavbar = defineNavbarConfig([
+  {
+    text: 'City',
+    items: [
+      { text: 'home', link: 'https://citywalk.gronp' },
+      { text: 'ShenZhen', link: 'https://shenzhen.citywalk.gronp' },
+      { text: 'guangzhou', link: 'https://guangzhou.citywalk.gronp' }
+    ]
+  }
+])
+
+export const esSharedNavbar = defineNavbarConfig([
+  {
+    text: 'City',
+    items: [
+      { text: 'home', link: 'https://citywalk.gronp' },
+      { text: 'ShenZhen', link: 'https://shenzhen.citywalk.gronp' },
+      { text: 'guangzhou', link: 'https://guangzhou.citywalk.gronp' }
+    ]
+  }
+])
+
+
+export const frSharedNavbar = defineNavbarConfig([
+  {
+    text: 'City',
+    items: [
+      { text: 'home', link: 'https://citywalk.gronp' },
+      { text: 'ShenZhen', link: 'https://shenzhen.citywalk.gronp' },
+      { text: 'guangzhou', link: 'https://guangzhou.citywalk.gronp' }
+    ]
+  }
+])
+
+export const jaSharedNavbar = defineNavbarConfig([
+  {
+    text: 'City',
+    items: [
+      { text: 'home', link: 'https://citywalk.gronp' },
+      { text: 'ShenZhen', link: 'https://shenzhen.citywalk.gronp' },
+      { text: 'guangzhou', link: 'https://guangzhou.citywalk.gronp' }
+    ]
+  }
+])
+
+export const ruSharedNavbar = defineNavbarConfig([
+  {
+    text: 'City',
+    items: [
+      { text: 'home', link: 'https://citywalk.gronp' },
+      { text: 'ShenZhen', link: 'https://shenzhen.citywalk.gronp' },
+      { text: 'guangzhou', link: 'https://guangzhou.citywalk.gronp' }
+    ]
+  }
+])
+
+
+export const trSharedNavbar = defineNavbarConfig([
+  {
+    text: 'City',
+    items: [
+      { text: 'home', link: 'https://citywalk.gronp' },
+      { text: 'ShenZhen', link: 'https://shenzhen.citywalk.gronp' },
+      { text: 'guangzhou', link: 'https://guangzhou.citywalk.gronp' }
+    ]
+  }
+])
+
+export const viSharedNavbar = defineNavbarConfig([
+  {
+    text: 'City',
+    items: [
+      { text: 'home', link: 'https://citywalk.gronp' },
+      { text: 'ShenZhen', link: 'https://shenzhen.citywalk.gronp' },
+      { text: 'guangzhou', link: 'https://guangzhou.citywalk.gronp' }
+    ]
+  }
+])
+
+
+
+export const zhTWSharedNavbar = defineNavbarConfig([
+  {
+    text: 'City',
+    items: [
+      { text: 'home', link: 'https://citywalk.gronp' },
+      { text: 'ShenZhen', link: 'https://shenzhen.citywalk.gronp' },
+      { text: 'guangzhou', link: 'https://guangzhou.citywalk.gronp' }
+    ]
+  }
+])
