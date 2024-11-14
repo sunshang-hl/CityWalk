@@ -137,6 +137,21 @@ export default defineUserConfig({
       }
     },
 
+    bulletin: {
+      layout: 'bottom-right',
+      title: '公告板标题',
+      enablePage: true,
+      lifetime: 'always',
+      contentType: 'markdown',
+      content: `\
+**更新说明**
+
+- 新增了一些功能
+- 修复了一些 bug
+`,
+
+    },
+
     // 添加您的部署域名
     hostname: 'https://shenzhen.citywalk.group',
 

@@ -60,7 +60,11 @@ export const zhNavbar = defineNavbarConfig([
   //   ]
   // },
   { text: '专项', link: '/notes/专项/README.md' },
-  { text: '导航', link: '/site-map/' },
+  {
+    text: '深圳',
+    icon: 'icon-park-outline:guide-board',
+    link: '/site-map/'
+  },
   // {
   //   text: '专项',
   //   items: [{ text: '骑行&绿道', link: '/notes/Cycling&Greenway/README.md' },
