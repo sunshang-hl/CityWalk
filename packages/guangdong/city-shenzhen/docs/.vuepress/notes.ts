@@ -2,11 +2,11 @@ import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
 
 /* =================== locale: zh-CN ======================= */
 
-const zhDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
-})
+// const zhDemoNote = defineNoteConfig({
+//   dir: 'demo',
+//   link: '/demo',
+//   sidebar: ['', 'foo', 'bar'],
+// })
 
 const 社区公园 = defineNoteConfig({
   dir: '社区公园',
@@ -66,7 +66,7 @@ const 游园 = defineNoteConfig({
 export const zhNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [zhDemoNote, 社区公园, 综合公园, 生态保育绿地, 风景休憩绿地,
+  notes: [社区公园, 综合公园, 生态保育绿地, 风景休憩绿地,
     博物和图书馆, Other, 专类公园, 广场和街区, 游园],
 })
 
@@ -195,9 +195,72 @@ const zhTWDemoNote = defineNoteConfig({
   sidebar: ['', 'foo', 'bar'],
 })
 
+const 社區公園 = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
+})
+
+const 綜合公園 = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+// const 生态保育绿地 = defineNoteConfig({
+//   dir: '生态保育绿地',
+//   link: '/EcologicalConservation',
+//   sidebar: 'auto',
+// })
+
+const 風景休憩綠地 = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const 博物館和圖書館 = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const 幣場和街區 = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const 其他 = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
+})
+
+const 專類公園 = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+
+const 遊園 = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
 export const zhTWNotes = defineNotesConfig({
-  dir: 'zh-TW/notes',
-  link: '/zh-TW/',
-  notes: [zhTWDemoNote],
+  dir: 'notes',
+  link: '/',
+  notes: [社區公園, 綜合公園, 生态保育绿地, 風景休憩綠地,
+    博物館和圖書館, 專類公園, 幣場和街區, 遊園, 其他],
+
+  // export const zhTWNotes = defineNotesConfig({
+  //   dir: 'zh-TW/notes',
+  //   link: '/zh-TW/',
+  //   notes: [zhTWDemoNote],
+
+
 })
 
