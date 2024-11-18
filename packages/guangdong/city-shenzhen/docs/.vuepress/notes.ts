@@ -144,47 +144,175 @@ export const jaNotes = defineNotesConfig({
 
 /* =================== locale: ru-RU ======================= */
 
-const ruDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+const ПаркOбщины = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
+})
+
+const ПаркКомплексный = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+const ПаркСпециализированный = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+const ЭкскурсияПоCаду = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+const ЛандшафтнаяЭонаOтдыха = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const МузейБиблиотека = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const Квадратблок = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const Другое = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
 })
 
 export const ruNotes = defineNotesConfig({
   dir: 'ru/notes',
   link: '/ru/',
-  notes: [frDemoNote],
+  notes: [ПаркOбщины, ПаркКомплексный, ПаркСпециализированный, ЭкскурсияПоCаду, ЛандшафтнаяЭонаOтдыха,
+    МузейБиблиотека, Квадратблок, Другое],
 })
 
 
 /* =================== locale: tr-TR ======================= */
 
-const trDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+const ToplulukPark = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
 })
+
+const KapsamlıPark = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+const UzmanlaşmışParklar = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+const BahçeTuru = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+const ManzaralıYeşilAlan = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const MüzeKütüphane = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const KareBlok = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const Diğer = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
+})
+
 
 export const trNotes = defineNotesConfig({
   dir: 'tr/notes',
   link: '/tr/',
-  notes: [trDemoNote],
+  notes: [ToplulukPark, KapsamlıPark, UzmanlaşmışParklar, BahçeTuru, ManzaralıYeşilAlan, MüzeKütüphane, KareBlok, Diğer],
 })
-
 
 
 /* =================== locale: vi-VN ======================= */
 
-const viDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+const CôngViênCộngDồng = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
+})
+
+const CôngViênTổngHợp = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+const CôngViênChuyênBiệt = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+const ThamQuanVườn = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+const KhuVựcXanhNghỉNgơiCảnhQuan = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const BảoTàngThưViện = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const QuảngTrườngKhuPhố = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const Khác = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
 })
 
 export const viNotes = defineNotesConfig({
   dir: 'vi/notes',
   link: '/vi/',
-  notes: [trDemoNote],
+  notes: [CôngViênCộngDồng, CôngViênTổngHợp, CôngViênChuyênBiệt, ThamQuanVườn,
+    KhuVựcXanhNghỉNgơiCảnhQuan, BảoTàngThưViện, QuảngTrườngKhuPhố, Khác],
 })
 
 /* =================== locale: zh-TW ======================= */
@@ -251,16 +379,9 @@ const 遊園 = defineNoteConfig({
 })
 
 export const zhTWNotes = defineNotesConfig({
-  dir: 'notes',
-  link: '/',
+  dir: 'zh-TW/notes',
+  link: '/zh-TW',
   notes: [社區公園, 綜合公園, 生态保育绿地, 風景休憩綠地,
     博物館和圖書館, 專類公園, 幣場和街區, 遊園, 其他],
-
-  // export const zhTWNotes = defineNotesConfig({
-  //   dir: 'zh-TW/notes',
-  //   link: '/zh-TW/',
-  //   notes: [zhTWDemoNote],
-
-
 })
 

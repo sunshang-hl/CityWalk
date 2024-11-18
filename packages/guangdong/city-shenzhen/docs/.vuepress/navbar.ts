@@ -233,8 +233,8 @@ export const ruNavbar = defineNavbarConfig([
   },
 
 
-  { text: 'Квадрат&блок', link: '/ru/notes/Square&Block/README.md' },
-  { text: 'Музей&Библиотека', link: '/ru/notes/Museum&Library/README.md' },
+  { text: 'Квадрат&блок', link: '/ru/notes/SquareBlock/README.md' },
+  { text: 'Музей&Библиотека', link: '/ru/notes/MuseumLibrary/README.md' },
   { text: 'Другое', link: '/ru/notes/Other/README.md' },
 
   ...ruSharedNavbar
@@ -255,8 +255,8 @@ export const trNavbar = defineNavbarConfig([
   },
 
   { text: 'Manzaralı yeşil alan', link: '/tr/notes/LandscapeLeisureGreenSpace/README.md' },
-  { text: 'Kare&blok', link: '/tr/notes/Square&Block/README.md' },
-  { text: 'Müze&Kütüphane', link: '/tr/notes/Museum&Library/README.md' },
+  { text: 'Kare&blok', link: '/tr/notes/SquareBlock/README.md' },
+  { text: 'Müze&Kütüphane', link: '/tr/notes/MuseumLibrary/README.md' },
   { text: 'diğer', link: '/tr/notes/Other/README.md' },
 
   ...trSharedNavbar
@@ -265,22 +265,22 @@ export const trNavbar = defineNavbarConfig([
 
 
 export const viNavbar = defineNavbarConfig([
-  { text: 'Trang chủ', link: '/vi/' },
-  { text: 'Nhật ký du lịch', link: '/vi/blog/' },
+  { text: 'TrangDhủ', link: '/vi/' },
+  { text: 'NhậtKýDuLịch', link: '/vi/blog/' },
 
   {
-    text: 'Công viên',
-    items: [{ text: 'Công viên tổng hợp', link: '/vi/notes/ComprehensivePark/README.md' },
-    { text: 'Công viên cộng đồng', link: '/vi/notes/CommunityPark/README.md' },
-    { text: 'Công viên chuyên biệt', link: '/vi/notes/SpecializedPark/README.md' },
+    text: 'CôngViên',
+    items: [{ text: 'CôngViênTổngHợp', link: '/vi/notes/ComprehensivePark/README.md' },
+    { text: 'CôngViênCộngDồng', link: '/vi/notes/CommunityPark/README.md' },
+    { text: 'CôngViênChuyênBiệt', link: '/vi/notes/SpecializedPark/README.md' },
     { text: 'Khu vực xanh nghỉ ngơi cảnh quan', link: '/vi/notes/LandscapeLeisureGreenSpace/README.md' },
     { text: 'Tham quan vườn', link: '/vi/notes/TravellingGarden/README.md' },
     ]
   },
 
 
-  { text: 'Quảng trường&Khu phố', link: '/vi/notes/Square&Block/README.md' },
-  { text: 'Bảo tàng&Thư viện', link: '/vi/notes/Museum&Library/README.md' },
+  { text: 'QuảngTrường&KhuPhố', link: '/vi/notes/SquareBlock/README.md' },
+  { text: 'BảoTàng&ThưViện', link: '/vi/notes/MuseumLibrary/README.md' },
   { text: 'Khác', link: '/vi/notes/Other/README.md' },
 
   ...viSharedNavbar
