@@ -18,28 +18,30 @@ export const zhNavbar = defineNavbarConfig([
     text: '公园',
     items: [{ text: '综合公园', link: '/notes/综合公园/README.md' },
     { text: '社区公园', link: '/notes/社区公园/README.md' },
-    { text: '专类公园', link: '/notes/专类公园/README.md' },
-    // {
-    //   text: '专类公园',
-    //   items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
-    //   { text: '植物园', link: '/notes/SpecializedPark/BotanicalGarden/README.md' },
-    //   { text: '历史名园', link: '/notes/SpecializedPark/HistoricGarden/README.md' },
-    //   { text: '遗址公园', link: '/notes/SpecializedPark/HeritagePark/README.md' },
-    //   { text: '游乐公园', link: '/notes/SpecializedPark/FunParks/README.md' },
-    //   { text: '儿童公园', link: '/notes/SpecializedPark/ChildrenPark/README.md' },
-    //   { text: '体育健身公园', link: '/notes/SpecializedPark/Sports&Fitness/README.md' },
-    //   { text: '滨水公园', link: '/notes/SpecializedPark/WaterfrontPark/README.md' },
-    //   { text: '纪念性公园', link: '/notes/SpecializedPark/CommemorativePark/README.md' },
-    //   { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
-    //   ]
-    // },
+    // { text: '专类公园', link: '/notes/专类公园/README.md' },
+
     { text: '游园', link: '/notes/游园/README.md' },
+    ]
+  },
+  {
+    text: '专类公园',
+    items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
+    { text: '植物园', link: '/notes/SpecializedPark/BotanicalGarden/README.md' },
+    { text: '历史名园', link: '/notes/SpecializedPark/HistoricGarden/README.md' },
+    { text: '遗址公园', link: '/notes/SpecializedPark/HeritagePark/README.md' },
+    { text: '游乐公园', link: '/notes/SpecializedPark/FunParks/README.md' },
+    { text: '儿童公园', link: '/notes/SpecializedPark/ChildrenPark/README.md' },
+    { text: '体育健身公园', link: '/notes/SpecializedPark/Sports&Fitness/README.md' },
+    { text: '滨水公园', link: '/notes/SpecializedPark/WaterfrontPark/README.md' },
+    { text: '纪念性公园', link: '/notes/SpecializedPark/CommemorativePark/README.md' },
+    { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
     ]
   },
 
   // { text: '游园', link: '/notes/TravellingGarden/README.md' },
-  { text: '广场/街区', link: '/notes/广场&街区/README.md' },
   { text: '风景休憩绿地', link: '/notes/风景休憩绿地/README.md' },
+  { text: '广场/街区', link: '/notes/广场&街区/README.md' },
+
   // {
   //   text: '风景休憩绿地',
   //   items: [{ text: '风景名胜区', link: '/notes/ScenicAttraction/README.md' },
@@ -99,10 +101,8 @@ export const enNavbar = defineNavbarConfig([
     ]
   },
 
-
-  { text: 'Square&Block', link: '/en/notes/Square&Block/README.md' },
-
-  { text: 'Museum&Library', link: '/en/notes/Museum&Library/README.md' },
+  { text: 'Square&Block', link: '/en/notes/SquareBlock/README.md' },
+  { text: 'Museum&Library', link: '/en/notes/MuseumLibrary/README.md' },
   // {
   //   text: 'Ecological Conservation Green Space',
   //   items: [{ text: 'Natural Reserve', link: '/en/notes/NaturalReserve/README.md' },
@@ -141,11 +141,8 @@ export const deNavbar = defineNavbarConfig([
     ]
   },
 
-
-  { text: 'Quadrat/Block', link: '/de/notes/Square&Block/README.md' },
-
-  { text: 'Museum&Bibliothek', link: '/de/notes/Museum&Library/README.md' },
-
+  { text: 'Quadrat/Block', link: '/de/notes/SquareBlock/README.md' },
+  { text: 'Museum&Bibliothek', link: '/de/notes/MuseumLibrary/README.md' },
   { text: 'Sonstiges', link: '/de/notes/Other/README.md' },
 
   ...deSharedNavbar
@@ -165,8 +162,8 @@ export const esNavbar = defineNavbarConfig([
     { text: 'Visita al jardín', link: '/es/notes/TravellingGarden/README.md' },
     ]
   },
-  { text: 'Plaza&Barrio', link: '/es/notes/Square&Block/README.md' },
-  { text: 'Museo&Biblioteca', link: '/es/notes/Museum&Library/README.md' },
+  { text: 'Plaza&Barrio', link: '/es/notes/SquareBlock/README.md' },
+  { text: 'Museo&Biblioteca', link: '/es/notes/MuseumLibrary/README.md' },
   { text: 'Otro', link: '/es/notes/Other/README.md' },
 
   ...esSharedNavbar
@@ -186,8 +183,8 @@ export const frNavbar = defineNavbarConfig([
     { text: 'Visite du jardin', link: '/fr/notes/TravellingGarden/README.md' },
     ]
   },
-  { text: 'Carré&bloc', link: '/fr/notes/Square&Block/README.md' },
-  { text: 'Musée&Bibliothèque', link: '/fr/notes/Museum&Library/README.md' },
+  { text: 'Carré&bloc', link: '/fr/notes/SquareBlock/README.md' },
+  { text: 'Musée&Bibliothèque', link: '/fr/notes/MuseumLibrary/README.md' },
   { text: 'Autre', link: '/fr/notes/Other/README.md' },
 
   ...frSharedNavbar
@@ -201,16 +198,31 @@ export const jaNavbar = defineNavbarConfig([
     text: '公園',
     items: [{ text: '総合公園', link: '/ja/notes/ComprehensivePark/README.md' },
     { text: '地域公園', link: '/ja/notes/CommunityPark/README.md' },
-    { text: '専門公園', link: '/ja/notes/SpecializedPark/README.md' },
+    // { text: '専門公園', link: '/ja/notes/SpecializedPark/README.md' },
     { text: '庭園ツアー ', link: '/ja/notes/TravellingGarden/README.md' },
     ]
   },
 
+  {
+    text: '専門公園',
+    items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
+    { text: '植物园', link: '/notes/SpecializedPark/BotanicalGarden/README.md' },
+    { text: '历史名园', link: '/notes/SpecializedPark/HistoricGarden/README.md' },
+    { text: '遗址公园', link: '/notes/SpecializedPark/HeritagePark/README.md' },
+    { text: '游乐公园', link: '/notes/SpecializedPark/FunParks/README.md' },
+    { text: '儿童公园', link: '/notes/SpecializedPark/ChildrenPark/README.md' },
+    { text: '体育健身公园', link: '/notes/SpecializedPark/Sports&Fitness/README.md' },
+    { text: '滨水公园', link: '/notes/SpecializedPark/WaterfrontPark/README.md' },
+    { text: '纪念性公园', link: '/notes/SpecializedPark/CommemorativePark/README.md' },
+    { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
+    ]
+  },
+
   { text: '風景休息緑地', link: '/ja/notes/LandscapeLeisureGreenSpace/README.md' },
-  { text: '広場&街区', link: '/ja/notes/Square&Block/README.md' },
+  { text: '広場&街区', link: '/ja/notes/SquareBlock/README.md' },
 
   {
-    text: '博物館&図書館', link: '/ja/notes/Museum&Library/README.md'
+    text: '博物館&図書館', link: '/ja/notes/MuseumLibrary/README.md'
   },
 
   { text: 'その他', link: '/ja/notes/Other/README.md' },
@@ -220,15 +232,15 @@ export const jaNavbar = defineNavbarConfig([
 
 export const ruNavbar = defineNavbarConfig([
   { text: 'Главная', link: '/ru/' },
-  { text: 'Путевые заметки', link: '/ru/blog/' },
+  { text: 'ПутевыеЭаметки', link: '/ru/blog/' },
 
   {
     text: 'Парк',
-    items: [{ text: 'Комплексный парк', link: '/ru/notes/ComprehensivePark/README.md' },
+    items: [{ text: 'Комплексный Парк', link: '/ru/notes/ComprehensivePark/README.md' },
     { text: 'Парк общины', link: '/ru/notes/CommunityPark/README.md' },
-    { text: 'Специализированный парк', link: '/ru/notes/SpecializedPark/README.md' },
-    { text: 'Ландшафтная зона отдыха', link: '/ru/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Экскурсия по саду', link: '/ru/notes/TravellingGarden/README.md' },
+    { text: 'Специализированный Парк', link: '/ru/notes/SpecializedPark/README.md' },
+    { text: 'Ландшафтная Эона отдыха', link: '/ru/notes/LandscapeLeisureGreenSpace/README.md' },
+    { text: 'Экскурсия По Саду', link: '/ru/notes/TravellingGarden/README.md' },
     ]
   },
 
@@ -243,26 +255,25 @@ export const ruNavbar = defineNavbarConfig([
 
 export const trNavbar = defineNavbarConfig([
   { text: 'Anasayfa', link: '/tr/' },
-  { text: 'Seyahat notları', link: '/tr/blog/' },
+  { text: 'SeyahatNotları', link: '/tr/blog/' },
 
   {
-    text: 'bahçe',
-    items: [{ text: 'kapsamlı park', link: '/tr/notes/ComprehensivePark/README.md' },
-    { text: 'topluluk parkı', link: '/tr/notes/CommunityPark/README.md' },
-    { text: 'Özel parklar', link: '/tr/notes/SpecializedPark/README.md' },
-    { text: 'Bahçe turu', link: '/tr/notes/TravellingGarden/README.md' },
+    text: 'Park',
+    items: [{ text: 'Kapsamlı Park', link: '/tr/notes/ComprehensivePark/README.md' },
+    { text: 'Topluluk Parkı', link: '/tr/notes/CommunityPark/README.md' },
+    { text: 'Özel Parkı', link: '/tr/notes/SpecializedPark/README.md' },
+    { text: 'Manzaralı Yeşil Alan', link: '/tr/notes/LandscapeLeisureGreenSpace/README.md' },
+    { text: 'Bahçe Turu', link: '/tr/notes/TravellingGarden/README.md' },
     ]
   },
 
-  { text: 'Manzaralı yeşil alan', link: '/tr/notes/LandscapeLeisureGreenSpace/README.md' },
+
   { text: 'Kare&blok', link: '/tr/notes/SquareBlock/README.md' },
   { text: 'Müze&Kütüphane', link: '/tr/notes/MuseumLibrary/README.md' },
-  { text: 'diğer', link: '/tr/notes/Other/README.md' },
+  { text: 'Diğer', link: '/tr/notes/Other/README.md' },
 
   ...trSharedNavbar
 ])
-
-
 
 export const viNavbar = defineNavbarConfig([
   { text: 'TrangDhủ', link: '/vi/' },
@@ -295,8 +306,23 @@ export const zhTWNavbar = defineNavbarConfig([
     text: '公園',
     items: [{ text: '綜合公園', link: '/zh-TW/notes/ComprehensivePark/README.md' },
     { text: '社區公園', link: '/zh-TW/notes/CommunityPark/README.md' },
-    { text: '專類公園', link: '/zh-TW/notes/SpecializedPark/README.md' },
+    // { text: '專類公園', link: '/zh-TW/notes/SpecializedPark/README.md' },
     { text: '遊園', link: '/zh-TW/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+  {
+    text: '專類公園',
+    items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
+    { text: '植物园', link: '/notes/SpecializedPark/BotanicalGarden/README.md' },
+    { text: '历史名园', link: '/notes/SpecializedPark/HistoricGarden/README.md' },
+    { text: '遗址公园', link: '/notes/SpecializedPark/HeritagePark/README.md' },
+    { text: '游乐公园', link: '/notes/SpecializedPark/FunParks/README.md' },
+    { text: '儿童公园', link: '/notes/SpecializedPark/ChildrenPark/README.md' },
+    { text: '体育健身公园', link: '/notes/SpecializedPark/Sports&Fitness/README.md' },
+    { text: '滨水公园', link: '/notes/SpecializedPark/WaterfrontPark/README.md' },
+    { text: '纪念性公园', link: '/notes/SpecializedPark/CommemorativePark/README.md' },
+    { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
     ]
   },
 

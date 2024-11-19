@@ -2,11 +2,11 @@ import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
 
 /* =================== locale: zh-CN ======================= */
 
-// const zhDemoNote = defineNoteConfig({
-//   dir: 'demo',
-//   link: '/demo',
-//   sidebar: ['', 'foo', 'bar'],
-// })
+const 综合公园 = defineNoteConfig({
+  dir: '综合公园',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
 
 const 社区公园 = defineNoteConfig({
   dir: '社区公园',
@@ -14,11 +14,32 @@ const 社区公园 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const 综合公园 = defineNoteConfig({
-  dir: '综合公园',
-  link: '/ComprehensivePark',
+
+const 游园 = defineNoteConfig({
+  dir: '游园',
+  link: '/TravellingGarden',
   sidebar: 'auto',
 })
+
+const 动物园 = defineNoteConfig({
+  dir: '动物园',
+  link: '/SpecializedPark/Zoo',
+  sidebar: 'auto',
+})
+
+const 植物园 = defineNoteConfig({
+  dir: '植物园',
+  link: '/SpecializedPark/BotanicalGarden',
+  sidebar: 'auto',
+})
+
+
+const 历史名园 = defineNoteConfig({
+  dir: '历史名园',
+  link: '/SpecializedPark/HistoricGarden',
+  sidebar: 'auto',
+})
+
 
 const 生态保育绿地 = defineNoteConfig({
   dir: '生态保育绿地',
@@ -44,7 +65,7 @@ const 广场和街区 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const Other = defineNoteConfig({
+const 专项 = defineNoteConfig({
   dir: '专项',
   link: '/Other',
   sidebar: 'auto',
@@ -57,89 +78,302 @@ const 专类公园 = defineNoteConfig({
 })
 
 
-const 游园 = defineNoteConfig({
-  dir: '游园',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
+
 
 export const zhNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
   notes: [社区公园, 综合公园, 生态保育绿地, 风景休憩绿地,
-    博物和图书馆, Other, 专类公园, 广场和街区, 游园],
+    博物和图书馆, 专项, 专类公园, 广场和街区, 游园, 动物园, 历史名园, 植物园],
 })
 
 /* =================== locale: en-US ======================= */
 
-const enDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+const CommunityPark = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
 })
+
+const ComprehensivePark = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+const SpecializedPark = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+const TravellingGarden = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+const LandscapeLeisureGreenSpace = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const MuseumLibrary = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const SquareBlock = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const Other = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
+})
+
 
 export const enNotes = defineNotesConfig({
   dir: 'en/notes',
   link: '/en/',
-  notes: [enDemoNote],
+  notes: [CommunityPark, ComprehensivePark, SpecializedPark, TravellingGarden, LandscapeLeisureGreenSpace,
+    MuseumLibrary, SquareBlock, Other],
 })
 
 /* =================== locale: de-DE ======================= */
 
-const deDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+const GemeindePark = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
 })
+
+const UmfassenderPark = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+const SpezialPark = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+const Gartentour = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+const LandschaftlicherErholungsraum = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const MuseumBibliothek = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const QuadratBlock = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const Sonstiges = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
+})
+
 
 export const deNotes = defineNotesConfig({
   dir: 'de/notes',
   link: '/de/',
-  notes: [deDemoNote],
+  notes: [GemeindePark, UmfassenderPark, SpezialPark, Gartentour, LandschaftlicherErholungsraum,
+    MuseumBibliothek, QuadratBlock, Sonstiges],
 })
 
 
 /* =================== locale: es-ES ======================= */
 
-const esDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+const ParqueComunitario = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
 })
+
+const ParqueIntegral = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+const ParqueEspecializado = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+const VisitaAlJardín = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+const EspacioVerdeDeDescansoEscénico = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const MuseoBiblioteca = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const PlazaBarrio = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const Otro = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
+})
+
 
 export const esNotes = defineNotesConfig({
   dir: 'es/notes',
   link: '/es/',
-  notes: [esDemoNote],
+  notes: [ParqueComunitario, ParqueIntegral, ParqueEspecializado, VisitaAlJardín, EspacioVerdeDeDescansoEscénico,
+    MuseoBiblioteca, PlazaBarrio, Otro],
 })
 
 
 /* =================== locale: fr-FR ======================= */
 
-const frDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+const ParcCommunautaire = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
+})
+
+const ParcOmnisports = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+const ParcSpécialisé = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+const VisiteDuJardin = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+const EspaceVertDeReposPittoresque = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const MuséeBibliothèque = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const CarréBloc = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const Autre = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
 })
 
 export const frNotes = defineNotesConfig({
   dir: 'fr/notes',
   link: '/fr/',
-  notes: [frDemoNote],
+  notes: [ParcCommunautaire, ParcOmnisports, ParcSpécialisé, VisiteDuJardin,
+    EspaceVertDeReposPittoresque, MuséeBibliothèque, CarréBloc, Autre],
 })
 
 /* =================== locale: ja-JP ======================= */
 
-const jaDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+const 地域公園 = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
+})
+
+const 総合公園 = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+const 専門公園 = defineNoteConfig({
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
+const 庭園ツアー = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+const 風景休息緑地 = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const 博物館和図書館 = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const 広場和街区 = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const その他 = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
 })
 
 export const jaNotes = defineNotesConfig({
   dir: 'ja/notes',
   link: '/ja/',
-  notes: [frDemoNote],
+  notes: [地域公園, 総合公園, 専門公園, 風景休息緑地, 博物館和図書館, その他, 広場和街区, 風景休息緑地, 庭園ツアー],
 })
 
 /* =================== locale: ru-RU ======================= */

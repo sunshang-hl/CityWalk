@@ -17,14 +17,16 @@ export default defineThemeConfig({
     { icon: 'github', link: 'https://github.com/sunshang-hl/CityWalk' },
     { icon: 'qq', link: 'https://txc.qq.com/products/674896' },
   ],
-  navbarSocialInclude: ['github', 'qq'],
+  navbarSocialInclude: ['github'],
 
   profile: {
     avatar: '/plume.png',
     name: '城市漫步-深圳 CityWalk ',
-    description: '这是收集深圳所有公园绿地、郊野公园、社区公园的地图，我将记录走完鲲鹏径200KM，记录走遍莲花山、笔架山、梧桐山、凤凰山、马峦山的每一个峰。',
+    description: '这是收集深圳所有公园绿地、郊野公园、社区公园的地图,我将记录走完鲲鹏径200KM,记录走遍莲花山、笔架山、梧桐山、凤凰山、马峦山的每一个峰。',
     location: 'shenzhen, China',
     organization: 'sunshang-hl',
+    layout: 'right',
+    circle: true,
   },
 
   footer: {
@@ -36,8 +38,8 @@ export default defineThemeConfig({
     '/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'City Walk',
-        description: 'city walk with shenzhen',
+        name: '城市漫步',
+        description: '城市漫步-深圳 CityWalk ',
         // circle: true,
         // location: '',
         // organization: '',
@@ -62,8 +64,8 @@ export default defineThemeConfig({
     '/de/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'City Walk',
-        description: 'city walk with shenzhen',
+        name: 'Stadtspaziergang',
+        description: 'Stadtspaziergang  Shenzhen',
         // circle: true,
         // location: '',
         // organization: '',
@@ -75,8 +77,8 @@ export default defineThemeConfig({
     '/es/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'City Walk',
-        description: 'city walk with shenzhen',
+        name: 'Paseo por la ciudad',
+        description: 'paseo por la ciudad de Shenzhen',
         // circle: true,
         // location: '',
         // organization: '',
@@ -88,8 +90,8 @@ export default defineThemeConfig({
     '/fr/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'City Walk',
-        description: 'city walk with shenzhen',
+        name: 'Promenade en ville',
+        description: 'Promenade en ville à Shenzhen',
         // circle: true,
         // location: '',
         // organization: '',
@@ -102,7 +104,7 @@ export default defineThemeConfig({
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
         name: 'City Walk',
-        description: 'city walk with shenzhen',
+        description: '深センの街歩き',
         // circle: true,
         // location: '',
         // organization: '',
@@ -114,8 +116,8 @@ export default defineThemeConfig({
     '/ru/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'City Walk',
-        description: 'city walk with shenzhen',
+        name: 'прогулка по городу',
+        description: 'Прогулка по городу в Шэньчжэне',
         // circle: true,
         // location: '',
         // organization: '',
@@ -127,8 +129,8 @@ export default defineThemeConfig({
     '/tr/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'City Walk',
-        description: 'city walk with shenzhen',
+        name: 'şehir yürüyüşü',
+        description: 'Shenzhen de bir şehir yürüyüşü',
         // circle: true,
         // location: '',
         // organization: '',
@@ -140,8 +142,8 @@ export default defineThemeConfig({
     '/vi/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'City Walk',
-        description: 'city walk with shenzhen',
+        name: 'đi dạo trong thành phố',
+        description: 'Một chuyến đi dạo trong thành phố Thâm Quyến',
         // circle: true,
         // location: '',
         // organization: '',
@@ -153,8 +155,8 @@ export default defineThemeConfig({
     '/zh-TW/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'City Walk',
-        description: 'city walk with shenzhen',
+        name: '城市漫步',
+        description: '在深圳城市漫步',
         // circle: true,
         // location: '',
         // organization: '',

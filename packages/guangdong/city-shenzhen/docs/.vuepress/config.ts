@@ -18,9 +18,9 @@ export default defineUserConfig({
       description: 'city walk website ShenZhen',
     },
     '/de/': {
-      title: 'Stadtspaziergang in Shenzhen',
+      title: 'Stadtspaziergang Shenzhen',
       lang: 'de-DE',
-      description: 'city walk website ShenZhen',
+      description: 'Stadtspaziergang Shenzhen',
     },
     '/es/': {
       title: 'Paseo por la ciudad Shenzhen',
@@ -48,12 +48,12 @@ export default defineUserConfig({
       description: 'city walk website ShenZhen',
     },
     '/vi/': {
-      title: 'Thành phố đi bộ Thâm Quyến',
+      title: 'Thâm Quyến đi dạo trong thành phố',
       lang: 'vi-VN',
       description: 'city walk website ShenZhen',
     },
     '/zh-TW/': {
-      title: '城市漫步深圳',
+      title: '城市漫步-深圳',
       lang: 'zh-TW',
       description: 'city walk website ShenZhen',
     },
