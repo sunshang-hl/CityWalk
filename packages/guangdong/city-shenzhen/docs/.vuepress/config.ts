@@ -91,50 +91,50 @@ export default defineUserConfig({
       '/de/': {
         selectLanguageName: 'Deutsch',
         navbar: [
-          { text: 'Accueil', link: '/de/' },
-          { text: 'Le Blog', link: '/de/blog/' },
+          { text: 'Startseite', link: '/de/' },
+          { text: 'Blog', link: '/de/blog/' },
         ]
       },
       '/es/': {
         selectLanguageName: 'Español',
         navbar: [
-          { text: 'Accueil', link: '/es/' },
-          { text: 'Le Blog', link: '/es/blog/' },
+          { text: 'Página principal', link: '/es/' },
+          { text: 'Blog', link: '/es/blog/' },
         ]
       },
       '/ja/': {
         selectLanguageName: '日本語',
         navbar: [
-          { text: 'Accueil', link: '/ja/' },
-          { text: 'Le Blog', link: '/ja/blog/' },
+          { text: 'ホーム', link: '/ja/' },
+          { text: 'ブログ', link: '/ja/blog/' },
         ]
       },
       '/ru/': {
         selectLanguageName: 'Русский язык',
         navbar: [
-          { text: 'Accueil', link: '/ru/' },
-          { text: 'Le Blog', link: '/ru/blog/' },
+          { text: 'Главная', link: '/ru/' },
+          { text: 'блог', link: '/ru/blog/' },
         ]
       },
       '/tr/': {
         selectLanguageName: 'Türkçe',
         navbar: [
-          { text: 'Accueil', link: '/tr/' },
-          { text: 'Le Blog', link: '/tr/blog/' },
+          { text: 'Anasayfa', link: '/tr/' },
+          { text: 'Blog', link: '/tr/blog/' },
         ]
       },
       '/vi/': {
         selectLanguageName: 'Tiếng Việt',
         navbar: [
-          { text: 'Accueil', link: '/vi/' },
-          { text: 'Le Blog', link: '/vi/blog/' },
+          { text: 'Trang chủ', link: '/vi/' },
+          { text: 'Blog', link: '/vi/blog/' },
         ]
       },
       '/zh-TW/': {
         selectLanguageName: '繁体中文',
         navbar: [
-          { text: 'Accueil', link: '/zh-TW/' },
-          { text: 'Le Blog', link: '/zh-TW/blog/' },
+          { text: '首頁', link: '/zh-TW/' },
+          { text: '博客', link: '/zh-TW/blog/' },
         ]
       }
     },
