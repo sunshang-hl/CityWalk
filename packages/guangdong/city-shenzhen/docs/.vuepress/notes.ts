@@ -20,7 +20,7 @@ const 游园 = defineNoteConfig({
   link: '/TravellingGarden',
   sidebar: 'auto',
 })
-
+/// 专类公园
 const 动物园 = defineNoteConfig({
   dir: '动物园',
   link: '/SpecializedPark/Zoo',
@@ -33,14 +33,56 @@ const 植物园 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-
 const 历史名园 = defineNoteConfig({
   dir: '历史名园',
   link: '/SpecializedPark/HistoricGarden',
   sidebar: 'auto',
 })
 
+const 遗址公园 = defineNoteConfig({
+  dir: '遗址公园',
+  link: '/SpecializedPark/HeritagePark',
+  sidebar: 'auto',
+})
 
+const 游乐公园 = defineNoteConfig({
+  dir: '游乐公园',
+  link: '/SpecializedPark/FunParks',
+  sidebar: 'auto',
+})
+
+const 儿童公园 = defineNoteConfig({
+  dir: '儿童公园',
+  link: '/SpecializedPark/ChildrenPark',
+  sidebar: 'auto',
+})
+
+const 体育健身公园 = defineNoteConfig({
+  dir: '体育健身公园',
+  link: '/SpecializedPark/Sports&Fitness',
+  sidebar: 'auto',
+})
+
+const 滨水公园 = defineNoteConfig({
+  dir: '滨水公园',
+  link: '/SpecializedPark/WaterFrontPark',
+  sidebar: 'auto',
+})
+
+const 纪念性公园 = defineNoteConfig({
+  dir: '纪念性公园',
+  link: '/SpecializedPark/CommemorativePark',
+  sidebar: 'auto',
+})
+
+const 雕塑公园 = defineNoteConfig({
+  dir: '雕塑公园',
+  link: '/SpecializedPark/SculpturePark',
+  sidebar: 'auto',
+})
+
+
+/// 专类公园
 const 生态保育绿地 = defineNoteConfig({
   dir: '生态保育绿地',
   link: '/EcologicalConservation',
@@ -84,7 +126,9 @@ export const zhNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
   notes: [社区公园, 综合公园, 生态保育绿地, 风景休憩绿地,
-    博物和图书馆, 专项, 专类公园, 广场和街区, 游园, 动物园, 历史名园, 植物园],
+    博物和图书馆, 专项, 专类公园, 广场和街区, 游园, 动物园,
+    历史名园, 植物园, 遗址公园, 游乐公园, 儿童公园,
+    体育健身公园, 滨水公园, 纪念性公园, 雕塑公园],
 })
 
 /* =================== locale: en-US ======================= */

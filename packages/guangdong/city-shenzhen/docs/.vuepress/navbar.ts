@@ -1,8 +1,8 @@
 import { defineNavbarConfig } from 'vuepress-theme-plume'
-import { esSharedNavbar, frSharedNavbar, jaSharedNavbar, ruSharedNavbar, viSharedNavbar, trSharedNavbar, zhTWSharedNavbar } from '../../../../../shared/config/navbar'
-import { deSharedNavbar } from '../../../../../shared/config/site-navbar/de'
-import { enSharedNavbar } from '../../../../../shared/config/site-navbar/en'
-import { getNavbarData } from '../../../../../shared/config/site-navbar/site-index'
+// import { esSharedNavbar, frSharedNavbar, jaSharedNavbar, ruSharedNavbar, viSharedNavbar, trSharedNavbar, zhTWSharedNavbar } from '../../../../../shared/config/navbar'
+// import { deSharedNavbar } from '../../../../../shared/config/site-navbar/de'
+// import { enSharedNavbar } from '../../../../../shared/config/site-navbar/en'
+// import { getNavbarData } from '../../../../../shared/config/site-navbar/site-index'
 
 
 // const zhSharedNavbar = getNavbarData('zh');
@@ -25,16 +25,16 @@ export const zhNavbar = defineNavbarConfig([
   },
   {
     text: '专类公园',
-    items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
-    { text: '植物园', link: '/notes/SpecializedPark/BotanicalGarden/README.md' },
-    { text: '历史名园', link: '/notes/SpecializedPark/HistoricGarden/README.md' },
-    { text: '遗址公园', link: '/notes/SpecializedPark/HeritagePark/README.md' },
-    { text: '游乐公园', link: '/notes/SpecializedPark/FunParks/README.md' },
-    { text: '儿童公园', link: '/notes/SpecializedPark/ChildrenPark/README.md' },
-    { text: '体育健身公园', link: '/notes/SpecializedPark/Sports&Fitness/README.md' },
-    { text: '滨水公园', link: '/notes/SpecializedPark/WaterfrontPark/README.md' },
-    { text: '纪念性公园', link: '/notes/SpecializedPark/CommemorativePark/README.md' },
-    { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
+    items: [{ text: '动物园', link: '/notes/专类公园/动物园/README.md' },
+    { text: '植物园', link: '/notes/专类公园/植物园/README.md' },
+    { text: '历史名园', link: '/notes/专类公园/历史名园/README.md' },
+    { text: '遗址公园', link: '/notes/专类公园/遗址公园/README.md' },
+    { text: '游乐公园', link: '/notes/专类公园/游乐公园/README.md' },
+    { text: '儿童公园', link: '/notes/专类公园/儿童公园/README.md' },
+    { text: '体育健身公园', link: '/notes/专类公园/体育健身公园/README.md' },
+    { text: '滨水公园', link: '/notes/专类公园/滨水公园/README.md' },
+    { text: '纪念性公园', link: '/notes/专类公园/纪念性公园/README.md' },
+    { text: '雕塑公园', link: '/notes/专类公园/雕塑公园/README.md' },
     ]
   },
 
@@ -80,7 +80,7 @@ export const zhNavbar = defineNavbarConfig([
   //   { text: '红色旅游路线', link: '/notes/RedTourismRoute/README.md' }
   //   ]
   // },
-  ...getNavbarData('zh'),
+  // ...getNavbarData('zh'),
 ])
 
 export const enNavbar = defineNavbarConfig([
@@ -116,6 +116,12 @@ export const enNavbar = defineNavbarConfig([
   //   ]
   // },
   { text: 'Other', link: '/en/notes/Other/README.md' },
+
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/en/site-map/'
+  },
   // {
   //   text: 'Other',
   //   items: [{ text: 'Cycling&Greenway', link: '/en/notes/Cycling&Greenway/README.md' },
@@ -123,7 +129,7 @@ export const enNavbar = defineNavbarConfig([
   //   { text: 'Red Tourism Route', link: '/en/notes/RedTourismRoute/README.md' }
   //   ]
   // },
-  ...enSharedNavbar
+  // ...enSharedNavbar
 ])
 
 
@@ -145,7 +151,13 @@ export const deNavbar = defineNavbarConfig([
   { text: 'Museum&Bibliothek', link: '/de/notes/MuseumLibrary/README.md' },
   { text: 'Sonstiges', link: '/de/notes/Other/README.md' },
 
-  ...deSharedNavbar
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/de/site-map/'
+  },
+
+  // ...deSharedNavbar
 ])
 
 
@@ -166,7 +178,13 @@ export const esNavbar = defineNavbarConfig([
   { text: 'Museo&Biblioteca', link: '/es/notes/MuseumLibrary/README.md' },
   { text: 'Otro', link: '/es/notes/Other/README.md' },
 
-  ...esSharedNavbar
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/es/site-map/'
+  },
+
+  // ...esSharedNavbar
 ])
 
 
@@ -187,7 +205,12 @@ export const frNavbar = defineNavbarConfig([
   { text: 'Musée&Bibliothèque', link: '/fr/notes/MuseumLibrary/README.md' },
   { text: 'Autre', link: '/fr/notes/Other/README.md' },
 
-  ...frSharedNavbar
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/fr/site-map/'
+  },
+  // ...frSharedNavbar
 ])
 
 export const jaNavbar = defineNavbarConfig([
@@ -205,16 +228,16 @@ export const jaNavbar = defineNavbarConfig([
 
   {
     text: '専門公園',
-    items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
-    { text: '植物园', link: '/notes/SpecializedPark/BotanicalGarden/README.md' },
-    { text: '历史名园', link: '/notes/SpecializedPark/HistoricGarden/README.md' },
-    { text: '遗址公园', link: '/notes/SpecializedPark/HeritagePark/README.md' },
-    { text: '游乐公园', link: '/notes/SpecializedPark/FunParks/README.md' },
-    { text: '儿童公园', link: '/notes/SpecializedPark/ChildrenPark/README.md' },
-    { text: '体育健身公园', link: '/notes/SpecializedPark/Sports&Fitness/README.md' },
-    { text: '滨水公园', link: '/notes/SpecializedPark/WaterfrontPark/README.md' },
-    { text: '纪念性公园', link: '/notes/SpecializedPark/CommemorativePark/README.md' },
-    { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
+    items: [{ text: '动物园', link: '/ja/notes/SpecializedPark/Zoo/README.md' },
+    { text: '植物园', link: '/ja/notes/SpecializedPark/BotanicalGarden/README.md' },
+    { text: '历史名园', link: '/ja/notes/SpecializedPark/HistoricGarden/README.md' },
+    { text: '遗址公园', link: '/ja/notes/SpecializedPark/HeritagePark/README.md' },
+    { text: '游乐公园', link: '/ja/notes/SpecializedPark/FunParks/README.md' },
+    { text: '儿童公园', link: '/ja/notes/SpecializedPark/ChildrenPark/README.md' },
+    { text: '体育健身公园', link: '/ja/notes/SpecializedPark/Sports&Fitness/README.md' },
+    { text: '滨水公园', link: '/ja/notes/SpecializedPark/WaterfrontPark/README.md' },
+    { text: '纪念性公园', link: '/ja/notes/SpecializedPark/CommemorativePark/README.md' },
+    { text: '雕塑公园', link: '/ja/notes/SpecializedPark/SculpturePark/README.md' },
     ]
   },
 
@@ -227,7 +250,12 @@ export const jaNavbar = defineNavbarConfig([
 
   { text: 'その他', link: '/ja/notes/Other/README.md' },
 
-  ...jaSharedNavbar
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/ja/site-map/'
+  },
+  // ...jaSharedNavbar
 ])
 
 export const ruNavbar = defineNavbarConfig([
@@ -249,7 +277,12 @@ export const ruNavbar = defineNavbarConfig([
   { text: 'Музей&Библиотека', link: '/ru/notes/MuseumLibrary/README.md' },
   { text: 'Другое', link: '/ru/notes/Other/README.md' },
 
-  ...ruSharedNavbar
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/ru/site-map/'
+  },
+  // ...ruSharedNavbar
 ])
 
 
@@ -272,7 +305,12 @@ export const trNavbar = defineNavbarConfig([
   { text: 'Müze&Kütüphane', link: '/tr/notes/MuseumLibrary/README.md' },
   { text: 'Diğer', link: '/tr/notes/Other/README.md' },
 
-  ...trSharedNavbar
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/tr/site-map/'
+  },
+  // ...trSharedNavbar
 ])
 
 export const viNavbar = defineNavbarConfig([
@@ -294,7 +332,12 @@ export const viNavbar = defineNavbarConfig([
   { text: 'BảoTàng&ThưViện', link: '/vi/notes/MuseumLibrary/README.md' },
   { text: 'Khác', link: '/vi/notes/Other/README.md' },
 
-  ...viSharedNavbar
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/vi/site-map/'
+  },
+  // ...viSharedNavbar
 ])
 
 
@@ -313,16 +356,16 @@ export const zhTWNavbar = defineNavbarConfig([
 
   {
     text: '專類公園',
-    items: [{ text: '动物园', link: '/notes/SpecializedPark/Zoo/README.md' },
-    { text: '植物园', link: '/notes/SpecializedPark/BotanicalGarden/README.md' },
-    { text: '历史名园', link: '/notes/SpecializedPark/HistoricGarden/README.md' },
-    { text: '遗址公园', link: '/notes/SpecializedPark/HeritagePark/README.md' },
-    { text: '游乐公园', link: '/notes/SpecializedPark/FunParks/README.md' },
-    { text: '儿童公园', link: '/notes/SpecializedPark/ChildrenPark/README.md' },
-    { text: '体育健身公园', link: '/notes/SpecializedPark/Sports&Fitness/README.md' },
-    { text: '滨水公园', link: '/notes/SpecializedPark/WaterfrontPark/README.md' },
-    { text: '纪念性公园', link: '/notes/SpecializedPark/CommemorativePark/README.md' },
-    { text: '雕塑公园', link: '/notes/SpecializedPark/SculpturePark/README.md' },
+    items: [{ text: '动物园', link: '/zh-tw/notes/SpecializedPark/Zoo/README.md' },
+    { text: '植物园', link: '/zh-tw/notes/SpecializedPark/BotanicalGarden/README.md' },
+    { text: '历史名园', link: '/zh-tw/notes/SpecializedPark/HistoricGarden/README.md' },
+    { text: '遗址公园', link: '/zh-tw/notes/SpecializedPark/HeritagePark/README.md' },
+    { text: '游乐公园', link: '/zh-tw/notes/SpecializedPark/FunParks/README.md' },
+    { text: '儿童公园', link: '/zh-tw/notes/SpecializedPark/ChildrenPark/README.md' },
+    { text: '体育健身公园', link: '/zh-tw/notes/SpecializedPark/Sports&Fitness/README.md' },
+    { text: '滨水公园', link: '/zh-tw/notes/SpecializedPark/WaterfrontPark/README.md' },
+    { text: '纪念性公园', link: '/zh-tw/notes/SpecializedPark/CommemorativePark/README.md' },
+    { text: '雕塑公园', link: '/zh-tw/notes/SpecializedPark/SculpturePark/README.md' },
     ]
   },
 
@@ -333,6 +376,12 @@ export const zhTWNavbar = defineNavbarConfig([
 
   { text: '其他', link: '/zh-tw/notes/Other/README.md' },
 
-  ...zhTWSharedNavbar
+
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/zh-tw/site-map/'
+  },
+  // ...zhTWSharedNavbar
 ])
 
