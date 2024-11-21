@@ -17,9 +17,9 @@ def update_permalink(file_path):
                 new_nanoid = generate(size=8) if nanoid else ''
                 # Construct the new permalink with correct slashes
                 if new_nanoid:
-                    new_permalink = f'permalink: /zh-TW/{category}/{new_nanoid}/'
+                    new_permalink = f'permalink: /zh-tw/{category}/{new_nanoid}/'
                 else:
-                    new_permalink = f'permalink: /zh-TW/{category}/'
+                    new_permalink = f'permalink: /zh-tw/{category}/'
                 line = permalink_pattern.sub(new_permalink, line)
         new_lines.append(line)
 
@@ -35,5 +35,5 @@ def traverse_and_update(root_dir):
     print("任务已完成，所有文件已更新。")
 
 # Set the root directory to the path where your markdown files are located
-root_directory = r'D:\Project\city-walk\city-walk\packages\guangdong\city-shenzhen\docs\zh-TW\notes'
+root_directory = r'D:\Project\city-walk\city-walk\packages\guangdong\city-shenzhen\docs\zh-tw\notes'
 traverse_and_update(root_directory)

@@ -299,15 +299,15 @@ export const viNavbar = defineNavbarConfig([
 
 
 export const zhTWNavbar = defineNavbarConfig([
-  { text: '首頁', link: '/zh-TW/' },
-  { text: '遊記', link: '/zh-TW/blog/' },
+  { text: '首頁', link: '/zh-tw/' },
+  { text: '遊記', link: '/zh-tw/blog/' },
 
   {
     text: '公園',
-    items: [{ text: '綜合公園', link: '/zh-TW/notes/ComprehensivePark/README.md' },
-    { text: '社區公園', link: '/zh-TW/notes/CommunityPark/README.md' },
-    // { text: '專類公園', link: '/zh-TW/notes/SpecializedPark/README.md' },
-    { text: '遊園', link: '/zh-TW/notes/TravellingGarden/README.md' },
+    items: [{ text: '綜合公園', link: '/zh-tw/notes/ComprehensivePark/README.md' },
+    { text: '社區公園', link: '/zh-tw/notes/CommunityPark/README.md' },
+    // { text: '專類公園', link: '/zh-tw/notes/SpecializedPark/README.md' },
+    { text: '遊園', link: '/zh-tw/notes/TravellingGarden/README.md' },
     ]
   },
 
@@ -326,12 +326,12 @@ export const zhTWNavbar = defineNavbarConfig([
     ]
   },
 
-  { text: '風景休憩綠地', link: '/zh-TW/notes/LandscapeLeisureGreenSpace/README.md' },
-  { text: '幣場&街區', link: '/zh-TW/notes/SquareBlock/README.md' },
+  { text: '風景休憩綠地', link: '/zh-tw/notes/LandscapeLeisureGreenSpace/README.md' },
+  { text: '幣場&街區', link: '/zh-tw/notes/SquareBlock/README.md' },
 
-  { text: '博物館&圖書館', link: '/zh-TW/notes/MuseumLibrary/README.md' },
+  { text: '博物館&圖書館', link: '/zh-tw/notes/MuseumLibrary/README.md' },
 
-  { text: '其他', link: '/zh-TW/notes/Other/README.md' },
+  { text: '其他', link: '/zh-tw/notes/Other/README.md' },
 
   ...zhTWSharedNavbar
 ])

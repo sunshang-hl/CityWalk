@@ -549,7 +549,7 @@ export const viNotes = defineNotesConfig({
     KhuVựcXanhNghỉNgơiCảnhQuan, BảoTàngThưViện, QuảngTrườngKhuPhố, Khác],
 })
 
-/* =================== locale: zh-TW ======================= */
+/* =================== locale: zh-tw ======================= */
 
 const zhTWDemoNote = defineNoteConfig({
   dir: 'demo',
@@ -613,8 +613,8 @@ const 遊園 = defineNoteConfig({
 })
 
 export const zhTWNotes = defineNotesConfig({
-  dir: 'zh-TW/notes',
-  link: '/zh-TW',
+  dir: 'zh-tw/notes',
+  link: '/zh-tw',
   notes: [社區公園, 綜合公園, 生态保育绿地, 風景休憩綠地,
     博物館和圖書館, 專類公園, 幣場和街區, 遊園, 其他],
 })

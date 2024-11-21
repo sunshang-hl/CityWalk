@@ -54,9 +54,9 @@ export default defineUserConfig({
       lang: 'vi-VN',
       description: 'city walk website ShenZhen',
     },
-    '/zh-TW/': {
+    '/zh-tw/': {
       title: '城市漫步-深圳',
-      lang: 'zh-TW',
+      lang: 'zh-tw',
       description: 'city walk website ShenZhen',
     },
   },
@@ -130,11 +130,11 @@ export default defineUserConfig({
           { text: 'Blog', link: '/vi/blog/' },
         ]
       },
-      '/zh-TW/': {
+      '/zh-tw/': {
         selectLanguageName: '繁体中文',
         navbar: [
-          { text: '首頁', link: '/zh-TW/' },
-          { text: '博客', link: '/zh-TW/blog/' },
+          { text: '首頁', link: '/zh-tw/' },
+          { text: '博客', link: '/zh-tw/blog/' },
         ]
       }
     },

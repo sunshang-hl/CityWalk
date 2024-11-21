@@ -1,7 +1,7 @@
 ---
 title: kjkhkhkjhk
 createTime: 2024/11/07 22:35:07
-permalink: /zh-TW/CommunityPark/8gPAXd7A/
+permalink: /zh-tw/CommunityPark/8gPAXd7A/
 ---
 
 

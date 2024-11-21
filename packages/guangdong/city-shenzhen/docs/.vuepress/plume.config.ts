@@ -152,7 +152,7 @@ export default defineThemeConfig({
       navbar: viNavbar,
       notes: viNotes,
     },
-    '/zh-TW/': {
+    '/zh-tw/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
         name: '城市漫步',
