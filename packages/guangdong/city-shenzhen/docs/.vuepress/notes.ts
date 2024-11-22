@@ -59,7 +59,7 @@ const 儿童公园 = defineNoteConfig({
 
 const 体育健身公园 = defineNoteConfig({
   dir: '体育健身公园',
-  link: '/SpecializedPark/Sports&Fitness',
+  link: '/SpecializedPark/SportsFitness',
   sidebar: 'auto',
 })
 
@@ -378,11 +378,6 @@ const 総合公園 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-// const 専門公園 = defineNoteConfig({
-//   dir: 'SpecializedPark',
-//   link: '/SpecializedPark',
-//   sidebar: 'auto',
-// })
 
 /// 专类公园
 const 動物園ja = defineNoteConfig({
@@ -421,15 +416,17 @@ const 児童公園 = defineNoteConfig({
   sidebar: 'auto',
 })
 
+
+
 const スポーツフィットネスパーク = defineNoteConfig({
-  dir: 'Sports&Fitness',
-  link: '/SpecializedPark/Sports&Fitness',
+  dir: 'SportsFitness',
+  link: '/SpecializedPark/SportsFitness',
   sidebar: 'auto',
 })
 
-const ウォーターフロントパーク = defineNoteConfig({
+const 浜水公園 = defineNoteConfig({
   dir: 'WaterFrontPark',
-  link: '/SpecializedPark/WaterFrontPark',
+  link: '/SpecializedPark/WaterfrontPark',
   sidebar: 'auto',
 })
 
@@ -482,7 +479,7 @@ export const jaNotes = defineNotesConfig({
   notes: [地域公園, 総合公園, 風景休息緑地, 博物館和図書館, 動物園ja, 植物園ja,
     その他, 広場和街区, 風景休息緑地, 庭園ツアー, 歴史ある庭園,
     ヘリテージパーク, 遊園地, 児童公園, スポーツフィットネスパーク,
-    ウォーターフロントパーク, 記念公園, 彫刻公園],
+    浜水公園, 記念公園, 彫刻公園],
 })
 
 /* =================== locale: ru-RU ======================= */
@@ -692,7 +689,7 @@ const 動物園 = defineNoteConfig({
 })
 
 const 植物園 = defineNoteConfig({
-  dir: 'BotanicalGarden',
+  dir: '/SpecializedPark/BotanicalGarden/',
   link: '/SpecializedPark/BotanicalGarden',
   sidebar: 'auto',
 })
@@ -722,14 +719,14 @@ const 兒童公園 = defineNoteConfig({
 })
 
 const 運動健身公園 = defineNoteConfig({
-  dir: 'Sports&Fitness',
-  link: '/SpecializedPark/Sports&Fitness',
+  dir: 'SportsFitness',
+  link: '/SpecializedPark/SportsFitness',
   sidebar: 'auto',
 })
 
 const 濱水公園 = defineNoteConfig({
-  dir: 'WaterFrontPark',
-  link: '/SpecializedPark/WaterFrontPark',
+  dir: 'WaterfrontPark',
+  link: '/SpecializedPark/WaterfrontPark',
   sidebar: 'auto',
 })
 
@@ -770,12 +767,6 @@ const 其他 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const 專類公園 = defineNoteConfig({
-  dir: 'SpecializedPark',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
-
 
 const 遊園 = defineNoteConfig({
   dir: 'TravellingGarden',
@@ -787,7 +778,7 @@ export const zhTWNotes = defineNotesConfig({
   dir: 'zh-tw/notes',
   link: '/zh-tw',
   notes: [社區公園, 綜合公園, 生态保育绿地, 風景休憩綠地,
-    博物館和圖書館, 專類公園, 動物園, 植物園, 歷史名園,
+    博物館和圖書館, 動物園, 植物園, 歷史名園,
     遺址公園, 遊樂公園, 兒童公園, 運動健身公園, 濱水公園,
     紀念性公園, 雕塑公園, 幣場和街區, 遊園, 其他],
 })

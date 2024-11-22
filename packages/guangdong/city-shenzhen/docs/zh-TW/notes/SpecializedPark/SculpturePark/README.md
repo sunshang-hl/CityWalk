@@ -1,7 +1,7 @@
 ---
 title: 雕塑公园
 createTime: 2024-11-07 00:12:49
-permalink: /zh-tw/SpecializedPark/sZf6T9GB/
+permalink: /zh-tw/SpecializedPark/SculpturePark/sZf6T9GB/
 author: sunshang-hl
 description: xxxx
 ---

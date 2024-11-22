@@ -132,7 +132,6 @@ export const enNavbar = defineNavbarConfig([
   // ...enSharedNavbar
 ])
 
-
 export const deNavbar = defineNavbarConfig([
   { text: 'Startseite', link: '/de/' },
   { text: 'Reisebericht', link: '/de/blog/' },
@@ -160,7 +159,6 @@ export const deNavbar = defineNavbarConfig([
   // ...deSharedNavbar
 ])
 
-
 export const esNavbar = defineNavbarConfig([
   { text: 'Página principal', link: '/es/' },
   { text: 'Relato de viaje', link: '/es/blog/' },
@@ -186,7 +184,6 @@ export const esNavbar = defineNavbarConfig([
 
   // ...esSharedNavbar
 ])
-
 
 export const frNavbar = defineNavbarConfig([
   { text: 'Accueil', link: '/fr/' },
@@ -234,7 +231,7 @@ export const jaNavbar = defineNavbarConfig([
     { text: '遗址公园', link: '/ja/notes/SpecializedPark/HeritagePark/README.md' },
     { text: '游乐公园', link: '/ja/notes/SpecializedPark/FunParks/README.md' },
     { text: '儿童公园', link: '/ja/notes/SpecializedPark/ChildrenPark/README.md' },
-    { text: '体育健身公园', link: '/ja/notes/SpecializedPark/Sports&Fitness/README.md' },
+    { text: '体育健身公园', link: '/ja/notes/SpecializedPark/SportsFitness/README.md' },
     { text: '滨水公园', link: '/ja/notes/SpecializedPark/WaterfrontPark/README.md' },
     { text: '纪念性公园', link: '/ja/notes/SpecializedPark/CommemorativePark/README.md' },
     { text: '雕塑公园', link: '/ja/notes/SpecializedPark/SculpturePark/README.md' },
@@ -284,7 +281,6 @@ export const ruNavbar = defineNavbarConfig([
   },
   // ...ruSharedNavbar
 ])
-
 
 export const trNavbar = defineNavbarConfig([
   { text: 'Anasayfa', link: '/tr/' },
@@ -340,7 +336,6 @@ export const viNavbar = defineNavbarConfig([
   // ...viSharedNavbar
 ])
 
-
 export const zhTWNavbar = defineNavbarConfig([
   { text: '首頁', link: '/zh-tw/' },
   { text: '遊記', link: '/zh-tw/blog/' },
@@ -362,7 +357,7 @@ export const zhTWNavbar = defineNavbarConfig([
     { text: '遗址公园', link: '/zh-tw/notes/SpecializedPark/HeritagePark/README.md' },
     { text: '游乐公园', link: '/zh-tw/notes/SpecializedPark/FunParks/README.md' },
     { text: '儿童公园', link: '/zh-tw/notes/SpecializedPark/ChildrenPark/README.md' },
-    { text: '体育健身公园', link: '/zh-tw/notes/SpecializedPark/Sports&Fitness/README.md' },
+    { text: '体育健身公园', link: '/zh-tw/notes/SpecializedPark/SportsFitness/README.md' },
     { text: '滨水公园', link: '/zh-tw/notes/SpecializedPark/WaterfrontPark/README.md' },
     { text: '纪念性公园', link: '/zh-tw/notes/SpecializedPark/CommemorativePark/README.md' },
     { text: '雕塑公园', link: '/zh-tw/notes/SpecializedPark/SculpturePark/README.md' },
