@@ -17,7 +17,7 @@ export default defineUserConfig({
     '/en/': {
       title: 'City Walk ShenZhen',
       lang: 'en-US',
-      description: ''Explore parks and scenic spots in Chinese citie',
+      description: 'Explore parks and scenic spots in Chinese citie',
     },
     '/de/': {
       title: 'Stadtspaziergang ',
