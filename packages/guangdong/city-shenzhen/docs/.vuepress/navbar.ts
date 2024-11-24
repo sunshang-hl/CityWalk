@@ -380,3 +380,56 @@ export const zhTWNavbar = defineNavbarConfig([
   // ...zhTWSharedNavbar
 ])
 
+export const koNavbar = defineNavbarConfig([
+  { text: '홈 페이지', link: '/ko/' },
+  { text: '여행기', link: '/ko/blog/' },
+
+  {
+    text: '공원',
+    items: [{ text: '종합 공원', link: '/ko/notes/ComprehensivePark/README.md' },
+    { text: '커뮤니티 공원', link: '/ko/notes/CommunityPark/README.md' },
+    { text: '전문 공원', link: '/ko/notes/SpecializedPark/README.md' },
+    { text: '조경된 오픈 스페이스', link: '/ko/notes/LandscapeLeisureGreenSpace/README.md' },
+    { text: '정원 투어', link: '/ko/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+
+  { text: '광장 및 근린공원', link: '/ko/notes/SquareBlock/README.md' },
+  { text: '박물관 및 도서관', link: '/ko/notes/MuseumLibrary/README.md' },
+  { text: '기타', link: '/ko/notes/Other/README.md' },
+
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/ko/site-map/'
+  },
+  // ...viSharedNavbar
+])
+
+export const ptNavbar = defineNavbarConfig([
+  { text: 'Página inicial', link: '/pt/' },
+  { text: 'Relato de viagem', link: '/pt/blog/' },
+
+  {
+    text: 'Parques',
+    items: [{ text: 'Parques gerais', link: '/pt/notes/ComprehensivePark/README.md' },
+    { text: 'Parques comunitários', link: '/pt/notes/CommunityPark/README.md' },
+    { text: 'Parques especializados', link: '/pt/notes/SpecializedPark/README.md' },
+    { text: 'Espaço Aberto Paisagístico', link: '/pt/notes/LandscapeLeisureGreenSpace/README.md' },
+    { text: 'Parques de diversão', link: '/pt/notes/TravellingGarden/README.md' },
+    ]
+  },
+
+
+  { text: 'Praças e Bairros', link: '/pt/notes/SquareBlock/README.md' },
+  { text: 'Museus e bibliotecas', link: '/pt/notes/MuseumLibrary/README.md' },
+  { text: 'Outros', link: '/pt/notes/Other/README.md' },
+
+  {
+    text: 'ShenZhen',
+    icon: 'gis:poi-map',
+    link: '/pt/site-map/'
+  },
+  // ...viSharedNavbar
+])

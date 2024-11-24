@@ -14,7 +14,6 @@ const 社区公园 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-
 const 游园 = defineNoteConfig({
   dir: '游园',
   link: '/TravellingGarden',
@@ -22,61 +21,61 @@ const 游园 = defineNoteConfig({
 })
 /// 专类公园
 const 动物园 = defineNoteConfig({
-  dir: '动物园',
+  dir: '专类公园/动物园',
   link: '/SpecializedPark/Zoo',
   sidebar: 'auto',
 })
 
 const 植物园 = defineNoteConfig({
-  dir: '植物园',
+  dir: '专类公园/植物园',
   link: '/SpecializedPark/BotanicalGarden',
   sidebar: 'auto',
 })
 
 const 历史名园 = defineNoteConfig({
-  dir: '历史名园',
+  dir: '专类公园/历史名园',
   link: '/SpecializedPark/HistoricGarden',
   sidebar: 'auto',
 })
 
 const 遗址公园 = defineNoteConfig({
-  dir: '遗址公园',
+  dir: '专类公园/遗址公园',
   link: '/SpecializedPark/HeritagePark',
   sidebar: 'auto',
 })
 
 const 游乐公园 = defineNoteConfig({
-  dir: '游乐公园',
+  dir: '专类公园/游乐公园',
   link: '/SpecializedPark/FunParks',
   sidebar: 'auto',
 })
 
 const 儿童公园 = defineNoteConfig({
-  dir: '儿童公园',
+  dir: '专类公园/儿童公园',
   link: '/SpecializedPark/ChildrenPark',
   sidebar: 'auto',
 })
 
 const 体育健身公园 = defineNoteConfig({
-  dir: '体育健身公园',
+  dir: '专类公园/体育健身公园',
   link: '/SpecializedPark/SportsFitness',
   sidebar: 'auto',
 })
 
 const 滨水公园 = defineNoteConfig({
-  dir: '滨水公园',
+  dir: '专类公园/滨水公园',
   link: '/SpecializedPark/WaterFrontPark',
   sidebar: 'auto',
 })
 
 const 纪念性公园 = defineNoteConfig({
-  dir: '纪念性公园',
+  dir: '专类公园/纪念性公园',
   link: '/SpecializedPark/CommemorativePark',
   sidebar: 'auto',
 })
 
 const 雕塑公园 = defineNoteConfig({
-  dir: '雕塑公园',
+  dir: '专类公园/雕塑公园',
   link: '/SpecializedPark/SculpturePark',
   sidebar: 'auto',
 })
@@ -366,7 +365,7 @@ export const frNotes = defineNotesConfig({
 
 /* =================== locale: ja-JP ======================= */
 
-const 地域公園 = defineNoteConfig({
+const コミュニティパーク = defineNoteConfig({
   dir: 'CommunityPark',
   link: '/CommunityPark',
   sidebar: 'auto',
@@ -381,37 +380,37 @@ const 総合公園 = defineNoteConfig({
 
 /// 专类公园
 const 動物園ja = defineNoteConfig({
-  dir: 'Zoo',
+  dir: 'SpecializedPark/Zoo',
   link: '/SpecializedPark/Zoo',
   sidebar: 'auto',
 })
 
 const 植物園ja = defineNoteConfig({
-  dir: 'BotanicalGarden',
+  dir: 'SpecializedPark/BotanicalGarden',
   link: '/SpecializedPark/BotanicalGarden',
   sidebar: 'auto',
 })
 
 const 歴史ある庭園 = defineNoteConfig({
-  dir: 'HistoricGarden',
+  dir: 'SpecializedPark/HistoricGarden',
   link: '/SpecializedPark/HistoricGarden',
   sidebar: 'auto',
 })
 
 const ヘリテージパーク = defineNoteConfig({
-  dir: 'HeritagePark',
+  dir: 'SpecializedPark/HeritagePark',
   link: '/SpecializedPark/HeritagePark',
   sidebar: 'auto',
 })
 
 const 遊園地 = defineNoteConfig({
-  dir: 'FunParks',
+  dir: 'SpecializedPark/FunParks',
   link: '/SpecializedPark/FunParks',
   sidebar: 'auto',
 })
 
 const 児童公園 = defineNoteConfig({
-  dir: 'ChildrenPark',
+  dir: 'SpecializedPark/ChildrenPark',
   link: '/SpecializedPark/ChildrenPark',
   sidebar: 'auto',
 })
@@ -419,25 +418,25 @@ const 児童公園 = defineNoteConfig({
 
 
 const スポーツフィットネスパーク = defineNoteConfig({
-  dir: 'SportsFitness',
+  dir: 'SpecializedPark/SportsFitness',
   link: '/SpecializedPark/SportsFitness',
   sidebar: 'auto',
 })
 
 const 浜水公園 = defineNoteConfig({
-  dir: 'WaterFrontPark',
+  dir: 'SpecializedPark/WaterFrontPark',
   link: '/SpecializedPark/WaterfrontPark',
   sidebar: 'auto',
 })
 
 const 記念公園 = defineNoteConfig({
-  dir: 'CommemorativePark',
+  dir: 'SpecializedPark/CommemorativePark',
   link: '/SpecializedPark/CommemorativePark',
   sidebar: 'auto',
 })
 
 const 彫刻公園 = defineNoteConfig({
-  dir: 'SculpturePark',
+  dir: 'SpecializedPark/SculpturePark',
   link: '/SpecializedPark/SculpturePark',
   sidebar: 'auto',
 })
@@ -476,7 +475,7 @@ const その他 = defineNoteConfig({
 export const jaNotes = defineNotesConfig({
   dir: 'ja/notes',
   link: '/ja/',
-  notes: [地域公園, 総合公園, 風景休息緑地, 博物館和図書館, 動物園ja, 植物園ja,
+  notes: [コミュニティパーク, 総合公園, 風景休息緑地, 博物館和図書館, 動物園ja, 植物園ja,
     その他, 広場和街区, 風景休息緑地, 庭園ツアー, 歴史ある庭園,
     ヘリテージパーク, 遊園地, 児童公園, スポーツフィットネスパーク,
     浜水公園, 記念公園, 彫刻公園],
@@ -655,13 +654,242 @@ export const viNotes = defineNotesConfig({
     KhuVựcXanhNghỉNgơiCảnhQuan, BảoTàngThưViện, QuảngTrườngKhuPhố, Khác],
 })
 
-/* =================== locale: zh-tw ======================= */
 
-const zhTWDemoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
+/* =================== locale: ko-KR ======================= */
+
+const 커뮤니티공원 = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
 })
+
+const 종합공원 = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+/// 专类公园
+const 동물원 = defineNoteConfig({
+  dir: 'SpecializedPark/Zoo',
+  link: '/SpecializedPark/Zoo',
+  sidebar: 'auto',
+})
+
+const 식물원 = defineNoteConfig({
+  dir: 'SpecializedPark/BotanicalGarden',
+  link: '/SpecializedPark/BotanicalGarden',
+  sidebar: 'auto',
+})
+
+const 역사공원 = defineNoteConfig({
+  dir: 'SpecializedPark/HistoricGarden',
+  link: '/SpecializedPark/HistoricGarden',
+  sidebar: 'auto',
+})
+
+const 유산공원 = defineNoteConfig({
+  dir: 'SpecializedPark/HeritagePark',
+  link: '/SpecializedPark/HeritagePark',
+  sidebar: 'auto',
+})
+
+const 놀이공원 = defineNoteConfig({
+  dir: 'SpecializedPark/FunParks',
+  link: '/SpecializedPark/FunParks',
+  sidebar: 'auto',
+})
+
+const 어린이공원 = defineNoteConfig({
+  dir: 'SpecializedPark/ChildrenPark',
+  link: '/SpecializedPark/ChildrenPark',
+  sidebar: 'auto',
+})
+
+const 스포츠및피트니스공원 = defineNoteConfig({
+  dir: 'SpecializedPark/SportsFitness',
+  link: '/SpecializedPark/SportsFitness',
+  sidebar: 'auto',
+})
+
+const 워터프론트공원 = defineNoteConfig({
+  dir: 'SpecializedPark/WaterfrontPark',
+  link: '/SpecializedPark/WaterfrontPark',
+  sidebar: 'auto',
+})
+
+const 기념공원 = defineNoteConfig({
+  dir: 'SpecializedPark/CommemorativePark',
+  link: '/SpecializedPark/CommemorativePark',
+  sidebar: 'auto',
+})
+
+const 조각공원 = defineNoteConfig({
+  dir: 'SpecializedPark/SculpturePark',
+  link: '/SpecializedPark/SculpturePark',
+  sidebar: 'auto',
+})
+/// 专类公园
+
+const 조경된열린공간 = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const 박물관및도서관 = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const 광장및인근지역 = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const 기타 = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
+})
+
+
+const 정원투어 = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+export const koNotes = defineNotesConfig({
+  dir: 'ko/notes',
+  link: '/ko',
+  notes: [커뮤니티공원, 종합공원, 동물원, 식물원, 역사공원, 유산공원, 놀이공원,
+    어린이공원, 스포츠및피트니스공원, 워터프론트공원, 기념공원, 조각공원,
+    조경된열린공간, 박물관및도서관, 광장및인근지역, 기타, 정원투어],
+})
+
+
+/* =================== locale: pt ======================= */
+
+const ParquesComunitários = defineNoteConfig({
+  dir: 'CommunityPark',
+  link: '/CommunityPark',
+  sidebar: 'auto',
+})
+
+const ParquesDeUsoGeral = defineNoteConfig({
+  dir: 'ComprehensivePark',
+  link: '/ComprehensivePark',
+  sidebar: 'auto',
+})
+
+
+const PasseioPeloJardim = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
+
+/// 专类公园
+const JardinsZoológicos = defineNoteConfig({
+  dir: 'SpecializedPark/Zoo',
+  link: '/SpecializedPark/Zoo',
+  sidebar: 'auto',
+})
+
+const JardinsBotânicos = defineNoteConfig({
+  dir: 'SpecializedPark/BotanicalGarden',
+  link: '/SpecializedPark/BotanicalGarden',
+  sidebar: 'auto',
+})
+
+const JardinsHistóricos = defineNoteConfig({
+  dir: 'SpecializedPark/HistoricGarden',
+  link: '/SpecializedPark/HistoricGarden',
+  sidebar: 'auto',
+})
+
+const ParquesPatrimoniais = defineNoteConfig({
+  dir: 'SpecializedPark/HeritagePark',
+  link: '/SpecializedPark/HeritagePark',
+  sidebar: 'auto',
+})
+
+const ParquesDeDiversão = defineNoteConfig({
+  dir: 'SpecializedPark/FunParks',
+  link: '/SpecializedPark/FunParks',
+  sidebar: 'auto',
+})
+
+const ParquesInfantis = defineNoteConfig({
+  dir: 'SpecializedPark/ChildrenPark',
+  link: '/SpecializedPark/ChildrenPark',
+  sidebar: 'auto',
+})
+
+const ParquesDesportivosEDeDitness = defineNoteConfig({
+  dir: 'SpecializedPark/SportsFitness',
+  link: '/SpecializedPark/SportsFitness',
+  sidebar: 'auto',
+})
+
+const ParquesàBeiraMar = defineNoteConfig({
+  dir: 'SpecializedPark/WaterfrontPark',
+  link: '/SpecializedPark/WaterfrontPark',
+  sidebar: 'auto',
+})
+
+const ParquesMemoriais = defineNoteConfig({
+  dir: 'SpecializedPark/CommemorativePark',
+  link: '/SpecializedPark/CommemorativePark',
+  sidebar: 'auto',
+})
+
+const ParqueDeEsculturas = defineNoteConfig({
+  dir: 'SpecializedPark/SculpturePark',
+  link: '/SpecializedPark/SculpturePark',
+  sidebar: 'auto',
+})
+/// 专类公园
+
+const EspaçoAbertoPaisagístico = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace',
+  link: '/LandscapeLeisureGreenSpace',
+  sidebar: 'auto',
+})
+
+const MuseusBibliotecas = defineNoteConfig({
+  dir: 'MuseumLibrary',
+  link: '/MuseumLibrary',
+  sidebar: 'auto',
+})
+
+const PraçasBairros = defineNoteConfig({
+  dir: 'SquareBlock',
+  link: '/SquareBlock',
+  sidebar: 'auto',
+})
+
+const OutrosParques = defineNoteConfig({
+  dir: 'Other',
+  link: '/Other',
+  sidebar: 'auto',
+})
+
+export const ptNotes = defineNotesConfig({
+  dir: 'pt/notes',
+  link: '/pt',
+  notes: [ParquesComunitários, ParquesDeUsoGeral, PasseioPeloJardim, JardinsZoológicos,
+    JardinsBotânicos, JardinsHistóricos, ParquesPatrimoniais, ParquesDeDiversão,
+    ParquesInfantis, ParquesDesportivosEDeDitness, ParquesàBeiraMar, ParquesMemoriais,
+    ParqueDeEsculturas, EspaçoAbertoPaisagístico, MuseusBibliotecas, PraçasBairros,
+    OutrosParques
+  ],
+})
+
+/* =================== locale: zh-tw ======================= */
 
 const 社區公園 = defineNoteConfig({
   dir: 'CommunityPark',
@@ -675,69 +903,70 @@ const 綜合公園 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-// const 生态保育绿地 = defineNoteConfig({
-//   dir: '生态保育绿地',
-//   link: '/EcologicalConservation',
-//   sidebar: 'auto',
-// })
+
+const 遊園 = defineNoteConfig({
+  dir: 'TravellingGarden',
+  link: '/TravellingGarden',
+  sidebar: 'auto',
+})
 
 /// 专类公园
 const 動物園 = defineNoteConfig({
-  dir: 'Zoo',
+  dir: 'SpecializedPark/Zoo',
   link: '/SpecializedPark/Zoo',
   sidebar: 'auto',
 })
 
 const 植物園 = defineNoteConfig({
-  dir: '/SpecializedPark/BotanicalGarden/',
+  dir: 'SpecializedPark/BotanicalGarden',
   link: '/SpecializedPark/BotanicalGarden',
   sidebar: 'auto',
 })
 
 const 歷史名園 = defineNoteConfig({
-  dir: 'HistoricGarden',
+  dir: 'SpecializedPark/HistoricGarden',
   link: '/SpecializedPark/HistoricGarden',
   sidebar: 'auto',
 })
 
 const 遺址公園 = defineNoteConfig({
-  dir: 'HeritagePark',
+  dir: 'SpecializedPark/HeritagePark',
   link: '/SpecializedPark/HeritagePark',
   sidebar: 'auto',
 })
 
 const 遊樂公園 = defineNoteConfig({
-  dir: 'FunParks',
+  dir: 'SpecializedPark/FunParks',
   link: '/SpecializedPark/FunParks',
   sidebar: 'auto',
 })
 
 const 兒童公園 = defineNoteConfig({
-  dir: 'ChildrenPark',
+  dir: 'SpecializedPark/ChildrenPark',
   link: '/SpecializedPark/ChildrenPark',
   sidebar: 'auto',
 })
 
 const 運動健身公園 = defineNoteConfig({
-  dir: 'SportsFitness',
+  dir: 'SpecializedPark/SportsFitness',
   link: '/SpecializedPark/SportsFitness',
   sidebar: 'auto',
 })
 
 const 濱水公園 = defineNoteConfig({
-  dir: 'WaterfrontPark',
+  dir: 'SpecializedPark/WaterfrontPark',
   link: '/SpecializedPark/WaterfrontPark',
   sidebar: 'auto',
 })
 
 const 紀念性公園 = defineNoteConfig({
-  dir: 'CommemorativePark',
+  dir: 'SpecializedPark/CommemorativePark',
   link: '/SpecializedPark/CommemorativePark',
   sidebar: 'auto',
 })
 
 const 雕塑公園 = defineNoteConfig({
-  dir: 'SculpturePark',
+  dir: 'SpecializedPark/SculpturePark',
   link: '/SpecializedPark/SculpturePark',
   sidebar: 'auto',
 })
@@ -767,13 +996,6 @@ const 其他 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-
-const 遊園 = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
-
 export const zhTWNotes = defineNotesConfig({
   dir: 'zh-tw/notes',
   link: '/zh-tw',
@@ -782,4 +1004,3 @@ export const zhTWNotes = defineNotesConfig({
     遺址公園, 遊樂公園, 兒童公園, 運動健身公園, 濱水公園,
     紀念性公園, 雕塑公園, 幣場和街區, 遊園, 其他],
 })
-

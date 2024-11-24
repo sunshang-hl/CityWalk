@@ -1,8 +1,8 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-import { baiduAnalyticsPlugin } from '@vuepress/plugin-baidu-analytics'
+// import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+// import { baiduAnalyticsPlugin } from '@vuepress/plugin-baidu-analytics'
 import { includeConfig } from '../../../../../shared/config/include'
 
 export default defineUserConfig({
@@ -12,25 +12,25 @@ export default defineUserConfig({
     '/': {
       title: '城市漫步-深圳',
       lang: 'zh-CN',
-      description: '城市漫步深圳站点',
+      description: '探索国内深圳的公园与风景名胜',
     },
     '/en/': {
       title: 'City Walk ShenZhen',
       lang: 'en-US',
-      description: 'city walk website ShenZhen',
+      description: ''Explore parks and scenic spots in Chinese citie',
     },
     '/de/': {
-      title: 'Stadtspaziergang Shenzhen',
+      title: 'Stadtspaziergang ',
       lang: 'de-DE',
       description: 'Stadtspaziergang Shenzhen',
     },
     '/es/': {
-      title: 'Paseo por la ciudad Shenzhen',
+      title: 'Paseo por la ciudad ',
       lang: 'es-ES',
       description: 'city walk website ShenZhen',
     },
     '/fr/': {
-      title: 'Paseo por la ciudad Shenzhen',
+      title: 'Paseo por la ciudad',
       lang: 'fr-FR',
       description: 'city walk website ShenZhen',
     },
@@ -40,23 +40,33 @@ export default defineUserConfig({
       description: '深圳を歩く都市',
     },
     '/ru/': {
-      title: 'Прогулка по городу Шэньчжэнь',
+      title: 'Прогулка по городу',
       lang: 'ru-RU',
       description: 'city walk website ShenZhen',
     },
     '/tr/': {
-      title: 'Прогулка по городу Шэньчжэнь',
+      title: 'şehi̇r yürüyüşü',
       lang: 'tr-TR',
-      description: 'city walk website ShenZhen',
+      description: 'Türkiye şehirlerindeki parkları ve doğal güzellikleri keşfet',
     },
     '/vi/': {
-      title: 'Thâm Quyến đi dạo trong thành phố',
+      title: 'đi dạo trong thành phố',
       lang: 'vi-VN',
-      description: 'city walk website ShenZhen',
+      description: 'Khám phá công viên và danh lam thắng cảnh trong các thành phố Việt Nam',
     },
     '/zh-tw/': {
       title: '城市漫步-深圳',
       lang: 'zh-tw',
+      description: 'city walk website ShenZhen',
+    },
+    '/pt/': {
+      title: 'Passeio pela cidade',
+      lang: 'pt-PT',
+      description: 'Passeio pela cidade de Shenzhen',
+    },
+    '/ko/': {
+      title: '시티 워크-선전',
+      lang: 'ko-KR',
       description: 'city walk website ShenZhen',
     },
   },
@@ -110,7 +120,7 @@ export default defineUserConfig({
         ]
       },
       '/ru/': {
-        selectLanguageName: 'Русский язык',
+        selectLanguageName: 'Русский',
         navbar: [
           { text: 'Главная', link: '/ru/' },
           { text: 'блог', link: '/ru/blog/' },
@@ -136,7 +146,22 @@ export default defineUserConfig({
           { text: '首頁', link: '/zh-tw/' },
           { text: '博客', link: '/zh-tw/blog/' },
         ]
-      }
+      },
+      '/ko/': {
+        selectLanguageName: '繁体中文',
+        navbar: [
+          { text: '首頁', link: '/ko/' },
+          { text: '博客', link: '/ko/blog/' },
+        ]
+      },
+      '/pt/': {
+        selectLanguageName: '繁体中文',
+        navbar: [
+          { text: '首頁', link: '/pt/' },
+          { text: '博客', link: '/pt/blog/' },
+        ]
+      },
+
     },
 
     //     bulletin: {
@@ -158,23 +183,23 @@ export default defineUserConfig({
     hostname: 'https://shenzhen.citywalk.group',
 
     plugins: {
-      // 百度统计
-      baiduAnalyticsPlugin: {
-        id: '21348329',
-      },
-      //谷歌统计
-      googleAnalyticsPlugin: {
-        id: 'G-XDBNMHY3T4',
-        debug: true,
-      },
+      // // 百度统计
+      // baiduAnalyticsPlugin: {
+      //   id: '21348329',
+      // },
+      // //谷歌统计
+      // googleAnalyticsPlugin: {
+      //   id: 'G-XDBNMHY3T4',
+      //   debug: true,
+      // },
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
        */
-      // shiki: {
-      // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
-      //   languages: ['shell', 'bash', 'typescript', 'javascript'],
-      // },
+      shiki: {
+        // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
+        languages: ['shell', 'bash', 'html', 'css', 'typescript', 'javascript'],
+      },
 
       /**
        * markdown enhance
@@ -215,16 +240,16 @@ export default defineUserConfig({
        * 评论 comments
        * @see https://theme-plume.vuejs.press/guide/features/comments/
        */
-      comment: {
-        provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-        comment: true,
-        repo: '',
-        repoId: '',
-        categoryId: '',
-        mapping: 'https://citywalk-waline-8ly8k6e5o-sunshang-hls-projects.vercel.app',   //pathname
-        reactionsEnabled: true,
-        inputPosition: 'top',
-      },
+      // comment: {
+      //   provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+      //   comment: true,
+      //   repo: '',
+      //   repoId: '',
+      //   categoryId: '',
+      //   mapping: 'https://citywalk-waline-8ly8k6e5o-sunshang-hls-projects.vercel.app',   //pathname
+      //   reactionsEnabled: true,
+      //   inputPosition: 'top',
+      // },
     },
   }),
 })
