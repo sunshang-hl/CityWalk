@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "city-walk",
-  "packageManager": "pnpm@9.12.3",
+  "packageManager": "pnpm@9.14.2",
   "keywords": [],
   "author": "",
   "scripts": {
@@ -13,14 +13,17 @@
   "license": "MIT",
   "devDependencies": {
     "taze": "^0.18.0",
-    "typescript": "^5.6.3",
+    "typescript": "^5.7.2",
     "vuepress": "2.0.0-rc.18",
-    "vuepress-theme-plume": "1.0.0-rc.114"
+    "vuepress-theme-plume": "1.0.0-rc.118"
   },
   "dependencies": {
+    "@vuepress/plugin-baidu-analytics": "2.0.0-rc.61",
+    "@vuepress/plugin-google-analytics": "2.0.0-rc.54",
+    "@waline/client": "^3.4.0",
     "on": "^1.3.0",
-    "shiki": "^1.22.2",
-    "swiper": "^11.1.14",
+    "shiki": "^1.23.1",
+    "swiper": "^11.1.15",
     "wait": "^0.4.2"
   }
 }

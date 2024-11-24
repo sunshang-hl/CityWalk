@@ -148,14 +148,14 @@ export default defineUserConfig({
         ]
       },
       '/ko/': {
-        selectLanguageName: '繁体中文',
+        selectLanguageName: '한국인',
         navbar: [
           { text: '首頁', link: '/ko/' },
           { text: '博客', link: '/ko/blog/' },
         ]
       },
       '/pt/': {
-        selectLanguageName: '繁体中文',
+        selectLanguageName: 'Português',
         navbar: [
           { text: '首頁', link: '/pt/' },
           { text: '博客', link: '/pt/blog/' },
@@ -164,20 +164,20 @@ export default defineUserConfig({
 
     },
 
-    //     bulletin: {
-    //       layout: 'bottom-right',
-    //       title: '公告板标题',
-    //       enablePage: true,
-    //       lifetime: 'always',
-    //       contentType: 'markdown',
-    //       content: `\
-    // **更新说明**
+    bulletin: {
+      layout: 'bottom-right',
+      title: '公告板标题',
+      enablePage: true,
+      lifetime: 'always',
+      contentType: 'markdown',
+      content: `\
+    **更新说明**
 
-    // - 新增了一些功能
-    // - 修复了一些 bug
-    // `,
+    - 新增了一些功能
+    - 修复了一些 bug
+    `,
 
-    //     },
+    },
 
     // 添加您的部署域名
     hostname: 'https://shenzhen.citywalk.group',
