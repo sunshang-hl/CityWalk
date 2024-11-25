@@ -794,62 +794,8 @@ const PasseioPeloJardim = defineNoteConfig({
 
 /// 专类公园
 const JardinsZoológicos = defineNoteConfig({
-  dir: 'SpecializedPark/Zoo',
-  link: '/SpecializedPark/Zoo',
-  sidebar: 'auto',
-})
-
-const JardinsBotânicos = defineNoteConfig({
-  dir: 'SpecializedPark/BotanicalGarden',
-  link: '/SpecializedPark/BotanicalGarden',
-  sidebar: 'auto',
-})
-
-const JardinsHistóricos = defineNoteConfig({
-  dir: 'SpecializedPark/HistoricGarden',
-  link: '/SpecializedPark/HistoricGarden',
-  sidebar: 'auto',
-})
-
-const ParquesPatrimoniais = defineNoteConfig({
-  dir: 'SpecializedPark/HeritagePark',
-  link: '/SpecializedPark/HeritagePark',
-  sidebar: 'auto',
-})
-
-const ParquesDeDiversão = defineNoteConfig({
-  dir: 'SpecializedPark/FunParks',
-  link: '/SpecializedPark/FunParks',
-  sidebar: 'auto',
-})
-
-const ParquesInfantis = defineNoteConfig({
-  dir: 'SpecializedPark/ChildrenPark',
-  link: '/SpecializedPark/ChildrenPark',
-  sidebar: 'auto',
-})
-
-const ParquesDesportivosEDeDitness = defineNoteConfig({
-  dir: 'SpecializedPark/SportsFitness',
-  link: '/SpecializedPark/SportsFitness',
-  sidebar: 'auto',
-})
-
-const ParquesàBeiraMar = defineNoteConfig({
-  dir: 'SpecializedPark/WaterfrontPark',
-  link: '/SpecializedPark/WaterfrontPark',
-  sidebar: 'auto',
-})
-
-const ParquesMemoriais = defineNoteConfig({
-  dir: 'SpecializedPark/CommemorativePark',
-  link: '/SpecializedPark/CommemorativePark',
-  sidebar: 'auto',
-})
-
-const ParqueDeEsculturas = defineNoteConfig({
-  dir: 'SpecializedPark/SculpturePark',
-  link: '/SpecializedPark/SculpturePark',
+  dir: 'SpecializedPark',
+  link: '/SpecializedPark',
   sidebar: 'auto',
 })
 /// 专类公园
@@ -882,9 +828,7 @@ export const ptNotes = defineNotesConfig({
   dir: 'pt/notes',
   link: '/pt',
   notes: [ParquesComunitários, ParquesDeUsoGeral, PasseioPeloJardim, JardinsZoológicos,
-    JardinsBotânicos, JardinsHistóricos, ParquesPatrimoniais, ParquesDeDiversão,
-    ParquesInfantis, ParquesDesportivosEDeDitness, ParquesàBeiraMar, ParquesMemoriais,
-    ParqueDeEsculturas, EspaçoAbertoPaisagístico, MuseusBibliotecas, PraçasBairros,
+    EspaçoAbertoPaisagístico, MuseusBibliotecas, PraçasBairros,
     OutrosParques
   ],
 })

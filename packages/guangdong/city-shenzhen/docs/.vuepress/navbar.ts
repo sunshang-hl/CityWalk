@@ -388,12 +388,26 @@ export const koNavbar = defineNavbarConfig([
     text: '공원',
     items: [{ text: '종합 공원', link: '/ko/notes/ComprehensivePark/README.md' },
     { text: '커뮤니티 공원', link: '/ko/notes/CommunityPark/README.md' },
-    { text: '전문 공원', link: '/ko/notes/SpecializedPark/README.md' },
+    // { text: '전문 공원', link: '/ko/notes/SpecializedPark/README.md' },
     { text: '조경된 오픈 스페이스', link: '/ko/notes/LandscapeLeisureGreenSpace/README.md' },
     { text: '정원 투어', link: '/ko/notes/TravellingGarden/README.md' },
     ]
   },
 
+  {
+    text: '전문 공원',
+    items: [{ text: '동물원', link: '/ko/notes/SpecializedPark/Zoo/README.md' },
+    { text: '식물원', link: '/ko/notes/SpecializedPark/BotanicalGarden/README.md' },
+    { text: '역사 정원', link: '/ko/notes/SpecializedPark/HistoricGarden/README.md' },
+    { text: '유산 공원', link: '/ko/notes/SpecializedPark/HeritagePark/README.md' },
+    { text: '놀이 공원', link: '/ko/notes/SpecializedPark/FunParks/README.md' },
+    { text: '어린이 공원', link: '/ko/notes/SpecializedPark/ChildrenPark/README.md' },
+    { text: '스포츠 및 피트니스 공원', link: '/ko/notes/SpecializedPark/SportsFitness/README.md' },
+    { text: '워터프론트 공원', link: '/ko/notes/SpecializedPark/WaterfrontPark/README.md' },
+    { text: '기념 공원', link: '/ko/notes/SpecializedPark/CommemorativePark/README.md' },
+    { text: '조각 공원', link: '/ko/notes/SpecializedPark/SculpturePark/README.md' },
+    ]
+  },
 
   { text: '광장 및 근린공원', link: '/ko/notes/SquareBlock/README.md' },
   { text: '박물관 및 도서관', link: '/ko/notes/MuseumLibrary/README.md' },

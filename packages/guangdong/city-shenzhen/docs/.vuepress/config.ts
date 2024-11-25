@@ -1,8 +1,10 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
-// import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-// import { baiduAnalyticsPlugin } from '@vuepress/plugin-baidu-analytics'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import { baiduAnalyticsPlugin } from '@vuepress/plugin-baidu-analytics'
+import { feedPlugin } from '@vuepress/plugin-feed'
+import { cachePlugin } from '@vuepress/plugin-cache'
 import { includeConfig } from '../../../../../shared/config/include'
 
 export default defineUserConfig({
@@ -183,15 +185,31 @@ export default defineUserConfig({
     hostname: 'https://shenzhen.citywalk.group',
 
     plugins: {
-      // // 百度统计
-      // baiduAnalyticsPlugin: {
-      //   id: '21348329',
+      seo: {
+        canonical: 'https://citywalk.group',
+        // // 是否开启自动生成 og:image
+        // autoGenerateOgImage: true,
+        // // 是否开启自动生成 twitter:image
+        // autoGenerateTwitterImage: true,
+        // // 是否开启自动生成 twitter:card
+        // autoGenerateTwitterCard: true,
+        // // 是否开启自动生成 twitter:title
+        // autoGenerateTwitterTitle: true,
+        // //是否开启自动生成 twitter:description
+      },
+      sitemap: {
+        hostname: 'https://shenzhen.citywalk.group',
+        sitemapFilename: "sitemap.xml",
+      },
+
+      // changelog: {
+      //   maxCount: 10,
+      //   repoUrl: 'https://github.com/vuepress/vuepress',
+      //   commitUrlPattern: ':repo/commit/:hash',
+      //   issueUrlPattern: ':repo/issues/:issue',
+      //   tagUrlPattern: ':repo/releases/tag/:tag'
       // },
-      // //谷歌统计
-      // googleAnalyticsPlugin: {
-      //   id: 'G-XDBNMHY3T4',
-      //   debug: true,
-      // },
+
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
@@ -240,16 +258,47 @@ export default defineUserConfig({
        * 评论 comments
        * @see https://theme-plume.vuejs.press/guide/features/comments/
        */
-      // comment: {
-      //   provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-      //   comment: true,
-      //   repo: '',
-      //   repoId: '',
-      //   categoryId: '',
-      //   mapping: 'https://citywalk-waline-8ly8k6e5o-sunshang-hls-projects.vercel.app',   //pathname
-      //   reactionsEnabled: true,
-      //   inputPosition: 'top',
-      // },
+      comment: {
+        provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+        comment: true,
+        serverURL: 'https://citywalk-waline-8ly8k6e5o-sunshang-hls-projects.vercel.app',
+        // repo: '',
+        // repoId: '',
+        // categoryId: '',
+        // mapping: '',   //pathname
+        // reactionsEnabled: true,
+        // inputPosition: 'top',
+      },
     },
   }),
+  plugins: [
+    googleAnalyticsPlugin({
+      id: 'G-XDBNMHY3T4',
+      debug: true,
+    }),
+    baiduAnalyticsPlugin({
+      id: '21348329',
+    }),
+    feedPlugin({
+      hostname: 'https://shenzhen.citywalk.group',
+      rss: true,
+      icon: 'typcn:rss',
+    }),
+    // redirectPlugin({
+    //   redirects: {
+    //     '/': '/zh-cn/',
+    //     '/zh-cn/': '/zh-cn/blog/',
+    //     '/en/': '/en/blog/',
+    //     '/fr/': '/fr/blog/',
+    //     '/de/': '/de/blog/',
+    //     '/es/': '/es/blog/',
+    //     '/ja/': '/ja/blog/',
+    //     '/ru/': '/ru/blog/',
+    //   }
+    // })
+
+    cachePlugin({
+      type: 'memory',
+    }),
+  ],
 })
