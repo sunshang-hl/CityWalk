@@ -54,7 +54,7 @@ export const zhNavbar = defineNavbarConfig([
   //   { text: '矿山公园', link: '/notes/MiningPark/README.md' },
   //   ]
   // },
-  { text: '博物/图书馆', link: '/notes/博物&图书馆/README.md' },
+  { text: '文体场馆', link: '/notes/文体场馆/README.md' },
   // {
   //   text: '生态保育绿地',
   //   items: [{ text: '自然保护区', link: '/notes/NaturalReserve/README.md' },
@@ -102,7 +102,7 @@ export const enNavbar = defineNavbarConfig([
   },
 
   { text: 'Square&Block', link: '/en/notes/SquareBlock/README.md' },
-  { text: 'Museum&Library', link: '/en/notes/MuseumLibrary/README.md' },
+  { text: 'Museum&Library', link: '/en/notes/Cultural-Sports-Venues/README.md' },
   // {
   //   text: 'Ecological Conservation Green Space',
   //   items: [{ text: 'Natural Reserve', link: '/en/notes/NaturalReserve/README.md' },
@@ -147,7 +147,7 @@ export const deNavbar = defineNavbarConfig([
   },
 
   { text: 'Quadrat/Block', link: '/de/notes/SquareBlock/README.md' },
-  { text: 'Museum&Bibliothek', link: '/de/notes/MuseumLibrary/README.md' },
+  { text: 'Museum&Bibliothek', link: '/de/notes/Cultural-Sports-Venues/README.md' },
   { text: 'Sonstiges', link: '/de/notes/Other/README.md' },
 
   {
@@ -173,7 +173,7 @@ export const esNavbar = defineNavbarConfig([
     ]
   },
   { text: 'Plaza&Barrio', link: '/es/notes/SquareBlock/README.md' },
-  { text: 'Museo&Biblioteca', link: '/es/notes/MuseumLibrary/README.md' },
+  { text: 'Museo&Biblioteca', link: '/es/notes/Cultural-Sports-Venues/README.md' },
   { text: 'Otro', link: '/es/notes/Other/README.md' },
 
   {
@@ -199,7 +199,7 @@ export const frNavbar = defineNavbarConfig([
     ]
   },
   { text: 'Carré&bloc', link: '/fr/notes/SquareBlock/README.md' },
-  { text: 'Musée&Bibliothèque', link: '/fr/notes/MuseumLibrary/README.md' },
+  { text: 'Musée&Bibliothèque', link: '/fr/notes/Cultural-Sports-Venues/README.md' },
   { text: 'Autre', link: '/fr/notes/Other/README.md' },
 
   {
@@ -242,7 +242,7 @@ export const jaNavbar = defineNavbarConfig([
   { text: '広場&街区', link: '/ja/notes/SquareBlock/README.md' },
 
   {
-    text: '博物館&図書館', link: '/ja/notes/MuseumLibrary/README.md'
+    text: '博物館&図書館', link: '/ja/notes/Cultural-Sports-Venues/README.md'
   },
 
   { text: 'その他', link: '/ja/notes/Other/README.md' },
@@ -271,7 +271,7 @@ export const ruNavbar = defineNavbarConfig([
 
 
   { text: 'Квадрат&блок', link: '/ru/notes/SquareBlock/README.md' },
-  { text: 'Музей&Библиотека', link: '/ru/notes/MuseumLibrary/README.md' },
+  { text: 'Музей&Библиотека', link: '/ru/notes/Cultural-Sports-Venues/README.md' },
   { text: 'Другое', link: '/ru/notes/Other/README.md' },
 
   {
@@ -298,7 +298,7 @@ export const trNavbar = defineNavbarConfig([
 
 
   { text: 'Kare&blok', link: '/tr/notes/SquareBlock/README.md' },
-  { text: 'Müze&Kütüphane', link: '/tr/notes/MuseumLibrary/README.md' },
+  { text: 'Müze&Kütüphane', link: '/tr/notes/Cultural-Sports-Venues/README.md' },
   { text: 'Diğer', link: '/tr/notes/Other/README.md' },
 
   {
@@ -325,7 +325,7 @@ export const viNavbar = defineNavbarConfig([
 
 
   { text: 'QuảngTrường&KhuPhố', link: '/vi/notes/SquareBlock/README.md' },
-  { text: 'BảoTàng&ThưViện', link: '/vi/notes/MuseumLibrary/README.md' },
+  { text: 'BảoTàng&ThưViện', link: '/vi/notes/Cultural-Sports-Venues/README.md' },
   { text: 'Khác', link: '/vi/notes/Other/README.md' },
 
   {
@@ -367,7 +367,7 @@ export const zhTWNavbar = defineNavbarConfig([
   { text: '風景休憩綠地', link: '/zh-tw/notes/LandscapeLeisureGreenSpace/README.md' },
   { text: '幣場&街區', link: '/zh-tw/notes/SquareBlock/README.md' },
 
-  { text: '博物館&圖書館', link: '/zh-tw/notes/MuseumLibrary/README.md' },
+  { text: '博物館&圖書館', link: '/zh-tw/notes/Cultural-Sports-Venues/README.md' },
 
   { text: '其他', link: '/zh-tw/notes/Other/README.md' },
 
@@ -410,7 +410,7 @@ export const koNavbar = defineNavbarConfig([
   },
 
   { text: '광장 및 근린공원', link: '/ko/notes/SquareBlock/README.md' },
-  { text: '박물관 및 도서관', link: '/ko/notes/MuseumLibrary/README.md' },
+  { text: '박물관 및 도서관', link: '/ko/notes/Cultural-Sports-Venues/README.md' },
   { text: '기타', link: '/ko/notes/Other/README.md' },
 
   {
@@ -437,7 +437,7 @@ export const ptNavbar = defineNavbarConfig([
 
 
   { text: 'Praças e Bairros', link: '/pt/notes/SquareBlock/README.md' },
-  { text: 'Museus e bibliotecas', link: '/pt/notes/MuseumLibrary/README.md' },
+  { text: 'Museus e bibliotecas', link: '/pt/notes/Cultural-Sports-Venues/README.md' },
   { text: 'Outros', link: '/pt/notes/Other/README.md' },
 
   {

@@ -95,8 +95,8 @@ const 风景休憩绿地 = defineNoteConfig({
 })
 
 const 博物和图书馆 = defineNoteConfig({
-  dir: '博物&图书馆',
-  link: '/MuseumLibrary',
+  dir: '文体场馆',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -162,9 +162,9 @@ const LandscapeLeisureGreenSpace = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const MuseumLibrary = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+const CulturalSportsVenues = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -185,7 +185,7 @@ export const enNotes = defineNotesConfig({
   dir: 'en/notes',
   link: '/en/',
   notes: [CommunityPark, ComprehensivePark, SpecializedPark, TravellingGarden, LandscapeLeisureGreenSpace,
-    MuseumLibrary, SquareBlock, Other],
+    CulturalSportsVenues, SquareBlock, Other],
 })
 
 /* =================== locale: de-DE ======================= */
@@ -221,8 +221,8 @@ const LandschaftlicherErholungsraum = defineNoteConfig({
 })
 
 const MuseumBibliothek = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -280,8 +280,8 @@ const EspacioVerdeDeDescansoEscénico = defineNoteConfig({
 })
 
 const MuseoBiblioteca = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -339,8 +339,8 @@ const EspaceVertDeReposPittoresque = defineNoteConfig({
 })
 
 const MuséeBibliothèque = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -455,8 +455,8 @@ const 風景休息緑地 = defineNoteConfig({
 })
 
 const 博物館和図書館 = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -514,8 +514,8 @@ const ЛандшафтнаяЭонаOтдыха = defineNoteConfig({
 })
 
 const МузейБиблиотека = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -572,8 +572,8 @@ const ManzaralıYeşilAlan = defineNoteConfig({
 })
 
 const MüzeKütüphane = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -630,8 +630,8 @@ const KhuVựcXanhNghỉNgơiCảnhQuan = defineNoteConfig({
 })
 
 const BảoTàngThưViện = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -738,8 +738,8 @@ const 조경된열린공간 = defineNoteConfig({
 })
 
 const 박물관및도서관 = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -807,8 +807,8 @@ const EspaçoAbertoPaisagístico = defineNoteConfig({
 })
 
 const MuseusBibliotecas = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 
@@ -923,8 +923,8 @@ const 風景休憩綠地 = defineNoteConfig({
 })
 
 const 博物館和圖書館 = defineNoteConfig({
-  dir: 'MuseumLibrary',
-  link: '/MuseumLibrary',
+  dir: 'Cultural-Sports-Venues',
+  link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
 

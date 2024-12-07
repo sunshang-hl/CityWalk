@@ -1,7 +1,7 @@
 ---
-title: 博物/图书馆
+title: 文体场馆
 createTime: 2024-11-07 00:12:49
-permalink: /ko/MuseumLibrary/
+permalink: /ko/Cultural-Sports-Venues/
 author: sunshang-hl
 description: xxxx
 ---
