@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://shenzhen.citywalk.group/zh-tw/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://shenzhen.citywalk.group/zh-tw/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>城市漫步-深圳</title>
+    <link>https://shenzhen.citywalk.group/zh-tw/</link>
+    <description>city walk website ShenZhen</description>
+    <language>zh-tw</language>
+    <pubDate>Wed, 11 Dec 2024 15:49:15 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 15:49:15 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+  </channel>
+</rss>
