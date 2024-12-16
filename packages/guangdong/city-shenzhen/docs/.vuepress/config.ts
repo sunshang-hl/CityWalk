@@ -6,6 +6,7 @@ import { baiduAnalyticsPlugin } from '@vuepress/plugin-baidu-analytics'
 import { feedPlugin } from '@vuepress/plugin-feed'
 import { cachePlugin } from '@vuepress/plugin-cache'
 import { includeConfig } from '../../../../../shared/config/include'
+import { gitPlugin } from '@vuepress/plugin-git'
 
 export default defineUserConfig({
   base: '/',
@@ -270,6 +271,7 @@ export default defineUserConfig({
         // inputPosition: 'top',
       },
     },
+    contributors: true,
   }),
   plugins: [
     googleAnalyticsPlugin({
@@ -279,6 +281,17 @@ export default defineUserConfig({
     baiduAnalyticsPlugin({
       id: '21348329',
     }),
+
+    // 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
+    // git: process.env.NODE_ENV === 'production',
+    gitPlugin({
+      // 使用正确的配置选项
+      createdTime: process.env.NODE_ENV === 'production',
+      updatedTime: process.env.NODE_ENV === 'production',
+      contributors: process.env.NODE_ENV === 'production'
+    }),
+
+
     feedPlugin({
       hostname: 'https://shenzhen.citywalk.group',
       rss: true,

@@ -6,7 +6,7 @@ import { enNotes, zhNotes, deNotes, esNotes, frNotes, jaNotes, ruNotes, trNotes,
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://theme-plume.vuejs.press/plume.png',
+  logo: 'https://pub-187e90a3327b41ccb8869558b6b8bbc0.r2.dev/city-shenzhen/2024/12/0a08e9417033ccaf116fb71cfc7bcdb9.png',
   // your git repo url
   // docsRepo: 'https://github.com/sunshang-hl/CityWalk',
   // docsDir: 'docs',
@@ -31,6 +31,7 @@ export default defineThemeConfig({
 
   footer: {
     copyright: 'Copyright © 2024-present sunshang-hl',
+    message: '粤ICP备2024338794号-1',
   },
 
 
