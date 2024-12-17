@@ -263,7 +263,7 @@ export default defineUserConfig({
         provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
         comment: true,
         // serverURL: 'https://citywalk-waline-8ly8k6e5o-sunshang-hls-projects.vercel.app',
-        // serverURL: 'citywalk-waline.vercel.app',
+        serverURL: 'citywalk-waline.vercel.app',
         // repo: '',
         // repoId: '',
         // categoryId: '',
