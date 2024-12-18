@@ -225,6 +225,7 @@ export default defineUserConfig({
        * @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
        */
       markdownEnhance: {
+        // markdownInclude: {
         // demo: true,
         include: includeConfig,
         //   chart: true,

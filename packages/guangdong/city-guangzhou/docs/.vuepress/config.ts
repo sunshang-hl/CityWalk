@@ -40,7 +40,8 @@ export default defineUserConfig({
        * markdown enhance
        * @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
        */
-      markdownEnhance: {
+      // markdownEnhance: {
+      markdownInclude: {
         // demo: true,
         include: includeConfig,
         //   chart: true,

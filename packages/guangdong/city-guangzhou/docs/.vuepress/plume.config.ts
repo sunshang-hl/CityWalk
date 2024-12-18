@@ -29,6 +29,7 @@ export default defineThemeConfig({
 
   footer: {
     copyright: 'Copyright © 2024-present sunshang-hl',
+    message: '粤ICP备2024338794号-1',
   },
 
   locales: {

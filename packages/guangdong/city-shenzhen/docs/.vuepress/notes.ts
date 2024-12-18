@@ -118,9 +118,6 @@ const 专类公园 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-
-
-
 export const zhNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
