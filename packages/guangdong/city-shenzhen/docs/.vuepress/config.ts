@@ -220,19 +220,21 @@ export default defineUserConfig({
         languages: ['shell', 'bash', 'html', 'css', 'typescript', 'javascript'],
       },
 
+      // markdownInclude: true,
       /**
        * markdown enhance
        * @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
        */
-      markdownEnhance: {
-        // markdownInclude: {
-        // demo: true,
-        include: includeConfig,
-        //   chart: true,
-        //   echarts: true,
-        //   mermaid: true,
-        //   flowchart: true,
-      },
+      // markdownEnhance: {
+
+      // demo: true,
+      // include: includeConfig,
+      // includeConfig: true,
+      //   chart: true,
+      //   echarts: true,
+      //   mermaid: true,
+      //   flowchart: true,
+      // },
 
       /**
        *  markdown power
@@ -283,6 +285,8 @@ export default defineUserConfig({
     baiduAnalyticsPlugin({
       id: '21348329',
     }),
+
+
 
     // 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
     // git: process.env.NODE_ENV === 'production',

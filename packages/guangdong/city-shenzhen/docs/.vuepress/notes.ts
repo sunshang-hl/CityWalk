@@ -94,11 +94,12 @@ const 风景休憩绿地 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const 博物和图书馆 = defineNoteConfig({
+const 文体场馆 = defineNoteConfig({
   dir: '文体场馆',
   link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
+
 
 const 广场和街区 = defineNoteConfig({
   dir: '广场&街区',
@@ -122,7 +123,7 @@ export const zhNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
   notes: [社区公园, 综合公园, 生态保育绿地, 风景休憩绿地,
-    博物和图书馆, 专项, 专类公园, 广场和街区, 游园, 动物园,
+    文体场馆, 专项, 专类公园, 广场和街区, 游园, 动物园,
     历史名园, 植物园, 遗址公园, 游乐公园, 儿童公园,
     体育健身公园, 滨水公园, 纪念性公园, 雕塑公园],
 })
