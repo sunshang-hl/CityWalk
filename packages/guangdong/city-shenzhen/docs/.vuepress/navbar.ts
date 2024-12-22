@@ -71,7 +71,7 @@ export const zhNavbar = defineNavbarConfig([
   {
     text: '深圳',
     icon: 'gis:poi-map',
-    link: '/site-map/'
+    link: '/city-site-map/city-guides-overview/'
   },
   // {
   //   text: '专项',
@@ -120,7 +120,7 @@ export const enNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/en/site-map/'
+    link: '/en/city-site-map/en-city-guides-overview/'
   },
   // {
   //   text: 'Other',
@@ -153,7 +153,7 @@ export const deNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/de/site-map/'
+    link: '/de/city-site-map/de-city-guides-overview/'
   },
 
   // ...deSharedNavbar
@@ -179,7 +179,7 @@ export const esNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/es/site-map/'
+    link: '/es/city-site-map/es-city-guides-overview/'
   },
 
   // ...esSharedNavbar
@@ -205,7 +205,7 @@ export const frNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/fr/site-map/'
+    link: '/fr/city-site-map/fr-city-guides-overview/'
   },
   // ...frSharedNavbar
 ])
@@ -250,7 +250,7 @@ export const jaNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/ja/site-map/'
+    link: '/ja/city-site-map/ja-city-guides-overview/'
   },
   // ...jaSharedNavbar
 ])
@@ -277,7 +277,7 @@ export const ruNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/ru/site-map/'
+    link: '/ru/city-site-map/ru-city-guides-overview/'
   },
   // ...ruSharedNavbar
 ])
@@ -304,7 +304,7 @@ export const trNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/tr/site-map/'
+    link: '/tr/city-site-map/tr-city-guides-overview/'
   },
   // ...trSharedNavbar
 ])
@@ -331,7 +331,7 @@ export const viNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/vi/site-map/'
+    link: '/vi/city-site-map/vi-city-guides-overview/'
   },
   // ...viSharedNavbar
 ])
@@ -375,7 +375,7 @@ export const zhTWNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/zh-tw/site-map/'
+    link: '/zh-tw/city-site-map/zh-tw-city-guides-overview/'
   },
   // ...zhTWSharedNavbar
 ])
@@ -416,7 +416,7 @@ export const koNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/ko/site-map/'
+    link: '/ko/city-site-map/ko-city-guides-overview/'
   },
   // ...viSharedNavbar
 ])
@@ -443,7 +443,7 @@ export const ptNavbar = defineNavbarConfig([
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
-    link: '/pt/site-map/'
+    link: '/pt/city-site-map/pt-city-guides-overview/'
   },
   // ...viSharedNavbar
 ])
