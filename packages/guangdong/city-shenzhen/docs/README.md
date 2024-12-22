@@ -62,40 +62,48 @@ config:
 
   -
     type: image-text
-    title: 功能
-    description: 内置丰富的功能，满足网站一般需求。
+    title: 基础
+    description: 详细的场馆景点信息，科学的分类，充分展示公园的概况。
     image: /images/citywalk-1.png
     list:
       -
-        title: 文章信息
-        description: 为文章添加标签、分类、字数统计、阅读时间、写作日期等信息。
+        title: 科学的分类
+        description: 分类标准来源于:CJJ_T_85-2017城市绿地分类标准。
       -
-        title: 评论
-        description: 支持 4 种评论系统，你可以自由选择符合你的需求的评论系统。
+        title: 基本的信息
+        description: 公园介绍\历史背景\地址\标签等基本信息。
       -
-        title: 搜索
-        description: 支持基于 minisearch 的本地搜索， 支持Algolia搜索。
+        title: 特色景点
+        description: 精选公园内最具代表性和吸引力的景点，包括自然景观、人文建筑以及历史遗迹，为游客提供丰富的游览体验。
       -
-        title: 加密
-        description: 支持全站加密、部分加密（加密目录、加密文章）。
+        title: 停车、交通指引
+        description: 详细介绍公园内外的停车设施分布情况，包括停车场位置、规模、收费标准及高峰时段建议，确保每位到访者都能方便快捷地找到停车位
       -
-        title: 代码复制
-        description: 一键复制代码块中的内容
+        title: 门票价格
+        description: 清晰列出公园门票的价格体系，包含成人票、儿童票、老年人优惠票等各种类型的票价，并注明特殊活动期间可能存在的票价变动。
   -
     type: text-image
-    title: 博客
-    description: 主题默认支持博客，生成你的个人博客。
+    title: 详情
+    description: 介绍更多场馆景点的信息,让你玩的更开心。
     image: /images/citywalk-2.png
     list:
+      
       -
-        title: 文章列表
-        description: 通过文章写作日期，自动排序并生成博客文章列表页。
+        title: 开园时间
+        description: 提供详尽的公共交通路线图和自驾指南，涵盖地铁站、公交线路、步行路径等信息，帮助游客轻松抵达公园。
       -
-        title: 博主信息
-        description: 自定义名称、座右铭、头像，社交媒体链接。
+        title: 服务设施
+        description: 全面展示公园内的各类服务设施，如餐饮区、休息亭、卫生间、母婴室等的位置和服务内容，提升游客的游园舒适度。
       -
-        title: 标签、归档
-        description: 自动生成标签页，为文章根据年份进行归档。
+        title: 官媒信息
+        description: 收录官方媒体发布的最新动态、公告通知、活动预告等内容，保持信息透明度，让游客第一时间获取权威资讯。
+      -
+        title: 注意事项
+        description: 列举游览公园时需要注意的安全提示、行为规范和其他重要事项，保障游客安全并维护良好的游园秩序。
+      -
+        title: 附近场馆景点
+        description: 探索公园周边更多的文化旅游资源！我们为您精心挑选了一系列临近的博物馆、艺术馆、剧院以及其他有趣的场所，让您的旅程更加丰富多彩。
+  
 
   -
     type: profile
