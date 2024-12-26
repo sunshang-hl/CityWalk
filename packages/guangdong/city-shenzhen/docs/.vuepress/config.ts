@@ -185,6 +185,18 @@ export default defineUserConfig({
     // 添加您的部署域名
     hostname: 'https://shenzhen.citywalk.group',
 
+
+    // 文章贡献者
+    contributors: true,
+    // 文章变更历史
+    changelog: {
+      maxCount: 10,
+      repoUrl: 'https://github.com/sunshang-hl/CityWalk',
+      commitUrlPattern: ':repo/commit/:hash',
+      issueUrlPattern: ':repo/issues/:issue',
+      tagUrlPattern: ':repo/releases/tag/:tag'
+    },
+
     plugins: {
       seo: {
         canonical: 'https://citywalk.group',
@@ -202,6 +214,10 @@ export default defineUserConfig({
         hostname: 'https://shenzhen.citywalk.group',
         sitemapFilename: "sitemap.xml",
       },
+
+
+      git: process.env.NODE_ENV === 'production',
+
 
       // changelog: {
       //   maxCount: 10,
@@ -267,6 +283,13 @@ export default defineUserConfig({
         comment: true,
         // serverURL: 'https://citywalk-waline-8ly8k6e5o-sunshang-hls-projects.vercel.app',
         serverURL: 'citywalk-waline.vercel.app',
+        reaction: true,
+        // emoji: [
+        //   'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+        //   '//unpkg.com/@waline/emojis@1.2.0/weibo',
+        //   '//unpkg.com/@waline/emojis@1.2.0/bmoji',
+        // ],
+
         // repo: '',
         // repoId: '',
         // categoryId: '',
@@ -275,7 +298,7 @@ export default defineUserConfig({
         // inputPosition: 'top',
       },
     },
-    contributors: true,
+
   }),
   plugins: [
     googleAnalyticsPlugin({
@@ -290,12 +313,12 @@ export default defineUserConfig({
 
     // 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
     // git: process.env.NODE_ENV === 'production',
-    gitPlugin({
-      // 使用正确的配置选项
-      createdTime: process.env.NODE_ENV === 'production',
-      updatedTime: process.env.NODE_ENV === 'production',
-      contributors: process.env.NODE_ENV === 'production'
-    }),
+    // gitPlugin({
+    //   // 使用正确的配置选项
+    //   createdTime: process.env.NODE_ENV === 'production',
+    //   updatedTime: process.env.NODE_ENV === 'production',
+    //   contributors: process.env.NODE_ENV === 'production'
+    // }),
 
 
     feedPlugin({
