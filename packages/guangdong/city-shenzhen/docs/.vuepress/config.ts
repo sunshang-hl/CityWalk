@@ -7,6 +7,7 @@ import { feedPlugin } from '@vuepress/plugin-feed'
 import { cachePlugin } from '@vuepress/plugin-cache'
 import { includeConfig } from '../../../../../shared/config/include'
 import { gitPlugin } from '@vuepress/plugin-git'
+import { catalogPlugin } from '@vuepress/plugin-catalog'
 
 export default defineUserConfig({
   base: '/',
@@ -188,7 +189,7 @@ export default defineUserConfig({
 
     // 文章贡献者
     contributors: true,
-    // 文章变更历史
+    // // 文章变更历史
     changelog: {
       maxCount: 10,
       repoUrl: 'https://github.com/sunshang-hl/CityWalk',
@@ -309,16 +310,19 @@ export default defineUserConfig({
       id: '21348329',
     }),
 
+    // catalogPlugin({
+    //   // 配置目录页的 frontmatter
+    //   frontmatter: (path) => ({
+    //     // 可以自定义标题、作者、时间等
+    //     sidebar: false,
+    //   }),
+    //   // 目录组件的名称（可选）
+    //   component: 'Catalog',
+    //   // 排除的文件或文件夹，例如排除 /foo/ 文件夹
+    //   exclude: ['.vuepress', 'node_modules'],
 
-
-    // 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
-    // git: process.env.NODE_ENV === 'production',
-    // gitPlugin({
-    //   // 使用正确的配置选项
-    //   createdTime: process.env.NODE_ENV === 'production',
-    //   updatedTime: process.env.NODE_ENV === 'production',
-    //   contributors: process.env.NODE_ENV === 'production'
     // }),
+
 
 
     feedPlugin({
@@ -343,4 +347,11 @@ export default defineUserConfig({
       type: 'memory',
     }),
   ],
+  // 在 extendsPage 中设置目录信息
+  extendsPage: (page) => {
+    page.routeMeta = {
+      // 目录标题
+      title: page.title,
+    }
+  },
 })
