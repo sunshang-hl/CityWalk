@@ -7,15 +7,15 @@ import { defineCatalogInfoGetter } from '@vuepress/plugin-catalog/client'
 // import './theme/styles/custom.css'
 
 // Define how to extract catalog info from route meta
-defineCatalogInfoGetter((meta) => {
-  // If meta has title, return a catalog info object
-  if (typeof meta.title === 'string') {
-    return {
-      title: meta.title,
-    }
-  }
-  return null
-})
+// defineCatalogInfoGetter((meta) => {
+//   // If meta has title, return a catalog info object
+//   if (typeof meta.title === 'string') {
+//     return {
+//       title: meta.title,
+//     }
+//   }
+//   return null
+// })
 
 export default defineClientConfig({
   enhance({ app }) {
