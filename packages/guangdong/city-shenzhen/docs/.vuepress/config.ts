@@ -347,11 +347,11 @@ export default defineUserConfig({
       type: 'memory',
     }),
   ],
-  // 在 extendsPage 中设置目录信息
-  extendsPage: (page) => {
-    page.routeMeta = {
-      // 目录标题
-      title: page.title,
-    }
-  },
+  // // 在 extendsPage 中设置目录信息
+  // extendsPage: (page) => {
+  //   page.routeMeta = {
+  //     // 目录标题
+  //     title: page.title,
+  //   }
+  // },
 })
