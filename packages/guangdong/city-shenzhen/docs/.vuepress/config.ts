@@ -310,18 +310,24 @@ export default defineUserConfig({
       id: '21348329',
     }),
 
-    // catalogPlugin({
-    //   // 配置目录页的 frontmatter
-    //   frontmatter: (path) => ({
-    //     // 可以自定义标题、作者、时间等
-    //     sidebar: false,
-    //   }),
-    //   // 目录组件的名称（可选）
-    //   component: 'Catalog',
-    //   // 排除的文件或文件夹，例如排除 /foo/ 文件夹
-    //   exclude: ['.vuepress', 'node_modules'],
-
-    // }),
+    // catalog ?: CatalogPlugin | boolean;
+    catalogPlugin({
+      // 配置目录页的 frontmatter
+      // frontmatter: (path) => ({
+      //   // 可以自定义标题、作者、时间等
+      //   sidebar: false,
+      // }),
+      // // 只处理特定目录下的文件
+      // include: ['guide/**/*', 'reference/**/*'],
+      // 目录项级别的最大深度
+      level: 1,
+      // 目录是否显示索引
+      index: true,
+      // 目录组件的名称（可选）
+      component: 'Catalog',
+      // 排除的文件或文件夹，例如排除 /foo/ 文件夹
+      exclude: ['.vuepress', 'node_modules', 'foo', 'preview'],
+    }),
 
 
 
@@ -347,11 +353,11 @@ export default defineUserConfig({
       type: 'memory',
     }),
   ],
-  // // 在 extendsPage 中设置目录信息
-  // extendsPage: (page) => {
-  //   page.routeMeta = {
-  //     // 目录标题
-  //     title: page.title,
-  //   }
-  // },
+  // 在 extendsPage 中设置目录信息
+  extendsPage: (page) => {
+    page.routeMeta = {
+      // 目录标题
+      title: page.title,
+    }
+  },
 })
