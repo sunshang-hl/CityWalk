@@ -81,7 +81,7 @@ export default defineUserConfig({
     // 主题内的多语言配置
     locales: {
       '/': {
-        // 当前语言显示在导航栏多语言下拉菜单的文本
+        // 当��言显示在导航栏多语言下拉菜单的文本
         selectLanguageName: '简体中文',
         navbar: [
           { text: '首页', link: '/' },
@@ -183,7 +183,7 @@ export default defineUserConfig({
 
     },
 
-    // 添加您的部署域名
+    // 加您的部署域名
     hostname: 'https://shenzhen.citywalk.group',
 
 
@@ -237,20 +237,18 @@ export default defineUserConfig({
         languages: ['shell', 'bash', 'html', 'css', 'typescript', 'javascript'],
       },
 
-      // markdownInclude: true,
+      markdownInclude: true,
       /**
        * markdown enhance
        * @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
        */
       // markdownEnhance: {
-
-      // demo: true,
-      // include: includeConfig,
-      // includeConfig: true,
+      //   demo: true,
+      //   include: true,
       //   chart: true,
-      //   echarts: true,
-      //   mermaid: true,
-      //   flowchart: true,
+      //   //   echarts: true,
+      //   //   mermaid: true,
+      //   //   flowchart: true,
       // },
 
       /**
@@ -282,9 +280,38 @@ export default defineUserConfig({
       comment: {
         provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
         comment: true,
-        // serverURL: 'https://citywalk-waline-8ly8k6e5o-sunshang-hls-projects.vercel.app',
         serverURL: 'citywalk-waline.vercel.app',
-        reaction: true,
+        // reaction: true,
+        // 反应功能配置
+        reaction: [
+          'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f630.png',
+          'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f600.png',
+          'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f605.png',
+          'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f623.png',
+          'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f47f.png',
+        ],
+
+        // 国际化配置 - 设置默认语言为中文
+        locales: {
+          zh: {
+            reaction0: '很好',
+            reaction1: '好',
+            reaction2: '一般',
+            reaction3: '差',
+            reaction4: '很差',
+            reactionTitle: '你认为这个公园怎么样？'
+          },
+          en: {
+            reaction0: 'Excellent',
+            reaction1: 'Good',
+            reaction2: 'Normal',
+            reaction3: 'Bad',
+            reaction4: 'Very bad',
+            reactionTitle: 'How do you think about this park?'
+          }
+        },
+
+
         // emoji: [
         //   'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
         //   '//unpkg.com/@waline/emojis@1.2.0/weibo',
@@ -311,23 +338,23 @@ export default defineUserConfig({
     }),
 
     // catalog ?: CatalogPlugin | boolean;
-    catalogPlugin({
-      // 配置目录页的 frontmatter
-      // frontmatter: (path) => ({
-      //   // 可以自定义标题、作者、时间等
-      //   sidebar: false,
-      // }),
-      // // 只处理特定目录下的文件
-      // include: ['guide/**/*', 'reference/**/*'],
-      // 目录项级别的最大深度
-      level: 1,
-      // 目录是否显示索引
-      index: true,
-      // 目录组件的名称（可选）
-      component: 'Catalog',
-      // 排除的文件或文件夹，例如排除 /foo/ 文件夹
-      exclude: ['.vuepress', 'node_modules', 'foo', 'preview'],
-    }),
+    // catalogPlugin({
+    //   // 配置目���页的 frontmatter
+    //   // frontmatter: (path) => ({
+    //   //   // 可以自定义标题、作者、时间等
+    //   //   sidebar: false,
+    //   // }),
+    //   // // 只处理特定目录下的文件
+    //   // include: ['notes/**/*'],
+    //   // 目录项级别的最大深度
+    //   level: 1,
+    //   // 目录是否显示索引
+    //   index: true,
+    //   // 目录组件的名称（可选）
+    //   component: 'Catalog',
+    //   // 排除的文件或文件夹，例如排除 /foo/ 文件夹
+    //   exclude: ['.vuepress', 'node_modules', 'foo', 'preview'],
+    // }),
 
 
 
@@ -354,10 +381,20 @@ export default defineUserConfig({
     }),
   ],
   // 在 extendsPage 中设置目录信息
-  extendsPage: (page) => {
-    page.routeMeta = {
-      // 目录标题
-      title: page.title,
-    }
-  },
+  // extendsPage: (page) => {
+  //   page.routeMeta = {
+  //     // 目录标题
+  //     title: page.title,
+  //   }
+  // },
 })
+
+
+// const locales = {
+//   level0: '很好',
+//   level1: '好',
+//   level2: '一般',
+//   level3: '差',
+//   level4: '很差',
+//   reactionTitle: '你认为这个公园怎么样？',
+// }
