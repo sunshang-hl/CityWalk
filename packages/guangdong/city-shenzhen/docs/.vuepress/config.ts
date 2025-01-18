@@ -75,6 +75,15 @@ export default defineUserConfig({
     },
   },
 
+  // head: [
+  //   ['link', { rel: 'icon', href: '/favicon.ico' }],
+  //   ['meta', { name: 'author', content: 'sunshang' }],
+  //   ['meta', {
+  //     name: 'keywords', content:
+  //       '城市漫步,深圳,深圳景点,深圳公园,深圳景点,深圳景点}],
+  // ],
+
+
   bundler: viteBundler(),
 
   theme: plumeTheme({

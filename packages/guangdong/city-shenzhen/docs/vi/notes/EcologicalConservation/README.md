@@ -2,7 +2,7 @@
 title: 生态保育绿地
 createTime: 2024-11-07 00:12:49
 permalink: /vi/EcologicalConservation/
-author: sunshang-hl
+
 description: 为保障城乡生态安全,改善景观质量而进行保护、 恢复和资源培育的绿色空间。主要包括自然保护区、水源保护区、湿地保护区、公益林、水体防护林、生态修复地、生物物种構息地等各类以生态保育功能为主的绿地.
 ---
 

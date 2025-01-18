@@ -85,7 +85,7 @@ const props = defineProps({
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.85));
   color: #fff;
   padding: 10px;
-  transform: translateY(calc(100% - 95px)); /* 默认只显示标题部分 */
+  transform: translateY(calc(100% - 65px)); /* 默认只显示标题部分 */
   transition: transform 0.3s ease;
 }
 

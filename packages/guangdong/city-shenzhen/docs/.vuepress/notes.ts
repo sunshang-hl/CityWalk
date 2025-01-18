@@ -19,7 +19,14 @@ const 游园 = defineNoteConfig({
   link: '/TravellingGarden',
   sidebar: 'auto',
 })
+
 /// 专类公园
+const 专类公园 = defineNoteConfig({
+  dir: '专类公园',
+  link: '/SpecializedPark',
+  sidebar: 'auto',
+})
+
 const 动物园 = defineNoteConfig({
   dir: '专类公园/动物园',
   link: '/SpecializedPark/Zoo',
@@ -35,12 +42,6 @@ const 植物园 = defineNoteConfig({
 const 历史名园 = defineNoteConfig({
   dir: '专类公园/历史名园',
   link: '/SpecializedPark/HistoricGarden',
-  sidebar: 'auto',
-})
-
-const 遗址公园 = defineNoteConfig({
-  dir: '专类公园/遗址公园',
-  link: '/SpecializedPark/HeritagePark',
   sidebar: 'auto',
 })
 
@@ -79,9 +80,8 @@ const 雕塑公园 = defineNoteConfig({
   link: '/SpecializedPark/SculpturePark',
   sidebar: 'auto',
 })
-
-
 /// 专类公园
+
 const 生态保育绿地 = defineNoteConfig({
   dir: '生态保育绿地',
   link: '/EcologicalConservation',
@@ -94,9 +94,95 @@ const 风景休憩绿地 = defineNoteConfig({
   sidebar: 'auto',
 })
 
+const 风景名胜区 = defineNoteConfig({
+  dir: '风景休憩绿地/风景名胜区',
+  link: '/LandscapeLeisureGreenSpace/ScenicHistoricAreas',
+  sidebar: 'auto',
+})
+
+const 森林公园 = defineNoteConfig({
+  dir: '风景休憩绿地/森林公园',
+  link: '/LandscapeLeisureGreenSpace/ForestPark',
+  sidebar: 'auto',
+})
+
+// const 绿地公园 = defineNoteConfig({
+//   dir: '风景休憩绿地/绿地公园',
+//   link: '/LandscapeLeisureGreenSpace/GreenPark',
+//   sidebar: 'auto',
+// })
+
+const 湿地公园 = defineNoteConfig({
+  dir: '风景休憩绿地/湿地公园',
+  link: '/LandscapeLeisureGreenSpace/WetlandPark',
+  sidebar: 'auto',
+})
+
+const 郊野公园 = defineNoteConfig({
+  dir: '风景休憩绿地/郊野公园',
+  link: '/LandscapeLeisureGreenSpace/CountryPark',
+  sidebar: 'auto',
+})
+
+
+const 地质公园 = defineNoteConfig({
+  dir: '风景休憩绿地/地质公园',
+  link: '/LandscapeLeisureGreenSpace/GeologicalPark',
+  sidebar: 'auto',
+})
+
+const 矿山公园 = defineNoteConfig({
+  dir: '风景休憩绿地/矿山公园',
+  link: '/LandscapeLeisureGreenSpace/MiningPark',
+  sidebar: 'auto',
+})
+
+/// 文体场馆
 const 文体场馆 = defineNoteConfig({
   dir: '文体场馆',
   link: '/Cultural-Sports-Venues',
+  sidebar: 'auto',
+})
+
+const 体育中心 = defineNoteConfig({
+  dir: '文体场馆/体育中心',
+  link: '/Cultural-Sports-Venues/Sports-Center',
+  sidebar: 'auto',
+})
+
+const 博物馆 = defineNoteConfig({
+  dir: '文体场馆/博物馆',
+  link: '/Cultural-Sports-Venues/Museum',
+  sidebar: 'auto',
+})
+
+const 图书馆 = defineNoteConfig({
+  dir: '文体场馆/图书馆',
+  link: '/Cultural-Sports-Venues/Library',
+  sidebar: 'auto',
+})
+
+const 文化馆 = defineNoteConfig({
+  dir: '文体场馆/文化馆',
+  link: '/Cultural-Sports-Venues/Cultural-Center',
+  sidebar: 'auto',
+})
+
+const 文保单位 = defineNoteConfig({
+  dir: '文体场馆/文保单位',
+  link: '/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit',
+  sidebar: 'auto',
+})
+
+const 演出场所 = defineNoteConfig({
+  dir: '文体场馆/演出场所',
+  link: '/Cultural-Sports-Venues/Performance-Venue',
+  sidebar: 'auto',
+})
+
+const 美术馆 = defineNoteConfig({
+  dir: '文体场馆/美术馆',
+  link: '/Cultural-Sports-Venues/Art-Gallery',
   sidebar: 'auto',
 })
 
@@ -113,19 +199,13 @@ const 专项 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const 专类公园 = defineNoteConfig({
-  dir: '专类公园',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
-
 export const zhNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [社区公园, 综合公园, 生态保育绿地, 风景休憩绿地,
-    文体场馆, 专项, 专类公园, 广场和街区, 游园, 动物园,
-    历史名园, 植物园, 遗址公园, 游乐公园, 儿童公园,
-    体育健身公园, 滨水公园, 纪念性公园, 雕塑公园],
+  notes: [社区公园, 综合公园, 生态保育绿地, 风景休憩绿地, 文体场馆, 专项, 专类公园, 广场和街区, 游园, 动物园,
+    历史名园, 植物园, 游乐公园, 儿童公园, 体育健身公园, 滨水公园, 纪念性公园, 雕塑公园, 湿地公园,
+    体育中心, 博物馆, 图书馆, 文化馆, 文保单位, 演出场所, 美术馆, 风景名胜区, 森林公园,
+    郊野公园, 地质公园, 矿山公园],
 })
 
 /* =================== locale: en-US ======================= */

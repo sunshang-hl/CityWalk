@@ -28,7 +28,7 @@ export const zhNavbar = defineNavbarConfig([
     items: [{ text: '动物园', link: '/notes/专类公园/动物园/README.md' },
     { text: '植物园', link: '/notes/专类公园/植物园/README.md' },
     { text: '历史名园', link: '/notes/专类公园/历史名园/README.md' },
-    { text: '遗址公园', link: '/notes/专类公园/遗址公园/README.md' },
+    // { text: '遗址公园', link: '/notes/专类公园/遗址公园/README.md' },
     { text: '游乐公园', link: '/notes/专类公园/游乐公园/README.md' },
     { text: '儿童公园', link: '/notes/专类公园/儿童公园/README.md' },
     { text: '体育健身公园', link: '/notes/专类公园/体育健身公园/README.md' },
@@ -39,22 +39,33 @@ export const zhNavbar = defineNavbarConfig([
   },
 
   // { text: '游园', link: '/notes/TravellingGarden/README.md' },
-  { text: '风景休憩绿地', link: '/notes/风景休憩绿地/README.md' },
-  { text: '广场/街区', link: '/notes/广场&街区/README.md' },
+  // { text: '风景休憩绿地', link: '/notes/风景休憩绿地/README.md' },
 
-  // {
-  //   text: '风景休憩绿地',
-  //   items: [{ text: '风景名胜区', link: '/notes/ScenicAttraction/README.md' },
-  //   { text: '森林公园', link: '/notes/ForestPark/README.md' },
-  //   { text: '绿地公园', link: '/notes/GreenPark/README.md' },
-  //   { text: '郊野公园', link: '/notes/CountryPark/README.md' },
-  //   { text: '野生动物园', link: '/notes/WildlifePark/README.md' },
-  //   { text: '遗址公园', link: '/notes/HeritagePark /README.md' },
-  //   { text: '地质公园', link: '/notes/GeologicalPark/README.md' },
-  //   { text: '矿山公园', link: '/notes/MiningPark/README.md' },
-  //   ]
-  // },
-  { text: '文体场馆', link: '/notes/文体场馆/README.md' },
+  {
+    text: '风景休憩绿地',
+    items: [{ text: '风景名胜区', link: '/notes/风景休憩绿地/风景名胜区/README.md' },
+    { text: '森林公园', link: '/notes/风景休憩绿地/森林公园/README.md' },
+    // { text: '绿地公园', link: '/notes/风景休憩绿地/绿地公园/README.md' },
+    { text: '湿地公园', link: '/notes/风景休憩绿地/湿地公园/README.md' },
+    { text: '郊野公园', link: '/notes/风景休憩绿地/郊野公园/README.md' },
+    { text: '地质公园', link: '/notes/风景休憩绿地/地质公园/README.md' },
+    { text: '矿山公园', link: '/notes/风景休憩绿地/矿山公园/README.md' },
+    ]
+  },
+  // { text: '文体场馆', link: '/notes/文体场馆/README.md' },
+
+  {
+    text: '文体场馆',
+    items: [
+      { text: '体育中心', link: '/notes/文体场馆/体育中心/README.md' },
+      { text: '博物馆', link: '/notes/文体场馆/博物馆/README.md' },
+      { text: '图书馆', link: '/notes/文体场馆/图书馆/README.md' },
+      { text: '文化馆', link: '/notes/文体场馆/文化馆/README.md' },
+      { text: '文保单位', link: '/notes/文体场馆/文保单位/README.md' },
+      { text: '演出场所', link: '/notes/文体场馆/演出场所/README.md' },
+      { text: '美术馆', link: '/notes/文体场馆/美术馆/README.md' },
+    ]
+  },
   // {
   //   text: '生态保育绿地',
   //   items: [{ text: '自然保护区', link: '/notes/NaturalReserve/README.md' },
@@ -67,7 +78,8 @@ export const zhNavbar = defineNavbarConfig([
 
   //   ]
   // },
-  { text: '专项', link: '/notes/专项/README.md' },
+  { text: '广场/街区', link: '/notes/广场&街区/README.md' },
+  { text: 'Other', link: '/notes/专项/README.md' },
   {
     text: '深圳',
     icon: 'gis:poi-map',
