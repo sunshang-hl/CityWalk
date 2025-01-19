@@ -5,9 +5,8 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import { baiduAnalyticsPlugin } from '@vuepress/plugin-baidu-analytics'
 import { feedPlugin } from '@vuepress/plugin-feed'
 import { cachePlugin } from '@vuepress/plugin-cache'
-import { includeConfig } from '../../../../../shared/config/include'
 import { gitPlugin } from '@vuepress/plugin-git'
-import { catalogPlugin } from '@vuepress/plugin-catalog'
+
 
 export default defineUserConfig({
   base: '/',
@@ -16,7 +15,7 @@ export default defineUserConfig({
     '/': {
       title: '城市漫步-深圳',
       lang: 'zh-CN',
-      description: '探索国内深圳的公园与风景名胜',
+      description: '探索深圳的公园与风景名胜',
     },
     '/en/': {
       title: 'City Walk ShenZhen',
@@ -90,7 +89,7 @@ export default defineUserConfig({
     // 主题内的多语言配置
     locales: {
       '/': {
-        // 当��言显示在导航栏多语言下拉菜单的文本
+        // 当多语言显示在导航栏多语言下拉菜单的文本
         selectLanguageName: '简体中文',
         navbar: [
           { text: '首页', link: '/' },
@@ -218,7 +217,7 @@ export default defineUserConfig({
         // autoGenerateTwitterCard: true,
         // // 是否开启自动生成 twitter:title
         // autoGenerateTwitterTitle: true,
-        // //是否开启自动生成 twitter:description
+        // //是否开启自动生成 twitter: description
       },
       sitemap: {
         hostname: 'https://shenzhen.citywalk.group',
