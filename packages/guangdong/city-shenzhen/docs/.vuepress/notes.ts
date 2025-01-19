@@ -194,7 +194,7 @@ const 广场和街区 = defineNoteConfig({
 })
 
 const 专项 = defineNoteConfig({
-  dir: '专项',
+  dir: 'Other',
   link: '/Other',
   sidebar: 'auto',
 })

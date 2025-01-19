@@ -43,7 +43,7 @@ const props = defineProps({
       <div class="slide-info">
         <div class="info-content">
           <h3 class="title">{{ item.title }}</h3>
-          <p class="description">{{ item.description }}</p>
+          <p class="description">{{ item.description?.replace(/\n/g, ' ') }}</p>
           <div class="meta">
             <span class="author">{{ item.author }}</span>
             <span class="date">{{ item.date }}</span>
@@ -120,6 +120,7 @@ const props = defineProps({
   text-align: left; /* 确保左对齐 */
   width: 100%; /* 确保占满容器宽度 */
   max-width: 100%; /* 移除之前的宽度限制 */
+  white-space: pre-line; /* 添加这行来保留换行但合并多余空白 */
 }
 
 /* 鼠标悬浮时保持纯白色 */

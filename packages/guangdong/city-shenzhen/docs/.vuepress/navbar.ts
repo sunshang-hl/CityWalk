@@ -79,14 +79,14 @@ export const zhNavbar = defineNavbarConfig([
   //   ]
   // },
   { text: '广场/街区', link: '/notes/广场&街区/README.md' },
-  { text: 'Other', link: '/notes/专项/README.md' },
+  { text: 'Other', link: '/notes/Other/README.md' },
   {
     text: '深圳',
     icon: 'gis:poi-map',
     link: '/city-site-map/city-guides-overview/'
   },
   // {
-  //   text: '专项',
+  //   text: 'Other',
   //   items: [{ text: '骑行&绿道', link: '/notes/Cycling&Greenway/README.md' },
   //   { text: '房车营地', link: '/notes/RVPark /README.md' },
   //   { text: '红色旅游路线', link: '/notes/RedTourismRoute/README.md' }
