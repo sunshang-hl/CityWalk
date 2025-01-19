@@ -384,9 +384,9 @@ export default defineUserConfig({
     //   }
     // })
 
-    cachePlugin({
-      type: 'memory',
-    }),
+    // cachePlugin({
+    //   type: 'memory',
+    // }),
   ],
   // 在 extendsPage 中设置目录信息
   // extendsPage: (page) => {
