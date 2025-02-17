@@ -18,10 +18,10 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.19",
     "http-server": "^14.1.1",
-    "languine": "^1.0.2",
-    "sass-embedded": "^1.83.0",
+    "languine": "^3.0.6",
+    "sass-embedded": "^1.85.0",
     "vue": "^3.5.13",
     "vuepress": "2.0.0-rc.19",
-    "vuepress-theme-plume": "1.0.0-rc.121"
+    "vuepress-theme-plume": "1.0.0-rc.131"
   }
 }

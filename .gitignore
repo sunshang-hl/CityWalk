@@ -12,4 +12,13 @@
 
 .idea
 
-/教程
+/tutorial
+
+/vuepress-i18n-tool
+
+.env
+.env.local
+
+# 忽略所有 languine 配置文件
+**/languine.config.js
+**/languine.config.ts
