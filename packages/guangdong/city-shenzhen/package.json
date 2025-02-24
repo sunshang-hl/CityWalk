@@ -18,7 +18,6 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.20",
     "http-server": "^14.1.1",
-    "languine": "^3.0.6",
     "sass-embedded": "^1.85.0",
     "vue": "^3.5.13",
     "vuepress": "2.0.0-rc.20",
