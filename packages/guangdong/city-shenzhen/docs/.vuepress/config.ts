@@ -62,11 +62,11 @@ export default defineUserConfig({
       lang: 'zh-tw',
       description: 'city walk website ShenZhen',
     },
-    '/pt/': {
-      title: 'Passeio pela cidade',
-      lang: 'pt-PT',
-      description: 'Passeio pela cidade de Shenzhen',
-    },
+    // '/pt/': {
+    //   title: 'Passeio pela cidade',
+    //   lang: 'pt-PT',
+    //   description: 'Passeio pela cidade de Shenzhen',
+    // },
     '/ko/': {
       title: '시티 워크-선전',
       lang: 'ko-KR',
@@ -166,13 +166,13 @@ export default defineUserConfig({
           { text: '博客', link: '/ko/blog/' },
         ]
       },
-      '/pt/': {
-        selectLanguageName: 'Português',
-        navbar: [
-          { text: '首頁', link: '/pt/' },
-          { text: '博客', link: '/pt/blog/' },
-        ]
-      },
+      // '/pt/': {
+      //   selectLanguageName: 'Português',
+      //   navbar: [
+      //     { text: '首頁', link: '/pt/' },
+      //     { text: '博客', link: '/pt/blog/' },
+      //   ]
+      // },
 
     },
 

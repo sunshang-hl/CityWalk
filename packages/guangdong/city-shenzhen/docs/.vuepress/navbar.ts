@@ -17,7 +17,7 @@ export const zhNavbar = defineNavbarConfig([
   {
     text: '公园',
     items: [{ text: '综合公园', link: '/notes/综合公园/README.md' },
-    { text: '社区公园', link: '/notes/社区公园/README.md' },
+    // { text: '社区公园', link: '/notes/社区公园/README.md' },
     // { text: '专类公园', link: '/notes/专类公园/README.md' },
 
     { text: '游园', link: '/notes/游园/README.md' },
@@ -355,7 +355,7 @@ export const zhTWNavbar = defineNavbarConfig([
   {
     text: '公園',
     items: [{ text: '綜合公園', link: '/zh-tw/notes/ComprehensivePark/README.md' },
-    { text: '社區公園', link: '/zh-tw/notes/CommunityPark/README.md' },
+    // { text: '社區公園', link: '/zh-tw/notes/CommunityPark/README.md' },
     // { text: '專類公園', link: '/zh-tw/notes/SpecializedPark/README.md' },
     { text: '遊園', link: '/zh-tw/notes/TravellingGarden/README.md' },
     ]
@@ -399,7 +399,7 @@ export const koNavbar = defineNavbarConfig([
   {
     text: '공원',
     items: [{ text: '종합 공원', link: '/ko/notes/ComprehensivePark/README.md' },
-    { text: '커뮤니티 공원', link: '/ko/notes/CommunityPark/README.md' },
+    // { text: '커뮤니티 공원', link: '/ko/notes/CommunityPark/README.md' },
     // { text: '전문 공원', link: '/ko/notes/SpecializedPark/README.md' },
     { text: '조경된 오픈 스페이스', link: '/ko/notes/LandscapeLeisureGreenSpace/README.md' },
     { text: '정원 투어', link: '/ko/notes/TravellingGarden/README.md' },
