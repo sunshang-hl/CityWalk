@@ -953,7 +953,7 @@ const 其他 = defineNoteConfig({
 
 export const zhTWNotes = defineNotesConfig({
   dir: 'zh-tw/notes',
-  link: '/zh-tw/',
+  link: '/zh-tw',
   notes: [綜合公園, 生态保育绿地, 風景休憩綠地,
     博物館和圖書館, 動物園, 植物園, 歷史名園,
     遺址公園, 遊樂公園, 兒童公園, 運動健身公園, 濱水公園,
