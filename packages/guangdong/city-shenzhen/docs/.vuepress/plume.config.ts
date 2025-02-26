@@ -1,6 +1,6 @@
 import { defineThemeConfig } from 'vuepress-theme-plume'
-import { enNavbar, zhNavbar, deNavbar, esNavbar, frNavbar, jaNavbar, ruNavbar, trNavbar, viNavbar, zhTWNavbar, koNavbar, ptNavbar } from './navbar'
-import { enNotes, zhNotes, deNotes, esNotes, frNotes, jaNotes, ruNotes, trNotes, viNotes, zhTWNotes, koNotes, ptNotes } from './notes'
+import { enNavbar, zhNavbar, deNavbar, esNavbar, frNavbar, jaNavbar, ruNavbar, trNavbar, viNavbar, zhTWNavbar, koNavbar, } from './navbar'
+import { enNotes, zhNotes, deNotes, esNotes, frNotes, jaNotes, ruNotes, trNotes, viNotes, zhTWNotes, koNotes, } from './notes'
 
 /**
  * @see https://theme-plume.vuejs.press/config/basic/
@@ -180,19 +180,6 @@ export default defineThemeConfig({
 
       navbar: koNavbar,
       notes: koNotes,
-    },
-    '/pt/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'Passeio pela cidade-Shenzhen',
-        description: 'Một chuyến đi dạo trong thành phố Thâm Quyến',
-        // circle: true,
-        // location: '',
-        // organization: '',
-      },
-
-      navbar: ptNavbar,
-      notes: ptNotes,
     },
   },
 })

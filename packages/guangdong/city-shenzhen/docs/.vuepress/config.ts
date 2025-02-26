@@ -60,7 +60,7 @@ export default defineUserConfig({
     '/zh-tw/': {
       title: '城市漫步-深圳',
       lang: 'zh-tw',
-      description: 'city walk website ShenZhen',
+      description: '城市漫步-深圳',
     },
     // '/pt/': {
     //   title: 'Passeio pela cidade',

@@ -842,82 +842,15 @@ const 정원투어 = defineNoteConfig({
 
 export const koNotes = defineNotesConfig({
   dir: 'ko/notes',
-  link: '/ko',
+  link: '/ko/',
   notes: [커뮤니티공원, 종합공원, 동물원, 식물원, 역사공원, 유산공원, 놀이공원,
     어린이공원, 스포츠및피트니스공원, 워터프론트공원, 기념공원, 조각공원,
     조경된열린공간, 박물관및도서관, 광장및인근지역, 기타, 정원투어],
 })
 
 
-/* =================== locale: pt ======================= */
-
-const ParquesComunitários = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
-
-const ParquesDeUsoGeral = defineNoteConfig({
-  dir: 'ComprehensivePark',
-  link: '/ComprehensivePark',
-  sidebar: 'auto',
-})
-
-
-const PasseioPeloJardim = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
-
-/// 专类公园
-const JardinsZoológicos = defineNoteConfig({
-  dir: 'SpecializedPark',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
-/// 专类公园
-
-const EspaçoAbertoPaisagístico = defineNoteConfig({
-  dir: 'LandscapeLeisureGreenSpace',
-  link: '/LandscapeLeisureGreenSpace',
-  sidebar: 'auto',
-})
-
-const MuseusBibliotecas = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
-  link: '/Cultural-Sports-Venues',
-  sidebar: 'auto',
-})
-
-const PraçasBairros = defineNoteConfig({
-  dir: 'SquareBlock',
-  link: '/SquareBlock',
-  sidebar: 'auto',
-})
-
-const OutrosParques = defineNoteConfig({
-  dir: 'Other',
-  link: '/Other',
-  sidebar: 'auto',
-})
-
-export const ptNotes = defineNotesConfig({
-  dir: 'pt/notes',
-  link: '/pt',
-  notes: [ParquesComunitários, ParquesDeUsoGeral, PasseioPeloJardim, JardinsZoológicos,
-    EspaçoAbertoPaisagístico, MuseusBibliotecas, PraçasBairros,
-    OutrosParques
-  ],
-})
-
 /* =================== locale: zh-tw ======================= */
 
-const 社區公園 = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
 
 const 綜合公園 = defineNoteConfig({
   dir: 'ComprehensivePark',
@@ -1020,8 +953,8 @@ const 其他 = defineNoteConfig({
 
 export const zhTWNotes = defineNotesConfig({
   dir: 'zh-tw/notes',
-  link: '/zh-tw',
-  notes: [社區公園, 綜合公園, 生态保育绿地, 風景休憩綠地,
+  link: '/zh-tw/',
+  notes: [綜合公園, 生态保育绿地, 風景休憩綠地,
     博物館和圖書館, 動物園, 植物園, 歷史名園,
     遺址公園, 遊樂公園, 兒童公園, 運動健身公園, 濱水公園,
     紀念性公園, 雕塑公園, 幣場和街區, 遊園, 其他],
