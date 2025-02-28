@@ -14,7 +14,7 @@ config:
         -
           theme: brand
           text: Blog
-          link: /ja/blog/
+          link: /zh-tw/blog/
         -
           theme: alt
           text: Github →

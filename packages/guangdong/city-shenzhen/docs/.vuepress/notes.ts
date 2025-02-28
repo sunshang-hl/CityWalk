@@ -933,11 +933,61 @@ const 風景休憩綠地 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const 博物館和圖書館 = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
+// const 博物館和圖書館 = defineNoteConfig({
+//   dir: 'Cultural-Sports-Venues',
+//   link: '/Cultural-Sports-Venues',
+//   sidebar: 'auto',
+// })
+
+/// 文体场馆
+const 文體場館 = defineNoteConfig({
+  dir: '文體場館',
   link: '/Cultural-Sports-Venues',
   sidebar: 'auto',
 })
+
+const 運動中心 = defineNoteConfig({
+  dir: '文體場館/運動中心',
+  link: '/Cultural-Sports-Venues/Sports-Center',
+  sidebar: 'auto',
+})
+
+const 博物館 = defineNoteConfig({
+  dir: '文體場館/博物館',
+  link: '/Cultural-Sports-Venues/Museum',
+  sidebar: 'auto',
+})
+
+const 圖書館 = defineNoteConfig({
+  dir: '文體場館/圖書館',
+  link: '/Cultural-Sports-Venues/Library',
+  sidebar: 'auto',
+})
+
+const 文化館 = defineNoteConfig({
+  dir: '文體場館/文化館',
+  link: '/Cultural-Sports-Venues/Cultural-Center',
+  sidebar: 'auto',
+})
+
+const 文保單位 = defineNoteConfig({
+  dir: '文體場館/文保單位',
+  link: '/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit',
+  sidebar: 'auto',
+})
+
+const 演出場所 = defineNoteConfig({
+  dir: '文體場館/演出場所',
+  link: '/Cultural-Sports-Venues/Performance-Venue',
+  sidebar: 'auto',
+})
+
+const 美術館 = defineNoteConfig({
+  dir: '文體場館/美術館',
+  link: '/Cultural-Sports-Venues/Art-Gallery',
+  sidebar: 'auto',
+})
+
 
 const 幣場和街區 = defineNoteConfig({
   dir: 'SquareBlock',
@@ -953,9 +1003,10 @@ const 其他 = defineNoteConfig({
 
 export const zhTWNotes = defineNotesConfig({
   dir: 'zh-tw/notes',
-  link: '/zh-tw',
+  link: '/zh-tw/',
   notes: [綜合公園, 生态保育绿地, 風景休憩綠地,
-    博物館和圖書館, 動物園, 植物園, 歷史名園,
-    遺址公園, 遊樂公園, 兒童公園, 運動健身公園, 濱水公園,
-    紀念性公園, 雕塑公園, 幣場和街區, 遊園, 其他],
+    動物園, 植物園, 歷史名園, 遺址公園, 遊樂公園,
+    兒童公園, 運動健身公園, 濱水公園, 紀念性公園,
+    雕塑公園, 幣場和街區, 遊園, 文體場館, 運動中心,
+    博物館, 圖書館, 文保單位, 演出場所, 美術館, 文化館, 其他],
 })

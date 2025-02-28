@@ -377,9 +377,21 @@ export const zhTWNavbar = defineNavbarConfig([
   },
 
   { text: '風景休憩綠地', link: '/zh-tw/notes/LandscapeLeisureGreenSpace/README.md' },
-  { text: '幣場&街區', link: '/zh-tw/notes/SquareBlock/README.md' },
+  // { text: '幣場&街區', link: '/zh-tw/notes/SquareBlock/README.md' },
 
-  { text: '博物館&圖書館', link: '/zh-tw/notes/Cultural-Sports-Venues/README.md' },
+  // { text: '博物館&圖書館', link: '/zh-tw/notes/Cultural-Sports-Venues/README.md' },
+  {
+    text: '文體場館',
+    items: [
+      { text: '運動中心', link: '/zh-tw/notes/文體場館/運動中心/README.md' },
+      { text: '博物館', link: '/zh-tw/notes/文體場館/博物館/README.md' },
+      { text: '圖書館', link: '/zh-tw/notes/文體場館/圖書館/README.md' },
+      { text: '文化館', link: '/zh-tw/notes/文體場館/文化館/README.md' },
+      { text: '文保單位', link: '/zh-tw/notes/文體場館/文保單位/README.md' },
+      { text: '演出場所', link: '/zh-tw/notes/文體場館/演出場所/README.md' },
+      { text: '美術館', link: '/zh-tw/notes/文體場館/美術館/README.md' },
+    ]
+  },
 
   { text: '其他', link: '/zh-tw/notes/Other/README.md' },
 
