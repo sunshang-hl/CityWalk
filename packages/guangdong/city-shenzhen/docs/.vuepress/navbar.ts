@@ -18,7 +18,7 @@ export const zhNavbar = defineNavbarConfig([
     text: '公园',
     items: [{ text: '综合公园', link: '/notes/综合公园/README.md' },
     // { text: '社区公园', link: '/notes/社区公园/README.md' },
-    // { text: '专类公园', link: '/notes/专类公园/README.md' },
+    { text: 'A级景区', link: '/notes/A级景区/README.md' },
 
     { text: '游园', link: '/notes/游园/README.md' },
     ]
@@ -229,7 +229,7 @@ export const jaNavbar = defineNavbarConfig([
   {
     text: '公園',
     items: [{ text: '総合公園', link: '/ja/notes/ComprehensivePark/README.md' },
-    { text: '地域公園', link: '/ja/notes/CommunityPark/README.md' },
+    { text: 'A級景勝地', link: '/ja/notes/A-Level/README.md' },
     // { text: '専門公園', link: '/ja/notes/SpecializedPark/README.md' },
     { text: '庭園ツアー ', link: '/ja/notes/TravellingGarden/README.md' },
     ]
@@ -251,13 +251,33 @@ export const jaNavbar = defineNavbarConfig([
   },
 
   { text: '風景休息緑地', link: '/ja/notes/LandscapeLeisureGreenSpace/README.md' },
-  { text: '広場&街区', link: '/ja/notes/SquareBlock/README.md' },
+  // { text: '広場&街区', link: '/ja/notes/SquareBlock/README.md' },
 
   {
     text: '博物館&図書館', link: '/ja/notes/Cultural-Sports-Venues/README.md'
   },
+  // {
+  //   text: '博物館&図書館',
+  //   items: [
+  //     { text: '運動中心', link: '/zh-tw/notes/文體場館/運動中心/README.md' },
+  //     { text: '博物館', link: '/zh-tw/notes/文體場館/博物館/README.md' },
+  //     { text: '圖書館', link: '/zh-tw/notes/文體場館/圖書館/README.md' },
+  //     { text: '文化館', link: '/zh-tw/notes/文體場館/文化館/README.md' },
+  //     { text: '文保單位', link: '/zh-tw/notes/文體場館/文保單位/README.md' },
+  //     { text: '演出場所', link: '/zh-tw/notes/文體場館/演出場所/README.md' },
+  //     { text: '美術館', link: '/zh-tw/notes/文體場館/美術館/README.md' },
+  //   ]
+  // },
 
-  { text: 'その他', link: '/ja/notes/Other/README.md' },
+  // { text: 'その他', link: '/ja/notes/Other/README.md' },
+  {
+    text: 'その他',
+    items: [
+      { text: '骑行绿道', link: '/ja/notes/Other/CyclingGreenwaay/README.md' },
+      { text: '红色旅游路线', link: '/ja/notes/Other/RedTourismRoute/README.md' },
+      { text: '房车营地', link: '/ja/notes/Other/RVPark/README.md' },
+    ]
+  },
 
   {
     text: 'ShenZhen',
@@ -355,8 +375,7 @@ export const zhTWNavbar = defineNavbarConfig([
   {
     text: '公園',
     items: [{ text: '綜合公園', link: '/zh-tw/notes/ComprehensivePark/README.md' },
-    // { text: '社區公園', link: '/zh-tw/notes/CommunityPark/README.md' },
-    // { text: '專類公園', link: '/zh-tw/notes/SpecializedPark/README.md' },
+    { text: 'A級景區', link: '/zh-tw/notes/A-Level/README.md' },
     { text: '遊園', link: '/zh-tw/notes/TravellingGarden/README.md' },
     ]
   },
@@ -376,10 +395,18 @@ export const zhTWNavbar = defineNavbarConfig([
     ]
   },
 
-  { text: '風景休憩綠地', link: '/zh-tw/notes/LandscapeLeisureGreenSpace/README.md' },
+  {
+    text: '風景休憩綠地',
+    items: [{ text: '風景名勝區', link: '/zh-tw/notes/風景休憩綠地/風景名勝區/README.md' },
+    { text: '森林公園', link: '/zh-tw/notes/風景休憩綠地/森林公園/README.md' },
+    { text: '濕地公園', link: '/zh-tw/notes/風景休憩綠地/濕地公園/README.md' },
+    { text: '郊野公園', link: '/zh-tw/notes/風景休憩綠地/郊野公園/README.md' },
+    { text: '地質公園', link: '/zh-tw/notes/風景休憩綠地/地質公園/README.md' },
+    { text: '礦場公園', link: '/zh-tw/notes/風景休憩綠地/礦場公園/README.md' },
+    ]
+  },
   // { text: '幣場&街區', link: '/zh-tw/notes/SquareBlock/README.md' },
 
-  // { text: '博物館&圖書館', link: '/zh-tw/notes/Cultural-Sports-Venues/README.md' },
   {
     text: '文體場館',
     items: [
@@ -394,7 +421,6 @@ export const zhTWNavbar = defineNavbarConfig([
   },
 
   { text: '其他', link: '/zh-tw/notes/Other/README.md' },
-
 
   {
     text: 'ShenZhen',
@@ -411,8 +437,6 @@ export const koNavbar = defineNavbarConfig([
   {
     text: '공원',
     items: [{ text: '종합 공원', link: '/ko/notes/ComprehensivePark/README.md' },
-    // { text: '커뮤니티 공원', link: '/ko/notes/CommunityPark/README.md' },
-    // { text: '전문 공원', link: '/ko/notes/SpecializedPark/README.md' },
     { text: '조경된 오픈 스페이스', link: '/ko/notes/LandscapeLeisureGreenSpace/README.md' },
     { text: '정원 투어', link: '/ko/notes/TravellingGarden/README.md' },
     ]
@@ -433,7 +457,7 @@ export const koNavbar = defineNavbarConfig([
     ]
   },
 
-  { text: '광장 및 근린공원', link: '/ko/notes/SquareBlock/README.md' },
+  // { text: '광장 및 근린공원', link: '/ko/notes/SquareBlock/README.md' },
   { text: '박물관 및 도서관', link: '/ko/notes/Cultural-Sports-Venues/README.md' },
   { text: '기타', link: '/ko/notes/Other/README.md' },
 
