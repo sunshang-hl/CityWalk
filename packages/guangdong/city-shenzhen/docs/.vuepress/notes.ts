@@ -14,11 +14,6 @@ const A级景区 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const 社区公园 = defineNoteConfig({
-  dir: '社区公园',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
 
 const 游园 = defineNoteConfig({
   dir: '游园',
@@ -209,7 +204,7 @@ const 专项 = defineNoteConfig({
 export const zhNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [社区公园, 综合公园, A级景区, 生态保育绿地, 风景休憩绿地, 文体场馆, 专项, 专类公园, 广场和街区, 游园, 动物园,
+  notes: [综合公园, A级景区, 生态保育绿地, 风景休憩绿地, 文体场馆, 专项, 专类公园, 广场和街区, 游园, 动物园,
     历史名园, 植物园, 游乐公园, 儿童公园, 体育健身公园, 滨水公园, 纪念性公园, 雕塑公园, 湿地公园,
     体育中心, 博物馆, 图书馆, 文化馆, 文保单位, 演出场所, 美术馆, 风景名胜区, 森林公园,
     郊野公园, 地质公园, 矿山公园],
@@ -538,15 +533,95 @@ const 庭園ツアー = defineNoteConfig({
   sidebar: 'auto',
 })
 
-const 風景休息緑地 = defineNoteConfig({
+/// 風景憩いの緑地
+const 風景憩いの緑地 = defineNoteConfig({
   dir: 'LandscapeLeisureGreenSpace',
   link: '/LandscapeLeisureGreenSpace',
   sidebar: 'auto',
 })
 
-const 博物館和図書館 = defineNoteConfig({
+const 景勝地 = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace/ScenicHistoricAreas',
+  link: '/LandscapeLeisureGreenSpace/ScenicHistoricAreas',
+  sidebar: 'auto',
+})
+
+const 森林の公園 = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace/ForestPark',
+  link: '/LandscapeLeisureGreenSpace/ForestPark',
+  sidebar: 'auto',
+})
+
+// const 緑地公園 = defineNoteConfig({
+//   dir: '風景憩いの緑地/緑地公園',
+//   link: '/LandscapeLeisureGreenSpace/GreenPark',
+//   sidebar: 'auto',
+// })
+
+const 湿地公園 = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace/WetlandPark',
+  link: '/LandscapeLeisureGreenSpace/WetlandPark',
+  sidebar: 'auto',
+})
+
+const 郊外公園 = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace/CountryPark',
+  link: '/LandscapeLeisureGreenSpace/CountryPark',
+  sidebar: 'auto',
+})
+
+
+const ジオパーク = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace/GeologicalPark',
+  link: '/LandscapeLeisureGreenSpace/GeologicalPark',
+  sidebar: 'auto',
+})
+
+const 鉱山公園 = defineNoteConfig({
+  dir: 'LandscapeLeisureGreenSpace/MiningPark',
+  link: '/LandscapeLeisureGreenSpace/MiningPark',
+  sidebar: 'auto',
+})
+/// 風景憩いの緑地
+
+const 文体センター = defineNoteConfig({
   dir: 'Cultural-Sports-Venues',
   link: '/Cultural-Sports-Venues',
+  sidebar: 'auto',
+})
+const 運動中心ja = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Sports-Center',
+  link: '/Cultural-Sports-Venues/Sports-Center',
+  sidebar: 'auto',
+})
+const 博物館ja = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Museum',
+  link: '/Cultural-Sports-Venues/Museum',
+  sidebar: 'auto',
+})
+const 圖書館ja = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Library',
+  link: '/Cultural-Sports-Venues/Library',
+  sidebar: 'auto',
+})
+const 文化館ja = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Cultural-Center',
+  link: '/Cultural-Sports-Venues/Cultural-Center',
+  sidebar: 'auto',
+})
+const 文保單位ja = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Cultural-Relics-Protection-Unit',
+  link: '/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit',
+  sidebar: 'auto',
+})
+const 演出場所ja = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Performance-Venue',
+  link: '/Cultural-Sports-Venues/Performance-Venue',
+  sidebar: 'auto',
+})
+const 美術館ja = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Art-Gallery',
+  link: '/Cultural-Sports-Venues/Art-Gallery',
   sidebar: 'auto',
 })
 
@@ -563,14 +638,33 @@ const その他 = defineNoteConfig({
   sidebar: 'auto',
 })
 
+const 緑道を走る = defineNoteConfig({
+  dir: 'Other/Cycling-Greenway',
+  link: '/Other/Cycling-Greenway',
+  sidebar: 'auto',
+})
+
+const 赤い観光 = defineNoteConfig({
+  dir: 'Other/Red-Tourism-Route',
+  link: '/Other/Red-Tourism-Route',
+  sidebar: 'auto',
+})
+
+const カーキャンプ = defineNoteConfig({
+  dir: 'Other/RVPark',
+  link: '/Other/RVPark',
+  sidebar: 'auto',
+})
+
 ///
 
 export const jaNotes = defineNotesConfig({
   dir: 'ja/notes',
   link: '/ja/',
-  notes: [コミュニティパーク, 総合公園, A級景勝地, 風景休息緑地, 博物館和図書館, 動物園ja, 植物園ja,
-    その他, 広場和街区, 風景休息緑地, 庭園ツアー, 歴史ある庭園,
-    ヘリテージパーク, 遊園地, 児童公園, スポーツフィットネスパーク,
+  notes: [コミュニティパーク, 総合公園, A級景勝地, 文体センター, 運動中心ja, 博物館ja, 圖書館ja, 文化館ja,
+    文保單位ja, 演出場所ja, 美術館ja, 動物園ja, 植物園ja, その他, 広場和街区, 風景憩いの緑地, 景勝地, 森林の公園, 湿地公園, 郊外公園,
+    ジオパーク, 鉱山公園, 庭園ツアー, 歴史ある庭園,
+    ヘリテージパーク, 遊園地, 児童公園, スポーツフィットネスパーク, 緑道を走る, 赤い観光, カーキャンプ,
     浜水公園, 記念公園, 彫刻公園],
 })
 
@@ -930,8 +1024,8 @@ const 運動健身公園 = defineNoteConfig({
 })
 
 const 濱水公園 = defineNoteConfig({
-  dir: 'SpecializedPark/WaterfrontPark',
-  link: '/SpecializedPark/WaterfrontPark',
+  dir: 'SpecializedPark/WaterFrontPark',
+  link: '/SpecializedPark/WaterFrontPark',
   sidebar: 'auto',
 })
 
@@ -1067,6 +1161,22 @@ const 其他 = defineNoteConfig({
   sidebar: 'auto',
 })
 
+const 騎乘綠道 = defineNoteConfig({
+  dir: 'Other/Cycling-Greenway',
+  link: '/Other/Cycling-Greenway',
+  sidebar: 'auto',
+})
+const 紅色旅遊路線 = defineNoteConfig({
+  dir: 'Other/Red-Tourism-Route',
+  link: '/Other/Red-Tourism-Route',
+  sidebar: 'auto',
+})
+const 房車營地 = defineNoteConfig({
+  dir: 'Other/RVPark',
+  link: '/Other/RVPark',
+  sidebar: 'auto',
+})
+
 export const zhTWNotes = defineNotesConfig({
   dir: 'zh-tw/notes',
   link: '/zh-tw/',
@@ -1076,5 +1186,5 @@ export const zhTWNotes = defineNotesConfig({
     雕塑公園, 幣場和街區, 遊園, 文體場館, 運動中心,
     博物館, 圖書館, 文保單位, 演出場所, 美術館, 文化館,
     風景名勝區, 森林公園, 濕地公園, 郊野公園, 地質公園, 礦場公園,
-    A級景區, 其他],
+    A級景區, 其他, 騎乘綠道, 紅色旅遊路線, 房車營地],
 })

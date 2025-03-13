@@ -17,7 +17,6 @@ export const zhNavbar = defineNavbarConfig([
   {
     text: '公园',
     items: [{ text: '综合公园', link: '/notes/综合公园/README.md' },
-    // { text: '社区公园', link: '/notes/社区公园/README.md' },
     { text: 'A级景区', link: '/notes/A级景区/README.md' },
 
     { text: '游园', link: '/notes/游园/README.md' },
@@ -237,45 +236,57 @@ export const jaNavbar = defineNavbarConfig([
 
   {
     text: '専門公園',
-    items: [{ text: '动物园', link: '/ja/notes/SpecializedPark/Zoo/README.md' },
-    { text: '植物园', link: '/ja/notes/SpecializedPark/BotanicalGarden/README.md' },
-    { text: '历史名园', link: '/ja/notes/SpecializedPark/HistoricGarden/README.md' },
-    { text: '遗址公园', link: '/ja/notes/SpecializedPark/HeritagePark/README.md' },
-    { text: '游乐公园', link: '/ja/notes/SpecializedPark/FunParks/README.md' },
-    { text: '儿童公园', link: '/ja/notes/SpecializedPark/ChildrenPark/README.md' },
-    { text: '体育健身公园', link: '/ja/notes/SpecializedPark/SportsFitness/README.md' },
-    { text: '滨水公园', link: '/ja/notes/SpecializedPark/WaterfrontPark/README.md' },
-    { text: '纪念性公园', link: '/ja/notes/SpecializedPark/CommemorativePark/README.md' },
-    { text: '雕塑公园', link: '/ja/notes/SpecializedPark/SculpturePark/README.md' },
+    items: [
+      // { text: '动物园', link: '/ja/notes/SpecializedPark/Zoo/README.md' },
+      { text: '植物园', link: '/ja/notes/SpecializedPark/BotanicalGarden/README.md' },
+      // { text: '历史名园', link: '/ja/notes/SpecializedPark/HistoricGarden/README.md' },
+      // { text: '遗址公园', link: '/ja/notes/SpecializedPark/HeritagePark/README.md' },
+      // { text: '游乐公园', link: '/ja/notes/SpecializedPark/FunParks/README.md' },
+      { text: '儿童公园', link: '/ja/notes/SpecializedPark/ChildrenPark/README.md' },
+      { text: '体育健身公园', link: '/ja/notes/SpecializedPark/SportsFitness/README.md' },
+      // { text: '滨水公园', link: '/ja/notes/SpecializedPark/WaterfrontPark/README.md' },
+      { text: '纪念性公园', link: '/ja/notes/SpecializedPark/CommemorativePark/README.md' },
+      { text: '雕塑公园', link: '/ja/notes/SpecializedPark/SculpturePark/README.md' },
     ]
   },
 
-  { text: '風景休息緑地', link: '/ja/notes/LandscapeLeisureGreenSpace/README.md' },
+  // { text: '風景憩いの緑地', link: '/ja/notes/LandscapeLeisureGreenSpace/README.md' },
   // { text: '広場&街区', link: '/ja/notes/SquareBlock/README.md' },
-
   {
-    text: '博物館&図書館', link: '/ja/notes/Cultural-Sports-Venues/README.md'
+    text: '風景憩いの緑地',
+    items: [{ text: '景勝地', link: '/ja/notes/LandscapeLeisureGreenSpace/ScenicHistoricAreas/README.md' },
+    { text: '森林の公園', link: '/ja/notes/LandscapeLeisureGreenSpace/ForestPark/README.md' },
+    // { text: '緑地公園', link: '/ja/notes/LandscapeLeisureGreenSpace/GreenPark/README.md' },
+    { text: '湿地公園', link: '/ja/notes/LandscapeLeisureGreenSpace/WetlandPark/README.md' },
+    { text: '郊外公園', link: '/ja/notes/LandscapeLeisureGreenSpace/CountryPark/README.md' },
+    { text: 'ジオパーク', link: '/ja/notes/LandscapeLeisureGreenSpace/GeologicalPark/README.md' },
+    { text: '鉱山公園', link: '/ja/notes/LandscapeLeisureGreenSpace/MiningPark/README.md' },
+    ]
   },
+
   // {
-  //   text: '博物館&図書館',
-  //   items: [
-  //     { text: '運動中心', link: '/zh-tw/notes/文體場館/運動中心/README.md' },
-  //     { text: '博物館', link: '/zh-tw/notes/文體場館/博物館/README.md' },
-  //     { text: '圖書館', link: '/zh-tw/notes/文體場館/圖書館/README.md' },
-  //     { text: '文化館', link: '/zh-tw/notes/文體場館/文化館/README.md' },
-  //     { text: '文保單位', link: '/zh-tw/notes/文體場館/文保單位/README.md' },
-  //     { text: '演出場所', link: '/zh-tw/notes/文體場館/演出場所/README.md' },
-  //     { text: '美術館', link: '/zh-tw/notes/文體場館/美術館/README.md' },
-  //   ]
+  //   // text: '博物館&図書館', link: '/ja/notes/Cultural-Sports-Venues/README.md'
   // },
+  {
+    text: '文体センター',
+    items: [
+      { text: '運動中心', link: '/ja/notes/Cultural-Sports-Venues/Sports-Center/README.md' },
+      { text: '博物館', link: '/ja/notes/Cultural-Sports-Venues/Museum/README.md' },
+      { text: '圖書館', link: '/ja/notes/Cultural-Sports-Venues/Library/README.md' },
+      { text: '文化館', link: '/ja/notes/Cultural-Sports-Venues/Cultural-Center/README.md' },
+      { text: '文保單位', link: '/ja/notes/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit/README.md' },
+      { text: '演出場所', link: '/ja/notes/Cultural-Sports-Venues/Performance-Venue/README.md' },
+      { text: '美術館', link: '/ja/notes/Cultural-Sports-Venues/Art-Gallery/README.md' },
+    ]
+  },
 
   // { text: 'その他', link: '/ja/notes/Other/README.md' },
   {
     text: 'その他',
     items: [
-      { text: '骑行绿道', link: '/ja/notes/Other/CyclingGreenwaay/README.md' },
-      { text: '红色旅游路线', link: '/ja/notes/Other/RedTourismRoute/README.md' },
-      { text: '房车营地', link: '/ja/notes/Other/RVPark/README.md' },
+      { text: '緑道を走る', link: '/ja/notes/Other/Cycling-Greenway/README.md' },
+      { text: '赤い観光', link: '/ja/notes/Other/Red-Tourism-Route/README.md' },
+      { text: 'カーキャンプ', link: '/ja/notes/Other/RVPark/README.md' },
     ]
   },
 
@@ -389,7 +400,7 @@ export const zhTWNavbar = defineNavbarConfig([
     { text: '游乐公园', link: '/zh-tw/notes/SpecializedPark/FunParks/README.md' },
     { text: '儿童公园', link: '/zh-tw/notes/SpecializedPark/ChildrenPark/README.md' },
     { text: '体育健身公园', link: '/zh-tw/notes/SpecializedPark/SportsFitness/README.md' },
-    { text: '滨水公园', link: '/zh-tw/notes/SpecializedPark/WaterfrontPark/README.md' },
+    { text: '濱水公園', link: '/zh-tw/notes/SpecializedPark/WaterFrontPark/README.md' },
     { text: '纪念性公园', link: '/zh-tw/notes/SpecializedPark/CommemorativePark/README.md' },
     { text: '雕塑公园', link: '/zh-tw/notes/SpecializedPark/SculpturePark/README.md' },
     ]
@@ -420,8 +431,15 @@ export const zhTWNavbar = defineNavbarConfig([
     ]
   },
 
-  { text: '其他', link: '/zh-tw/notes/Other/README.md' },
-
+  // { text: '其他', link: '/zh-tw/notes/Other/README.md' },
+  {
+    text: '其他',
+    items: [
+      { text: '騎乘綠道', link: '/zh-tw/notes/Other/Cycling-Greenway/README.md' },
+      { text: '紅色旅遊路線', link: '/zh-tw/notes/Other/Red-Tourism-Route/README.md' },
+      { text: '房車營地', link: '/zh-tw/notes/Other/RVPark/README.md' },
+    ]
+  },
   {
     text: 'ShenZhen',
     icon: 'gis:poi-map',
@@ -465,33 +483,6 @@ export const koNavbar = defineNavbarConfig([
     text: 'ShenZhen',
     icon: 'gis:poi-map',
     link: '/ko/city-site-map/ko-city-guides-overview/'
-  },
-  // ...viSharedNavbar
-])
-
-export const ptNavbar = defineNavbarConfig([
-  { text: 'Página inicial', link: '/pt/' },
-  { text: 'Relato de viagem', link: '/pt/blog/' },
-
-  {
-    text: 'Parques',
-    items: [{ text: 'Parques gerais', link: '/pt/notes/ComprehensivePark/README.md' },
-    { text: 'Parques comunitários', link: '/pt/notes/CommunityPark/README.md' },
-    { text: 'Parques especializados', link: '/pt/notes/SpecializedPark/README.md' },
-    { text: 'Espaço Aberto Paisagístico', link: '/pt/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Parques de diversão', link: '/pt/notes/TravellingGarden/README.md' },
-    ]
-  },
-
-
-  { text: 'Praças e Bairros', link: '/pt/notes/SquareBlock/README.md' },
-  { text: 'Museus e bibliotecas', link: '/pt/notes/Cultural-Sports-Venues/README.md' },
-  { text: 'Outros', link: '/pt/notes/Other/README.md' },
-
-  {
-    text: 'ShenZhen',
-    icon: 'gis:poi-map',
-    link: '/pt/city-site-map/pt-city-guides-overview/'
   },
   // ...viSharedNavbar
 ])
