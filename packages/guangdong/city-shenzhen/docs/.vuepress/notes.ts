@@ -500,8 +500,6 @@ const 児童公園 = defineNoteConfig({
   sidebar: 'auto',
 })
 
-
-
 const スポーツフィットネスパーク = defineNoteConfig({
   dir: 'SpecializedPark/SportsFitness',
   link: '/SpecializedPark/SportsFitness',

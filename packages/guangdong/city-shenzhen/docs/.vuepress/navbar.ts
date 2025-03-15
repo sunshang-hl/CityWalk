@@ -24,16 +24,17 @@ export const zhNavbar = defineNavbarConfig([
   },
   {
     text: '专类公园',
-    items: [{ text: '动物园', link: '/notes/专类公园/动物园/README.md' },
-    { text: '植物园', link: '/notes/专类公园/植物园/README.md' },
-    { text: '历史名园', link: '/notes/专类公园/历史名园/README.md' },
-    // { text: '遗址公园', link: '/notes/专类公园/遗址公园/README.md' },
-    { text: '游乐公园', link: '/notes/专类公园/游乐公园/README.md' },
-    { text: '儿童公园', link: '/notes/专类公园/儿童公园/README.md' },
-    { text: '体育健身公园', link: '/notes/专类公园/体育健身公园/README.md' },
-    { text: '滨水公园', link: '/notes/专类公园/滨水公园/README.md' },
-    { text: '纪念性公园', link: '/notes/专类公园/纪念性公园/README.md' },
-    { text: '雕塑公园', link: '/notes/专类公园/雕塑公园/README.md' },
+    items: [
+      { text: '动物园', link: '/notes/专类公园/动物园/README.md' },
+      { text: '植物园', link: '/notes/专类公园/植物园/README.md' },
+      // { text: '历史名园', link: '/notes/专类公园/历史名园/README.md' },
+      // { text: '遗址公园', link: '/notes/专类公园/遗址公园/README.md' },
+      // { text: '游乐公园', link: '/notes/专类公园/游乐公园/README.md' },
+      { text: '儿童公园', link: '/notes/专类公园/儿童公园/README.md' },
+      { text: '体育健身公园', link: '/notes/专类公园/体育健身公园/README.md' },
+      { text: '滨水公园', link: '/notes/专类公园/滨水公园/README.md' },
+      { text: '纪念性公园', link: '/notes/专类公园/纪念性公园/README.md' },
+      { text: '雕塑公园', link: '/notes/专类公园/雕塑公园/README.md' },
     ]
   },
 
@@ -77,7 +78,7 @@ export const zhNavbar = defineNavbarConfig([
 
   //   ]
   // },
-  { text: '广场/街区', link: '/notes/广场&街区/README.md' },
+  // { text: '广场/街区', link: '/notes/广场&街区/README.md' },
   { text: 'Other', link: '/notes/Other/README.md' },
   {
     text: '深圳',
@@ -238,15 +239,15 @@ export const jaNavbar = defineNavbarConfig([
     text: '専門公園',
     items: [
       // { text: '动物园', link: '/ja/notes/SpecializedPark/Zoo/README.md' },
-      { text: '植物园', link: '/ja/notes/SpecializedPark/BotanicalGarden/README.md' },
+      { text: '植物園', link: '/ja/notes/SpecializedPark/BotanicalGarden/README.md' },
       // { text: '历史名园', link: '/ja/notes/SpecializedPark/HistoricGarden/README.md' },
       // { text: '遗址公园', link: '/ja/notes/SpecializedPark/HeritagePark/README.md' },
       // { text: '游乐公园', link: '/ja/notes/SpecializedPark/FunParks/README.md' },
-      { text: '儿童公园', link: '/ja/notes/SpecializedPark/ChildrenPark/README.md' },
-      { text: '体育健身公园', link: '/ja/notes/SpecializedPark/SportsFitness/README.md' },
+      { text: '子供公園', link: '/ja/notes/SpecializedPark/ChildrenPark/README.md' },
+      { text: 'スポーツ健康公園', link: '/ja/notes/SpecializedPark/SportsFitness/README.md' },
       // { text: '滨水公园', link: '/ja/notes/SpecializedPark/WaterfrontPark/README.md' },
-      { text: '纪念性公园', link: '/ja/notes/SpecializedPark/CommemorativePark/README.md' },
-      { text: '雕塑公园', link: '/ja/notes/SpecializedPark/SculpturePark/README.md' },
+      { text: '記念公園', link: '/ja/notes/SpecializedPark/CommemorativePark/README.md' },
+      { text: '彫刻公園', link: '/ja/notes/SpecializedPark/SculpturePark/README.md' },
     ]
   },
 
@@ -393,16 +394,17 @@ export const zhTWNavbar = defineNavbarConfig([
 
   {
     text: '專類公園',
-    items: [{ text: '动物园', link: '/zh-tw/notes/SpecializedPark/Zoo/README.md' },
-    { text: '植物园', link: '/zh-tw/notes/SpecializedPark/BotanicalGarden/README.md' },
-    { text: '历史名园', link: '/zh-tw/notes/SpecializedPark/HistoricGarden/README.md' },
-    { text: '遗址公园', link: '/zh-tw/notes/SpecializedPark/HeritagePark/README.md' },
-    { text: '游乐公园', link: '/zh-tw/notes/SpecializedPark/FunParks/README.md' },
-    { text: '儿童公园', link: '/zh-tw/notes/SpecializedPark/ChildrenPark/README.md' },
-    { text: '体育健身公园', link: '/zh-tw/notes/SpecializedPark/SportsFitness/README.md' },
-    { text: '濱水公園', link: '/zh-tw/notes/SpecializedPark/WaterFrontPark/README.md' },
-    { text: '纪念性公园', link: '/zh-tw/notes/SpecializedPark/CommemorativePark/README.md' },
-    { text: '雕塑公园', link: '/zh-tw/notes/SpecializedPark/SculpturePark/README.md' },
+    items: [
+      // { text: '动物园', link: '/zh-tw/notes/SpecializedPark/Zoo/README.md' },
+      { text: '植物园', link: '/zh-tw/notes/SpecializedPark/BotanicalGarden/README.md' },
+      // { text: '历史名园', link: '/zh-tw/notes/SpecializedPark/HistoricGarden/README.md' },
+      // { text: '遗址公园', link: '/zh-tw/notes/SpecializedPark/HeritagePark/README.md' },
+      // { text: '游乐公园', link: '/zh-tw/notes/SpecializedPark/FunParks/README.md' },
+      { text: '儿童公园', link: '/zh-tw/notes/SpecializedPark/ChildrenPark/README.md' },
+      { text: '体育健身公园', link: '/zh-tw/notes/SpecializedPark/SportsFitness/README.md' },
+      { text: '濱水公園', link: '/zh-tw/notes/SpecializedPark/WaterFrontPark/README.md' },
+      { text: '纪念性公园', link: '/zh-tw/notes/SpecializedPark/CommemorativePark/README.md' },
+      { text: '雕塑公园', link: '/zh-tw/notes/SpecializedPark/SculpturePark/README.md' },
     ]
   },
 
@@ -436,8 +438,8 @@ export const zhTWNavbar = defineNavbarConfig([
     text: '其他',
     items: [
       { text: '騎乘綠道', link: '/zh-tw/notes/Other/Cycling-Greenway/README.md' },
-      { text: '紅色旅遊路線', link: '/zh-tw/notes/Other/Red-Tourism-Route/README.md' },
-      { text: '房車營地', link: '/zh-tw/notes/Other/RVPark/README.md' },
+      // { text: '紅色旅遊路線', link: '/zh-tw/notes/Other/Red-Tourism-Route/README.md' },
+      // { text: '房車營地', link: '/zh-tw/notes/Other/RVPark/README.md' },
     ]
   },
   {
