@@ -7,7 +7,7 @@ export const zhSharedNavbar = defineNavbarConfig([
       {
         text: '广东',
         items: [
-          { text: '深圳', link: 'https://shenzhen.citywalk.gronp' },
+          { text: '深圳', link: 'https://shenzhen.citywalk.group' },
           { text: '广州', link: 'https://guangzhou.citywalk.gronp' }
         ]
       },

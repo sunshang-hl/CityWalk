@@ -7,7 +7,7 @@ export const enSharedNavbar = defineNavbarConfig([
       {
         text: 'Guangdong',
         items: [
-          { text: 'Shenzhen', link: 'https://shenzhen.citywalk.gronp' },
+          { text: 'Shenzhen', link: 'https://shenzhen.citywalk.group' },
           { text: 'Guangzhou', link: 'https://guangzhou.citywalk.gronp' }
         ]
       },
