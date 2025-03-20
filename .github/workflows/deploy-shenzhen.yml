@@ -33,7 +33,7 @@ jobs:
 
       - name: Docs build
         env:
-          NODE_OPTIONS: --max_old_space_size=8192
+          NODE_OPTIONS: --max_old_space_size=16384
         # !! 这里的 --filter 一定要对应 package.json 中的 name 字段值
         # !! 这是为了仅构建 单个文档站点的目录
         run: pnpm --filter=city-shenzhen docs:build
