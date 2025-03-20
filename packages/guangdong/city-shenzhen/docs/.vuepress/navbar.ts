@@ -106,7 +106,7 @@ export const enNavbar = defineNavbarConfig([
   {
     text: 'Park',
     items: [{ text: 'Comprehensive Park', link: '/en/notes/ComprehensivePark/README.md' },
-    { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
+    // { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
     { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
     { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
     { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
@@ -144,83 +144,83 @@ export const enNavbar = defineNavbarConfig([
   // ...enSharedNavbar
 ])
 
-export const deNavbar = defineNavbarConfig([
-  { text: 'Startseite', link: '/de/' },
-  { text: 'Reisebericht', link: '/de/blog/' },
+// export const deNavbar = defineNavbarConfig([
+//   { text: 'Startseite', link: '/de/' },
+//   { text: 'Reisebericht', link: '/de/blog/' },
 
-  {
-    text: 'Park',
-    items: [{ text: 'UUmfassenderPark', link: '/de/notes/ComprehensivePark/README.md' },
-    { text: 'GemeindePark', link: '/de/notes/CommunityPark/README.md' },
-    { text: 'SpezialPark', link: '/de/notes/SpecializedPark/README.md' },
-    { text: 'Landschaftlicher Erholungsraum', link: '/de/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Gartentour', link: '/de/notes/TravellingGarden/README.md' },
-    ]
-  },
+//   {
+//     text: 'Park',
+//     items: [{ text: 'UUmfassenderPark', link: '/de/notes/ComprehensivePark/README.md' },
+//     { text: 'GemeindePark', link: '/de/notes/CommunityPark/README.md' },
+//     { text: 'SpezialPark', link: '/de/notes/SpecializedPark/README.md' },
+//     { text: 'Landschaftlicher Erholungsraum', link: '/de/notes/LandscapeLeisureGreenSpace/README.md' },
+//     { text: 'Gartentour', link: '/de/notes/TravellingGarden/README.md' },
+//     ]
+//   },
 
-  { text: 'Quadrat/Block', link: '/de/notes/SquareBlock/README.md' },
-  { text: 'Museum&Bibliothek', link: '/de/notes/Cultural-Sports-Venues/README.md' },
-  { text: 'Sonstiges', link: '/de/notes/Other/README.md' },
+//   { text: 'Quadrat/Block', link: '/de/notes/SquareBlock/README.md' },
+//   { text: 'Museum&Bibliothek', link: '/de/notes/Cultural-Sports-Venues/README.md' },
+//   { text: 'Sonstiges', link: '/de/notes/Other/README.md' },
 
-  {
-    text: 'ShenZhen',
-    icon: 'gis:poi-map',
-    link: '/de/city-site-map/de-city-guides-overview/'
-  },
+//   {
+//     text: 'ShenZhen',
+//     icon: 'gis:poi-map',
+//     link: '/de/city-site-map/de-city-guides-overview/'
+//   },
 
-  // ...deSharedNavbar
-])
+//   // ...deSharedNavbar
+// ])
 
-export const esNavbar = defineNavbarConfig([
-  { text: 'Página principal', link: '/es/' },
-  { text: 'Relato de viaje', link: '/es/blog/' },
+// export const esNavbar = defineNavbarConfig([
+//   { text: 'Página principal', link: '/es/' },
+//   { text: 'Relato de viaje', link: '/es/blog/' },
 
-  {
-    text: 'Parque',
-    items: [{ text: 'Parque integral', link: '/es/notes/ComprehensivePark/README.md' },
-    { text: 'Parque comunitario', link: '/es/notes/CommunityPark/README.md' },
-    { text: 'Parque especializado', link: '/es/notes/SpecializedPark/README.md' },
-    { text: 'Espacio verde de descanso escénico', link: '/es/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Visita al jardín', link: '/es/notes/TravellingGarden/README.md' },
-    ]
-  },
-  { text: 'Plaza&Barrio', link: '/es/notes/SquareBlock/README.md' },
-  { text: 'Museo&Biblioteca', link: '/es/notes/Cultural-Sports-Venues/README.md' },
-  { text: 'Otro', link: '/es/notes/Other/README.md' },
+//   {
+//     text: 'Parque',
+//     items: [{ text: 'Parque integral', link: '/es/notes/ComprehensivePark/README.md' },
+//     { text: 'Parque comunitario', link: '/es/notes/CommunityPark/README.md' },
+//     { text: 'Parque especializado', link: '/es/notes/SpecializedPark/README.md' },
+//     { text: 'Espacio verde de descanso escénico', link: '/es/notes/LandscapeLeisureGreenSpace/README.md' },
+//     { text: 'Visita al jardín', link: '/es/notes/TravellingGarden/README.md' },
+//     ]
+//   },
+//   { text: 'Plaza&Barrio', link: '/es/notes/SquareBlock/README.md' },
+//   { text: 'Museo&Biblioteca', link: '/es/notes/Cultural-Sports-Venues/README.md' },
+//   { text: 'Otro', link: '/es/notes/Other/README.md' },
 
-  {
-    text: 'ShenZhen',
-    icon: 'gis:poi-map',
-    link: '/es/city-site-map/es-city-guides-overview/'
-  },
+//   {
+//     text: 'ShenZhen',
+//     icon: 'gis:poi-map',
+//     link: '/es/city-site-map/es-city-guides-overview/'
+//   },
 
-  // ...esSharedNavbar
-])
+//   // ...esSharedNavbar
+// ])
 
-export const frNavbar = defineNavbarConfig([
-  { text: 'Accueil', link: '/fr/' },
-  { text: 'Carnet de voyage', link: '/fr/blog/' },
+// export const frNavbar = defineNavbarConfig([
+//   { text: 'Accueil', link: '/fr/' },
+//   { text: 'Carnet de voyage', link: '/fr/blog/' },
 
-  {
-    text: 'Parc',
-    items: [{ text: 'Parc omnisports', link: '/fr/notes/ComprehensivePark/README.md' },
-    { text: 'Parc communautaire', link: '/fr/notes/CommunityPark/README.md' },
-    { text: 'Parc spécialisé', link: '/fr/notes/SpecializedPark/README.md' },
-    { text: 'Espace vert de repos pittoresque', link: '/fr/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Visite du jardin', link: '/fr/notes/TravellingGarden/README.md' },
-    ]
-  },
-  { text: 'Carré&bloc', link: '/fr/notes/SquareBlock/README.md' },
-  { text: 'Musée&Bibliothèque', link: '/fr/notes/Cultural-Sports-Venues/README.md' },
-  { text: 'Autre', link: '/fr/notes/Other/README.md' },
+//   {
+//     text: 'Parc',
+//     items: [{ text: 'Parc omnisports', link: '/fr/notes/ComprehensivePark/README.md' },
+//     { text: 'Parc communautaire', link: '/fr/notes/CommunityPark/README.md' },
+//     { text: 'Parc spécialisé', link: '/fr/notes/SpecializedPark/README.md' },
+//     { text: 'Espace vert de repos pittoresque', link: '/fr/notes/LandscapeLeisureGreenSpace/README.md' },
+//     { text: 'Visite du jardin', link: '/fr/notes/TravellingGarden/README.md' },
+//     ]
+//   },
+//   { text: 'Carré&bloc', link: '/fr/notes/SquareBlock/README.md' },
+//   { text: 'Musée&Bibliothèque', link: '/fr/notes/Cultural-Sports-Venues/README.md' },
+//   { text: 'Autre', link: '/fr/notes/Other/README.md' },
 
-  {
-    text: 'ShenZhen',
-    icon: 'gis:poi-map',
-    link: '/fr/city-site-map/fr-city-guides-overview/'
-  },
-  // ...frSharedNavbar
-])
+//   {
+//     text: 'ShenZhen',
+//     icon: 'gis:poi-map',
+//     link: '/fr/city-site-map/fr-city-guides-overview/'
+//   },
+//   // ...frSharedNavbar
+// ])
 
 export const jaNavbar = defineNavbarConfig([
   { text: 'ホーム', link: '/ja/' },
@@ -299,86 +299,86 @@ export const jaNavbar = defineNavbarConfig([
   // ...jaSharedNavbar
 ])
 
-export const ruNavbar = defineNavbarConfig([
-  { text: 'Главная', link: '/ru/' },
-  { text: 'ПутевыеЭаметки', link: '/ru/blog/' },
+// export const ruNavbar = defineNavbarConfig([
+//   { text: 'Главная', link: '/ru/' },
+//   { text: 'ПутевыеЭаметки', link: '/ru/blog/' },
 
-  {
-    text: 'Парк',
-    items: [{ text: 'Комплексный Парк', link: '/ru/notes/ComprehensivePark/README.md' },
-    { text: 'Парк общины', link: '/ru/notes/CommunityPark/README.md' },
-    { text: 'Специализированный Парк', link: '/ru/notes/SpecializedPark/README.md' },
-    { text: 'Ландшафтная Эона отдыха', link: '/ru/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Экскурсия По Саду', link: '/ru/notes/TravellingGarden/README.md' },
-    ]
-  },
-
-
-  { text: 'Квадрат&блок', link: '/ru/notes/SquareBlock/README.md' },
-  { text: 'Музей&Библиотека', link: '/ru/notes/Cultural-Sports-Venues/README.md' },
-  { text: 'Другое', link: '/ru/notes/Other/README.md' },
-
-  {
-    text: 'ShenZhen',
-    icon: 'gis:poi-map',
-    link: '/ru/city-site-map/ru-city-guides-overview/'
-  },
-  // ...ruSharedNavbar
-])
-
-export const trNavbar = defineNavbarConfig([
-  { text: 'Anasayfa', link: '/tr/' },
-  { text: 'SeyahatNotları', link: '/tr/blog/' },
-
-  {
-    text: 'Park',
-    items: [{ text: 'Kapsamlı Park', link: '/tr/notes/ComprehensivePark/README.md' },
-    { text: 'Topluluk Parkı', link: '/tr/notes/CommunityPark/README.md' },
-    { text: 'Özel Parkı', link: '/tr/notes/SpecializedPark/README.md' },
-    { text: 'Manzaralı Yeşil Alan', link: '/tr/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Bahçe Turu', link: '/tr/notes/TravellingGarden/README.md' },
-    ]
-  },
+//   {
+//     text: 'Парк',
+//     items: [{ text: 'Комплексный Парк', link: '/ru/notes/ComprehensivePark/README.md' },
+//     { text: 'Парк общины', link: '/ru/notes/CommunityPark/README.md' },
+//     { text: 'Специализированный Парк', link: '/ru/notes/SpecializedPark/README.md' },
+//     { text: 'Ландшафтная Эона отдыха', link: '/ru/notes/LandscapeLeisureGreenSpace/README.md' },
+//     { text: 'Экскурсия По Саду', link: '/ru/notes/TravellingGarden/README.md' },
+//     ]
+//   },
 
 
-  { text: 'Kare&blok', link: '/tr/notes/SquareBlock/README.md' },
-  { text: 'Müze&Kütüphane', link: '/tr/notes/Cultural-Sports-Venues/README.md' },
-  { text: 'Diğer', link: '/tr/notes/Other/README.md' },
+//   { text: 'Квадрат&блок', link: '/ru/notes/SquareBlock/README.md' },
+//   { text: 'Музей&Библиотека', link: '/ru/notes/Cultural-Sports-Venues/README.md' },
+//   { text: 'Другое', link: '/ru/notes/Other/README.md' },
 
-  {
-    text: 'ShenZhen',
-    icon: 'gis:poi-map',
-    link: '/tr/city-site-map/tr-city-guides-overview/'
-  },
-  // ...trSharedNavbar
-])
+//   {
+//     text: 'ShenZhen',
+//     icon: 'gis:poi-map',
+//     link: '/ru/city-site-map/ru-city-guides-overview/'
+//   },
+//   // ...ruSharedNavbar
+// ])
 
-export const viNavbar = defineNavbarConfig([
-  { text: 'TrangDhủ', link: '/vi/' },
-  { text: 'NhậtKýDuLịch', link: '/vi/blog/' },
+// export const trNavbar = defineNavbarConfig([
+//   { text: 'Anasayfa', link: '/tr/' },
+//   { text: 'SeyahatNotları', link: '/tr/blog/' },
 
-  {
-    text: 'CôngViên',
-    items: [{ text: 'CôngViênTổngHợp', link: '/vi/notes/ComprehensivePark/README.md' },
-    { text: 'CôngViênCộngDồng', link: '/vi/notes/CommunityPark/README.md' },
-    { text: 'CôngViênChuyênBiệt', link: '/vi/notes/SpecializedPark/README.md' },
-    { text: 'Khu vực xanh nghỉ ngơi cảnh quan', link: '/vi/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Tham quan vườn', link: '/vi/notes/TravellingGarden/README.md' },
-    ]
-  },
+//   {
+//     text: 'Park',
+//     items: [{ text: 'Kapsamlı Park', link: '/tr/notes/ComprehensivePark/README.md' },
+//     { text: 'Topluluk Parkı', link: '/tr/notes/CommunityPark/README.md' },
+//     { text: 'Özel Parkı', link: '/tr/notes/SpecializedPark/README.md' },
+//     { text: 'Manzaralı Yeşil Alan', link: '/tr/notes/LandscapeLeisureGreenSpace/README.md' },
+//     { text: 'Bahçe Turu', link: '/tr/notes/TravellingGarden/README.md' },
+//     ]
+//   },
 
 
-  { text: 'QuảngTrường&KhuPhố', link: '/vi/notes/SquareBlock/README.md' },
-  { text: 'BảoTàng&ThưViện', link: '/vi/notes/Cultural-Sports-Venues/README.md' },
-  { text: 'Khác', link: '/vi/notes/Other/README.md' },
+//   { text: 'Kare&blok', link: '/tr/notes/SquareBlock/README.md' },
+//   { text: 'Müze&Kütüphane', link: '/tr/notes/Cultural-Sports-Venues/README.md' },
+//   { text: 'Diğer', link: '/tr/notes/Other/README.md' },
 
-  {
-    text: 'ShenZhen',
-    icon: 'gis:poi-map',
-    link: '/vi/city-site-map/vi-city-guides-overview/'
-  },
-  // ...viSharedNavbar
-])
+//   {
+//     text: 'ShenZhen',
+//     icon: 'gis:poi-map',
+//     link: '/tr/city-site-map/tr-city-guides-overview/'
+//   },
+//   // ...trSharedNavbar
+// ])
+
+// export const viNavbar = defineNavbarConfig([
+//   { text: 'TrangDhủ', link: '/vi/' },
+//   { text: 'NhậtKýDuLịch', link: '/vi/blog/' },
+
+//   {
+//     text: 'CôngViên',
+//     items: [{ text: 'CôngViênTổngHợp', link: '/vi/notes/ComprehensivePark/README.md' },
+//     { text: 'CôngViênCộngDồng', link: '/vi/notes/CommunityPark/README.md' },
+//     { text: 'CôngViênChuyênBiệt', link: '/vi/notes/SpecializedPark/README.md' },
+//     { text: 'Khu vực xanh nghỉ ngơi cảnh quan', link: '/vi/notes/LandscapeLeisureGreenSpace/README.md' },
+//     { text: 'Tham quan vườn', link: '/vi/notes/TravellingGarden/README.md' },
+//     ]
+//   },
+
+
+//   { text: 'QuảngTrường&KhuPhố', link: '/vi/notes/SquareBlock/README.md' },
+//   { text: 'BảoTàng&ThưViện', link: '/vi/notes/Cultural-Sports-Venues/README.md' },
+//   { text: 'Khác', link: '/vi/notes/Other/README.md' },
+
+//   {
+//     text: 'ShenZhen',
+//     icon: 'gis:poi-map',
+//     link: '/vi/city-site-map/vi-city-guides-overview/'
+//   },
+//   // ...viSharedNavbar
+// ])
 
 export const zhTWNavbar = defineNavbarConfig([
   { text: '首頁', link: '/zh-tw/' },
@@ -450,41 +450,41 @@ export const zhTWNavbar = defineNavbarConfig([
   // ...zhTWSharedNavbar
 ])
 
-export const koNavbar = defineNavbarConfig([
-  { text: '홈 페이지', link: '/ko/' },
-  { text: '여행기', link: '/ko/blog/' },
+// export const koNavbar = defineNavbarConfig([
+//   { text: '홈 페이지', link: '/ko/' },
+//   { text: '여행기', link: '/ko/blog/' },
 
-  {
-    text: '공원',
-    items: [{ text: '종합 공원', link: '/ko/notes/ComprehensivePark/README.md' },
-    { text: '조경된 오픈 스페이스', link: '/ko/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: '정원 투어', link: '/ko/notes/TravellingGarden/README.md' },
-    ]
-  },
+//   {
+//     text: '공원',
+//     items: [{ text: '종합 공원', link: '/ko/notes/ComprehensivePark/README.md' },
+//     { text: '조경된 오픈 스페이스', link: '/ko/notes/LandscapeLeisureGreenSpace/README.md' },
+//     { text: '정원 투어', link: '/ko/notes/TravellingGarden/README.md' },
+//     ]
+//   },
 
-  {
-    text: '전문 공원',
-    items: [{ text: '동물원', link: '/ko/notes/SpecializedPark/Zoo/README.md' },
-    { text: '식물원', link: '/ko/notes/SpecializedPark/BotanicalGarden/README.md' },
-    { text: '역사 정원', link: '/ko/notes/SpecializedPark/HistoricGarden/README.md' },
-    { text: '유산 공원', link: '/ko/notes/SpecializedPark/HeritagePark/README.md' },
-    { text: '놀이 공원', link: '/ko/notes/SpecializedPark/FunParks/README.md' },
-    { text: '어린이 공원', link: '/ko/notes/SpecializedPark/ChildrenPark/README.md' },
-    { text: '스포츠 및 피트니스 공원', link: '/ko/notes/SpecializedPark/SportsFitness/README.md' },
-    { text: '워터프론트 공원', link: '/ko/notes/SpecializedPark/WaterfrontPark/README.md' },
-    { text: '기념 공원', link: '/ko/notes/SpecializedPark/CommemorativePark/README.md' },
-    { text: '조각 공원', link: '/ko/notes/SpecializedPark/SculpturePark/README.md' },
-    ]
-  },
+//   {
+//     text: '전문 공원',
+//     items: [{ text: '동물원', link: '/ko/notes/SpecializedPark/Zoo/README.md' },
+//     { text: '식물원', link: '/ko/notes/SpecializedPark/BotanicalGarden/README.md' },
+//     { text: '역사 정원', link: '/ko/notes/SpecializedPark/HistoricGarden/README.md' },
+//     { text: '유산 공원', link: '/ko/notes/SpecializedPark/HeritagePark/README.md' },
+//     { text: '놀이 공원', link: '/ko/notes/SpecializedPark/FunParks/README.md' },
+//     { text: '어린이 공원', link: '/ko/notes/SpecializedPark/ChildrenPark/README.md' },
+//     { text: '스포츠 및 피트니스 공원', link: '/ko/notes/SpecializedPark/SportsFitness/README.md' },
+//     { text: '워터프론트 공원', link: '/ko/notes/SpecializedPark/WaterfrontPark/README.md' },
+//     { text: '기념 공원', link: '/ko/notes/SpecializedPark/CommemorativePark/README.md' },
+//     { text: '조각 공원', link: '/ko/notes/SpecializedPark/SculpturePark/README.md' },
+//     ]
+//   },
 
-  // { text: '광장 및 근린공원', link: '/ko/notes/SquareBlock/README.md' },
-  { text: '박물관 및 도서관', link: '/ko/notes/Cultural-Sports-Venues/README.md' },
-  { text: '기타', link: '/ko/notes/Other/README.md' },
+//   // { text: '광장 및 근린공원', link: '/ko/notes/SquareBlock/README.md' },
+//   { text: '박물관 및 도서관', link: '/ko/notes/Cultural-Sports-Venues/README.md' },
+//   { text: '기타', link: '/ko/notes/Other/README.md' },
 
-  {
-    text: 'ShenZhen',
-    icon: 'gis:poi-map',
-    link: '/ko/city-site-map/ko-city-guides-overview/'
-  },
-  // ...viSharedNavbar
-])
+//   {
+//     text: 'ShenZhen',
+//     icon: 'gis:poi-map',
+//     link: '/ko/city-site-map/ko-city-guides-overview/'
+//   },
+//   // ...viSharedNavbar
+// ])

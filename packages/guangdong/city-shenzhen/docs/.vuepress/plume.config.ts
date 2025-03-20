@@ -1,6 +1,9 @@
 import { defineThemeConfig } from 'vuepress-theme-plume'
-import { enNavbar, zhNavbar, deNavbar, esNavbar, frNavbar, jaNavbar, ruNavbar, trNavbar, viNavbar, zhTWNavbar, koNavbar, } from './navbar'
-import { enNotes, zhNotes, deNotes, esNotes, frNotes, jaNotes, ruNotes, trNotes, viNotes, zhTWNotes, koNotes, } from './notes'
+import { enNavbar, zhNavbar, jaNavbar, zhTWNavbar, } from './navbar'
+import { enNotes, zhNotes, jaNotes, zhTWNotes, } from './notes'
+
+// import { enNavbar, zhNavbar, deNavbar, esNavbar, frNavbar, jaNavbar, ruNavbar, trNavbar, viNavbar, zhTWNavbar, koNavbar, } from './navbar'
+// import { enNotes, zhNotes, deNotes, esNotes, frNotes, jaNotes, ruNotes, trNotes, viNotes, zhTWNotes, koNotes, } from './notes'
 
 /**
  * @see https://theme-plume.vuejs.press/config/basic/
@@ -64,45 +67,45 @@ export default defineThemeConfig({
       navbar: enNavbar,
       notes: enNotes,
     },
-    '/de/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'Stadtspaziergang',
-        description: 'Stadtspaziergang  Shenzhen',
-        // circle: true,
-        // location: '',
-        // organization: '',
-      },
+    // '/de/': {
+    //   profile: {
+    //     avatar: 'https://theme-plume.vuejs.press/plume.png',
+    //     name: 'Stadtspaziergang',
+    //     description: 'Stadtspaziergang  Shenzhen',
+    //     // circle: true,
+    //     // location: '',
+    //     // organization: '',
+    //   },
 
-      navbar: deNavbar,
-      notes: deNotes,
-    },
-    '/es/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'Paseo por la ciudad',
-        description: 'paseo por la ciudad de Shenzhen',
-        // circle: true,
-        // location: '',
-        // organization: '',
-      },
+    //   navbar: deNavbar,
+    //   notes: deNotes,
+    // },
+    // '/es/': {
+    //   profile: {
+    //     avatar: 'https://theme-plume.vuejs.press/plume.png',
+    //     name: 'Paseo por la ciudad',
+    //     description: 'paseo por la ciudad de Shenzhen',
+    //     // circle: true,
+    //     // location: '',
+    //     // organization: '',
+    //   },
 
-      navbar: esNavbar,
-      notes: esNotes,
-    },
-    '/fr/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'Promenade en ville',
-        description: 'Promenade en ville à Shenzhen',
-        // circle: true,
-        // location: '',
-        // organization: '',
-      },
+    //   navbar: esNavbar,
+    //   notes: esNotes,
+    // },
+    // '/fr/': {
+    //   profile: {
+    //     avatar: 'https://theme-plume.vuejs.press/plume.png',
+    //     name: 'Promenade en ville',
+    //     description: 'Promenade en ville à Shenzhen',
+    //     // circle: true,
+    //     // location: '',
+    //     // organization: '',
+    //   },
 
-      navbar: frNavbar,
-      notes: frNotes,
-    },
+    //   navbar: frNavbar,
+    //   notes: frNotes,
+    // },
     '/ja/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
@@ -116,45 +119,45 @@ export default defineThemeConfig({
       navbar: jaNavbar,
       notes: jaNotes,
     },
-    '/ru/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'прогулка по городу',
-        description: 'Прогулка по городу в Шэньчжэне',
-        // circle: true,
-        // location: '',
-        // organization: '',
-      },
+    // '/ru/': {
+    //   profile: {
+    //     avatar: 'https://theme-plume.vuejs.press/plume.png',
+    //     name: 'прогулка по городу',
+    //     description: 'Прогулка по городу в Шэньчжэне',
+    //     // circle: true,
+    //     // location: '',
+    //     // organization: '',
+    //   },
 
-      navbar: ruNavbar,
-      notes: ruNotes,
-    },
-    '/tr/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'şehir yürüyüşü',
-        description: 'Shenzhen de bir şehir yürüyüşü',
-        // circle: true,
-        // location: '',
-        // organization: '',
-      },
+    //   navbar: ruNavbar,
+    //   notes: ruNotes,
+    // },
+    // '/tr/': {
+    //   profile: {
+    //     avatar: 'https://theme-plume.vuejs.press/plume.png',
+    //     name: 'şehir yürüyüşü',
+    //     description: 'Shenzhen de bir şehir yürüyüşü',
+    //     // circle: true,
+    //     // location: '',
+    //     // organization: '',
+    //   },
 
-      navbar: trNavbar,
-      notes: trNotes,
-    },
-    '/vi/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'đi dạo trong thành phố',
-        description: 'Một chuyến đi dạo trong thành phố Thâm Quyến',
-        // circle: true,
-        // location: '',
-        // organization: '',
-      },
+    //   navbar: trNavbar,
+    //   notes: trNotes,
+    // },
+    // '/vi/': {
+    //   profile: {
+    //     avatar: 'https://theme-plume.vuejs.press/plume.png',
+    //     name: 'đi dạo trong thành phố',
+    //     description: 'Một chuyến đi dạo trong thành phố Thâm Quyến',
+    //     // circle: true,
+    //     // location: '',
+    //     // organization: '',
+    //   },
 
-      navbar: viNavbar,
-      notes: viNotes,
-    },
+    //   navbar: viNavbar,
+    //   notes: viNotes,
+    // },
     '/zh-tw/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
@@ -168,19 +171,19 @@ export default defineThemeConfig({
       navbar: zhTWNavbar,
       notes: zhTWNotes,
     },
-    '/ko/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: '시티 워크-선전',
-        description: 'Một chuyến đi dạo trong thành phố Thâm Quyến',
-        // circle: true,
-        // location: '',
-        // organization: '',
-      },
+    // '/ko/': {
+    //   profile: {
+    //     avatar: 'https://theme-plume.vuejs.press/plume.png',
+    //     name: '시티 워크-선전',
+    //     description: 'Một chuyến đi dạo trong thành phố Thâm Quyến',
+    //     // circle: true,
+    //     // location: '',
+    //     // organization: '',
+    //   },
 
-      navbar: koNavbar,
-      notes: koNotes,
-    },
+    //   navbar: koNavbar,
+    //   notes: koNotes,
+    // },
   },
 })
 

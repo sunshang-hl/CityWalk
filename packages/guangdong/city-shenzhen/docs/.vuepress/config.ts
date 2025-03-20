@@ -22,41 +22,41 @@ export default defineUserConfig({
       lang: 'en-US',
       description: 'Explore parks and scenic spots in Chinese citie',
     },
-    '/de/': {
-      title: 'Stadtspaziergang ',
-      lang: 'de-DE',
-      description: 'Stadtspaziergang Shenzhen',
-    },
-    '/es/': {
-      title: 'Paseo por la ciudad ',
-      lang: 'es-ES',
-      description: 'city walk website ShenZhen',
-    },
-    '/fr/': {
-      title: 'Paseo por la ciudad',
-      lang: 'fr-FR',
-      description: 'city walk website ShenZhen',
-    },
+    // '/de/': {
+    //   title: 'Stadtspaziergang ',
+    //   lang: 'de-DE',
+    //   description: 'Stadtspaziergang Shenzhen',
+    // },
+    // '/es/': {
+    //   title: 'Paseo por la ciudad ',
+    //   lang: 'es-ES',
+    //   description: 'city walk website ShenZhen',
+    // },
+    // '/fr/': {
+    //   title: 'Paseo por la ciudad',
+    //   lang: 'fr-FR',
+    //   description: 'city walk website ShenZhen',
+    // },
     '/ja/': {
       title: '深圳を歩く都市',
       lang: 'ja-JP',
       description: '深圳を歩く都市',
     },
-    '/ru/': {
-      title: 'Прогулка по городу',
-      lang: 'ru-RU',
-      description: 'city walk website ShenZhen',
-    },
-    '/tr/': {
-      title: 'şehi̇r yürüyüşü',
-      lang: 'tr-TR',
-      description: 'Türkiye şehirlerindeki parkları ve doğal güzellikleri keşfet',
-    },
-    '/vi/': {
-      title: 'đi dạo trong thành phố',
-      lang: 'vi-VN',
-      description: 'Khám phá công viên và danh lam thắng cảnh trong các thành phố Việt Nam',
-    },
+    // '/ru/': {
+    //   title: 'Прогулка по городу',
+    //   lang: 'ru-RU',
+    //   description: 'city walk website ShenZhen',
+    // },
+    // '/tr/': {
+    //   title: 'şehi̇r yürüyüşü',
+    //   lang: 'tr-TR',
+    //   description: 'Türkiye şehirlerindeki parkları ve doğal güzellikleri keşfet',
+    // },
+    // '/vi/': {
+    //   title: 'đi dạo trong thành phố',
+    //   lang: 'vi-VN',
+    //   description: 'Khám phá công viên và danh lam thắng cảnh trong các thành phố Việt Nam',
+    // },
     '/zh-tw/': {
       title: '城市漫步-深圳',
       lang: 'zh-tw',
@@ -67,11 +67,11 @@ export default defineUserConfig({
     //   lang: 'pt-PT',
     //   description: 'Passeio pela cidade de Shenzhen',
     // },
-    '/ko/': {
-      title: '시티 워크-선전',
-      lang: 'ko-KR',
-      description: 'city walk website ShenZhen',
-    },
+    // '/ko/': {
+    //   title: '시티 워크-선전',
+    //   lang: 'ko-KR',
+    //   description: 'city walk website ShenZhen',
+    // },
   },
 
   // head: [
@@ -103,27 +103,27 @@ export default defineUserConfig({
           { text: 'Blog', link: '/en/blog/' },
         ]
       },
-      '/fr/': {
-        selectLanguageName: 'Français',
-        navbar: [
-          { text: 'Accueil', link: '/fr/' },
-          { text: 'Le Blog', link: '/fr/blog/' },
-        ]
-      },
-      '/de/': {
-        selectLanguageName: 'Deutsch',
-        navbar: [
-          { text: 'Startseite', link: '/de/' },
-          { text: 'Blog', link: '/de/blog/' },
-        ]
-      },
-      '/es/': {
-        selectLanguageName: 'Español',
-        navbar: [
-          { text: 'Página principal', link: '/es/' },
-          { text: 'Blog', link: '/es/blog/' },
-        ]
-      },
+      // '/fr/': {
+      //   selectLanguageName: 'Français',
+      //   navbar: [
+      //     { text: 'Accueil', link: '/fr/' },
+      //     { text: 'Le Blog', link: '/fr/blog/' },
+      //   ]
+      // },
+      // '/de/': {
+      //   selectLanguageName: 'Deutsch',
+      //   navbar: [
+      //     { text: 'Startseite', link: '/de/' },
+      //     { text: 'Blog', link: '/de/blog/' },
+      //   ]
+      // },
+      // '/es/': {
+      //   selectLanguageName: 'Español',
+      //   navbar: [
+      //     { text: 'Página principal', link: '/es/' },
+      //     { text: 'Blog', link: '/es/blog/' },
+      //   ]
+      // },
       '/ja/': {
         selectLanguageName: '日本語',
         navbar: [
@@ -131,27 +131,27 @@ export default defineUserConfig({
           { text: 'ブログ', link: '/ja/blog/' },
         ]
       },
-      '/ru/': {
-        selectLanguageName: 'Русский',
-        navbar: [
-          { text: 'Главная', link: '/ru/' },
-          { text: 'блог', link: '/ru/blog/' },
-        ]
-      },
-      '/tr/': {
-        selectLanguageName: 'Türkçe',
-        navbar: [
-          { text: 'Anasayfa', link: '/tr/' },
-          { text: 'Blog', link: '/tr/blog/' },
-        ]
-      },
-      '/vi/': {
-        selectLanguageName: 'Tiếng Việt',
-        navbar: [
-          { text: 'Trang chủ', link: '/vi/' },
-          { text: 'Blog', link: '/vi/blog/' },
-        ]
-      },
+      // '/ru/': {
+      //   selectLanguageName: 'Русский',
+      //   navbar: [
+      //     { text: 'Главная', link: '/ru/' },
+      //     { text: 'блог', link: '/ru/blog/' },
+      //   ]
+      // },
+      // '/tr/': {
+      //   selectLanguageName: 'Türkçe',
+      //   navbar: [
+      //     { text: 'Anasayfa', link: '/tr/' },
+      //     { text: 'Blog', link: '/tr/blog/' },
+      //   ]
+      // },
+      // '/vi/': {
+      //   selectLanguageName: 'Tiếng Việt',
+      //   navbar: [
+      //     { text: 'Trang chủ', link: '/vi/' },
+      //     { text: 'Blog', link: '/vi/blog/' },
+      //   ]
+      // },
       '/zh-tw/': {
         selectLanguageName: '繁体中文',
         navbar: [
@@ -159,13 +159,13 @@ export default defineUserConfig({
           { text: '博客', link: '/zh-tw/blog/' },
         ]
       },
-      '/ko/': {
-        selectLanguageName: '한국인',
-        navbar: [
-          { text: '首頁', link: '/ko/' },
-          { text: '博客', link: '/ko/blog/' },
-        ]
-      },
+      // '/ko/': {
+      //   selectLanguageName: '한국인',
+      //   navbar: [
+      //     { text: '首頁', link: '/ko/' },
+      //     { text: '博客', link: '/ko/blog/' },
+      //   ]
+      // },
       // '/pt/': {
       //   selectLanguageName: 'Português',
       //   navbar: [

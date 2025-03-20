@@ -270,178 +270,178 @@ export const enNotes = defineNotesConfig({
 
 /* =================== locale: de-DE ======================= */
 
-const GemeindePark = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
+// const GemeindePark = defineNoteConfig({
+//   dir: 'CommunityPark',
+//   link: '/CommunityPark',
+//   sidebar: 'auto',
+// })
 
-const UmfassenderPark = defineNoteConfig({
-  dir: 'ComprehensivePark',
-  link: '/ComprehensivePark',
-  sidebar: 'auto',
-})
+// const UmfassenderPark = defineNoteConfig({
+//   dir: 'ComprehensivePark',
+//   link: '/ComprehensivePark',
+//   sidebar: 'auto',
+// })
 
-const SpezialPark = defineNoteConfig({
-  dir: 'SpecializedPark',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
+// const SpezialPark = defineNoteConfig({
+//   dir: 'SpecializedPark',
+//   link: '/SpecializedPark',
+//   sidebar: 'auto',
+// })
 
-const Gartentour = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
+// const Gartentour = defineNoteConfig({
+//   dir: 'TravellingGarden',
+//   link: '/TravellingGarden',
+//   sidebar: 'auto',
+// })
 
-const LandschaftlicherErholungsraum = defineNoteConfig({
-  dir: 'LandscapeLeisureGreenSpace',
-  link: '/LandscapeLeisureGreenSpace',
-  sidebar: 'auto',
-})
+// const LandschaftlicherErholungsraum = defineNoteConfig({
+//   dir: 'LandscapeLeisureGreenSpace',
+//   link: '/LandscapeLeisureGreenSpace',
+//   sidebar: 'auto',
+// })
 
-const MuseumBibliothek = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
-  link: '/Cultural-Sports-Venues',
-  sidebar: 'auto',
-})
+// const MuseumBibliothek = defineNoteConfig({
+//   dir: 'Cultural-Sports-Venues',
+//   link: '/Cultural-Sports-Venues',
+//   sidebar: 'auto',
+// })
 
-const QuadratBlock = defineNoteConfig({
-  dir: 'SquareBlock',
-  link: '/SquareBlock',
-  sidebar: 'auto',
-})
+// const QuadratBlock = defineNoteConfig({
+//   dir: 'SquareBlock',
+//   link: '/SquareBlock',
+//   sidebar: 'auto',
+// })
 
-const Sonstiges = defineNoteConfig({
-  dir: 'Other',
-  link: '/Other',
-  sidebar: 'auto',
-})
+// const Sonstiges = defineNoteConfig({
+//   dir: 'Other',
+//   link: '/Other',
+//   sidebar: 'auto',
+// })
 
 
-export const deNotes = defineNotesConfig({
-  dir: 'de/notes',
-  link: '/de/',
-  notes: [GemeindePark, UmfassenderPark, SpezialPark, Gartentour, LandschaftlicherErholungsraum,
-    MuseumBibliothek, QuadratBlock, Sonstiges],
-})
+// export const deNotes = defineNotesConfig({
+//   dir: 'de/notes',
+//   link: '/de/',
+//   notes: [GemeindePark, UmfassenderPark, SpezialPark, Gartentour, LandschaftlicherErholungsraum,
+//     MuseumBibliothek, QuadratBlock, Sonstiges],
+// })
 
 
 /* =================== locale: es-ES ======================= */
 
-const ParqueComunitario = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
+// const ParqueComunitario = defineNoteConfig({
+//   dir: 'CommunityPark',
+//   link: '/CommunityPark',
+//   sidebar: 'auto',
+// })
 
-const ParqueIntegral = defineNoteConfig({
-  dir: 'ComprehensivePark',
-  link: '/ComprehensivePark',
-  sidebar: 'auto',
-})
+// const ParqueIntegral = defineNoteConfig({
+//   dir: 'ComprehensivePark',
+//   link: '/ComprehensivePark',
+//   sidebar: 'auto',
+// })
 
-const ParqueEspecializado = defineNoteConfig({
-  dir: 'SpecializedPark',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
+// const ParqueEspecializado = defineNoteConfig({
+//   dir: 'SpecializedPark',
+//   link: '/SpecializedPark',
+//   sidebar: 'auto',
+// })
 
-const VisitaAlJardín = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
+// const VisitaAlJardín = defineNoteConfig({
+//   dir: 'TravellingGarden',
+//   link: '/TravellingGarden',
+//   sidebar: 'auto',
+// })
 
-const EspacioVerdeDeDescansoEscénico = defineNoteConfig({
-  dir: 'LandscapeLeisureGreenSpace',
-  link: '/LandscapeLeisureGreenSpace',
-  sidebar: 'auto',
-})
+// const EspacioVerdeDeDescansoEscénico = defineNoteConfig({
+//   dir: 'LandscapeLeisureGreenSpace',
+//   link: '/LandscapeLeisureGreenSpace',
+//   sidebar: 'auto',
+// })
 
-const MuseoBiblioteca = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
-  link: '/Cultural-Sports-Venues',
-  sidebar: 'auto',
-})
+// const MuseoBiblioteca = defineNoteConfig({
+//   dir: 'Cultural-Sports-Venues',
+//   link: '/Cultural-Sports-Venues',
+//   sidebar: 'auto',
+// })
 
-const PlazaBarrio = defineNoteConfig({
-  dir: 'SquareBlock',
-  link: '/SquareBlock',
-  sidebar: 'auto',
-})
+// const PlazaBarrio = defineNoteConfig({
+//   dir: 'SquareBlock',
+//   link: '/SquareBlock',
+//   sidebar: 'auto',
+// })
 
-const Otro = defineNoteConfig({
-  dir: 'Other',
-  link: '/Other',
-  sidebar: 'auto',
-})
+// const Otro = defineNoteConfig({
+//   dir: 'Other',
+//   link: '/Other',
+//   sidebar: 'auto',
+// })
 
 
-export const esNotes = defineNotesConfig({
-  dir: 'es/notes',
-  link: '/es/',
-  notes: [ParqueComunitario, ParqueIntegral, ParqueEspecializado, VisitaAlJardín, EspacioVerdeDeDescansoEscénico,
-    MuseoBiblioteca, PlazaBarrio, Otro],
-})
+// export const esNotes = defineNotesConfig({
+//   dir: 'es/notes',
+//   link: '/es/',
+//   notes: [ParqueComunitario, ParqueIntegral, ParqueEspecializado, VisitaAlJardín, EspacioVerdeDeDescansoEscénico,
+//     MuseoBiblioteca, PlazaBarrio, Otro],
+// })
 
 
 /* =================== locale: fr-FR ======================= */
 
-const ParcCommunautaire = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
+// const ParcCommunautaire = defineNoteConfig({
+//   dir: 'CommunityPark',
+//   link: '/CommunityPark',
+//   sidebar: 'auto',
+// })
 
-const ParcOmnisports = defineNoteConfig({
-  dir: 'ComprehensivePark',
-  link: '/ComprehensivePark',
-  sidebar: 'auto',
-})
+// const ParcOmnisports = defineNoteConfig({
+//   dir: 'ComprehensivePark',
+//   link: '/ComprehensivePark',
+//   sidebar: 'auto',
+// })
 
-const ParcSpécialisé = defineNoteConfig({
-  dir: 'SpecializedPark',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
+// const ParcSpécialisé = defineNoteConfig({
+//   dir: 'SpecializedPark',
+//   link: '/SpecializedPark',
+//   sidebar: 'auto',
+// })
 
-const VisiteDuJardin = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
+// const VisiteDuJardin = defineNoteConfig({
+//   dir: 'TravellingGarden',
+//   link: '/TravellingGarden',
+//   sidebar: 'auto',
+// })
 
-const EspaceVertDeReposPittoresque = defineNoteConfig({
-  dir: 'LandscapeLeisureGreenSpace',
-  link: '/LandscapeLeisureGreenSpace',
-  sidebar: 'auto',
-})
+// const EspaceVertDeReposPittoresque = defineNoteConfig({
+//   dir: 'LandscapeLeisureGreenSpace',
+//   link: '/LandscapeLeisureGreenSpace',
+//   sidebar: 'auto',
+// })
 
-const MuséeBibliothèque = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
-  link: '/Cultural-Sports-Venues',
-  sidebar: 'auto',
-})
+// const MuséeBibliothèque = defineNoteConfig({
+//   dir: 'Cultural-Sports-Venues',
+//   link: '/Cultural-Sports-Venues',
+//   sidebar: 'auto',
+// })
 
-const CarréBloc = defineNoteConfig({
-  dir: 'SquareBlock',
-  link: '/SquareBlock',
-  sidebar: 'auto',
-})
+// const CarréBloc = defineNoteConfig({
+//   dir: 'SquareBlock',
+//   link: '/SquareBlock',
+//   sidebar: 'auto',
+// })
 
-const Autre = defineNoteConfig({
-  dir: 'Other',
-  link: '/Other',
-  sidebar: 'auto',
-})
+// const Autre = defineNoteConfig({
+//   dir: 'Other',
+//   link: '/Other',
+//   sidebar: 'auto',
+// })
 
-export const frNotes = defineNotesConfig({
-  dir: 'fr/notes',
-  link: '/fr/',
-  notes: [ParcCommunautaire, ParcOmnisports, ParcSpécialisé, VisiteDuJardin,
-    EspaceVertDeReposPittoresque, MuséeBibliothèque, CarréBloc, Autre],
-})
+// export const frNotes = defineNotesConfig({
+//   dir: 'fr/notes',
+//   link: '/fr/',
+//   notes: [ParcCommunautaire, ParcOmnisports, ParcSpécialisé, VisiteDuJardin,
+//     EspaceVertDeReposPittoresque, MuséeBibliothèque, CarréBloc, Autre],
+// })
 
 /* =================== locale: ja-JP ======================= */
 
@@ -668,292 +668,292 @@ export const jaNotes = defineNotesConfig({
 
 /* =================== locale: ru-RU ======================= */
 
-const ПаркOбщины = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
+// const ПаркOбщины = defineNoteConfig({
+//   dir: 'CommunityPark',
+//   link: '/CommunityPark',
+//   sidebar: 'auto',
+// })
 
-const ПаркКомплексный = defineNoteConfig({
-  dir: 'ComprehensivePark',
-  link: '/ComprehensivePark',
-  sidebar: 'auto',
-})
+// const ПаркКомплексный = defineNoteConfig({
+//   dir: 'ComprehensivePark',
+//   link: '/ComprehensivePark',
+//   sidebar: 'auto',
+// })
 
-const ПаркСпециализированный = defineNoteConfig({
-  dir: 'SpecializedPark',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
+// const ПаркСпециализированный = defineNoteConfig({
+//   dir: 'SpecializedPark',
+//   link: '/SpecializedPark',
+//   sidebar: 'auto',
+// })
 
-const ЭкскурсияПоCаду = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
+// const ЭкскурсияПоCаду = defineNoteConfig({
+//   dir: 'TravellingGarden',
+//   link: '/TravellingGarden',
+//   sidebar: 'auto',
+// })
 
-const ЛандшафтнаяЭонаOтдыха = defineNoteConfig({
-  dir: 'LandscapeLeisureGreenSpace',
-  link: '/LandscapeLeisureGreenSpace',
-  sidebar: 'auto',
-})
+// const ЛандшафтнаяЭонаOтдыха = defineNoteConfig({
+//   dir: 'LandscapeLeisureGreenSpace',
+//   link: '/LandscapeLeisureGreenSpace',
+//   sidebar: 'auto',
+// })
 
-const МузейБиблиотека = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
-  link: '/Cultural-Sports-Venues',
-  sidebar: 'auto',
-})
+// const МузейБиблиотека = defineNoteConfig({
+//   dir: 'Cultural-Sports-Venues',
+//   link: '/Cultural-Sports-Venues',
+//   sidebar: 'auto',
+// })
 
-const Квадратблок = defineNoteConfig({
-  dir: 'SquareBlock',
-  link: '/SquareBlock',
-  sidebar: 'auto',
-})
+// const Квадратблок = defineNoteConfig({
+//   dir: 'SquareBlock',
+//   link: '/SquareBlock',
+//   sidebar: 'auto',
+// })
 
-const Другое = defineNoteConfig({
-  dir: 'Other',
-  link: '/Other',
-  sidebar: 'auto',
-})
+// const Другое = defineNoteConfig({
+//   dir: 'Other',
+//   link: '/Other',
+//   sidebar: 'auto',
+// })
 
-export const ruNotes = defineNotesConfig({
-  dir: 'ru/notes',
-  link: '/ru/',
-  notes: [ПаркOбщины, ПаркКомплексный, ПаркСпециализированный, ЭкскурсияПоCаду, ЛандшафтнаяЭонаOтдыха,
-    МузейБиблиотека, Квадратблок, Другое],
-})
+// export const ruNotes = defineNotesConfig({
+//   dir: 'ru/notes',
+//   link: '/ru/',
+//   notes: [ПаркOбщины, ПаркКомплексный, ПаркСпециализированный, ЭкскурсияПоCаду, ЛандшафтнаяЭонаOтдыха,
+//     МузейБиблиотека, Квадратблок, Другое],
+// })
 
 
 /* =================== locale: tr-TR ======================= */
 
-const ToplulukPark = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
+// const ToplulukPark = defineNoteConfig({
+//   dir: 'CommunityPark',
+//   link: '/CommunityPark',
+//   sidebar: 'auto',
+// })
 
-const KapsamlıPark = defineNoteConfig({
-  dir: 'ComprehensivePark',
-  link: '/ComprehensivePark',
-  sidebar: 'auto',
-})
+// const KapsamlıPark = defineNoteConfig({
+//   dir: 'ComprehensivePark',
+//   link: '/ComprehensivePark',
+//   sidebar: 'auto',
+// })
 
-const UzmanlaşmışParklar = defineNoteConfig({
-  dir: 'SpecializedPark',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
+// const UzmanlaşmışParklar = defineNoteConfig({
+//   dir: 'SpecializedPark',
+//   link: '/SpecializedPark',
+//   sidebar: 'auto',
+// })
 
-const BahçeTuru = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
+// const BahçeTuru = defineNoteConfig({
+//   dir: 'TravellingGarden',
+//   link: '/TravellingGarden',
+//   sidebar: 'auto',
+// })
 
-const ManzaralıYeşilAlan = defineNoteConfig({
-  dir: 'LandscapeLeisureGreenSpace',
-  link: '/LandscapeLeisureGreenSpace',
-  sidebar: 'auto',
-})
+// const ManzaralıYeşilAlan = defineNoteConfig({
+//   dir: 'LandscapeLeisureGreenSpace',
+//   link: '/LandscapeLeisureGreenSpace',
+//   sidebar: 'auto',
+// })
 
-const MüzeKütüphane = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
-  link: '/Cultural-Sports-Venues',
-  sidebar: 'auto',
-})
+// const MüzeKütüphane = defineNoteConfig({
+//   dir: 'Cultural-Sports-Venues',
+//   link: '/Cultural-Sports-Venues',
+//   sidebar: 'auto',
+// })
 
-const KareBlok = defineNoteConfig({
-  dir: 'SquareBlock',
-  link: '/SquareBlock',
-  sidebar: 'auto',
-})
+// const KareBlok = defineNoteConfig({
+//   dir: 'SquareBlock',
+//   link: '/SquareBlock',
+//   sidebar: 'auto',
+// })
 
-const Diğer = defineNoteConfig({
-  dir: 'Other',
-  link: '/Other',
-  sidebar: 'auto',
-})
+// const Diğer = defineNoteConfig({
+//   dir: 'Other',
+//   link: '/Other',
+//   sidebar: 'auto',
+// })
 
 
-export const trNotes = defineNotesConfig({
-  dir: 'tr/notes',
-  link: '/tr/',
-  notes: [ToplulukPark, KapsamlıPark, UzmanlaşmışParklar, BahçeTuru, ManzaralıYeşilAlan, MüzeKütüphane, KareBlok, Diğer],
-})
+// export const trNotes = defineNotesConfig({
+//   dir: 'tr/notes',
+//   link: '/tr/',
+//   notes: [ToplulukPark, KapsamlıPark, UzmanlaşmışParklar, BahçeTuru, ManzaralıYeşilAlan, MüzeKütüphane, KareBlok, Diğer],
+// })
 
 
 /* =================== locale: vi-VN ======================= */
 
-const CôngViênCộngDồng = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
+// const CôngViênCộngDồng = defineNoteConfig({
+//   dir: 'CommunityPark',
+//   link: '/CommunityPark',
+//   sidebar: 'auto',
+// })
 
-const CôngViênTổngHợp = defineNoteConfig({
-  dir: 'ComprehensivePark',
-  link: '/ComprehensivePark',
-  sidebar: 'auto',
-})
+// const CôngViênTổngHợp = defineNoteConfig({
+//   dir: 'ComprehensivePark',
+//   link: '/ComprehensivePark',
+//   sidebar: 'auto',
+// })
 
-const CôngViênChuyênBiệt = defineNoteConfig({
-  dir: 'SpecializedPark',
-  link: '/SpecializedPark',
-  sidebar: 'auto',
-})
+// const CôngViênChuyênBiệt = defineNoteConfig({
+//   dir: 'SpecializedPark',
+//   link: '/SpecializedPark',
+//   sidebar: 'auto',
+// })
 
-const ThamQuanVườn = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
+// const ThamQuanVườn = defineNoteConfig({
+//   dir: 'TravellingGarden',
+//   link: '/TravellingGarden',
+//   sidebar: 'auto',
+// })
 
-const KhuVựcXanhNghỉNgơiCảnhQuan = defineNoteConfig({
-  dir: 'LandscapeLeisureGreenSpace',
-  link: '/LandscapeLeisureGreenSpace',
-  sidebar: 'auto',
-})
+// const KhuVựcXanhNghỉNgơiCảnhQuan = defineNoteConfig({
+//   dir: 'LandscapeLeisureGreenSpace',
+//   link: '/LandscapeLeisureGreenSpace',
+//   sidebar: 'auto',
+// })
 
-const BảoTàngThưViện = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
-  link: '/Cultural-Sports-Venues',
-  sidebar: 'auto',
-})
+// const BảoTàngThưViện = defineNoteConfig({
+//   dir: 'Cultural-Sports-Venues',
+//   link: '/Cultural-Sports-Venues',
+//   sidebar: 'auto',
+// })
 
-const QuảngTrườngKhuPhố = defineNoteConfig({
-  dir: 'SquareBlock',
-  link: '/SquareBlock',
-  sidebar: 'auto',
-})
+// const QuảngTrườngKhuPhố = defineNoteConfig({
+//   dir: 'SquareBlock',
+//   link: '/SquareBlock',
+//   sidebar: 'auto',
+// })
 
-const Khác = defineNoteConfig({
-  dir: 'Other',
-  link: '/Other',
-  sidebar: 'auto',
-})
+// const Khác = defineNoteConfig({
+//   dir: 'Other',
+//   link: '/Other',
+//   sidebar: 'auto',
+// })
 
-export const viNotes = defineNotesConfig({
-  dir: 'vi/notes',
-  link: '/vi/',
-  notes: [CôngViênCộngDồng, CôngViênTổngHợp, CôngViênChuyênBiệt, ThamQuanVườn,
-    KhuVựcXanhNghỉNgơiCảnhQuan, BảoTàngThưViện, QuảngTrườngKhuPhố, Khác],
-})
+// export const viNotes = defineNotesConfig({
+//   dir: 'vi/notes',
+//   link: '/vi/',
+//   notes: [CôngViênCộngDồng, CôngViênTổngHợp, CôngViênChuyênBiệt, ThamQuanVườn,
+//     KhuVựcXanhNghỉNgơiCảnhQuan, BảoTàngThưViện, QuảngTrườngKhuPhố, Khác],
+// })
 
 
 /* =================== locale: ko-KR ======================= */
 
-const 커뮤니티공원 = defineNoteConfig({
-  dir: 'CommunityPark',
-  link: '/CommunityPark',
-  sidebar: 'auto',
-})
+// const 커뮤니티공원 = defineNoteConfig({
+//   dir: 'CommunityPark',
+//   link: '/CommunityPark',
+//   sidebar: 'auto',
+// })
 
-const 종합공원 = defineNoteConfig({
-  dir: 'ComprehensivePark',
-  link: '/ComprehensivePark',
-  sidebar: 'auto',
-})
+// const 종합공원 = defineNoteConfig({
+//   dir: 'ComprehensivePark',
+//   link: '/ComprehensivePark',
+//   sidebar: 'auto',
+// })
 
-/// 专类公园
-const 동물원 = defineNoteConfig({
-  dir: 'SpecializedPark/Zoo',
-  link: '/SpecializedPark/Zoo',
-  sidebar: 'auto',
-})
+// /// 专类公园
+// const 동물원 = defineNoteConfig({
+//   dir: 'SpecializedPark/Zoo',
+//   link: '/SpecializedPark/Zoo',
+//   sidebar: 'auto',
+// })
 
-const 식물원 = defineNoteConfig({
-  dir: 'SpecializedPark/BotanicalGarden',
-  link: '/SpecializedPark/BotanicalGarden',
-  sidebar: 'auto',
-})
+// const 식물원 = defineNoteConfig({
+//   dir: 'SpecializedPark/BotanicalGarden',
+//   link: '/SpecializedPark/BotanicalGarden',
+//   sidebar: 'auto',
+// })
 
-const 역사공원 = defineNoteConfig({
-  dir: 'SpecializedPark/HistoricGarden',
-  link: '/SpecializedPark/HistoricGarden',
-  sidebar: 'auto',
-})
+// const 역사공원 = defineNoteConfig({
+//   dir: 'SpecializedPark/HistoricGarden',
+//   link: '/SpecializedPark/HistoricGarden',
+//   sidebar: 'auto',
+// })
 
-const 유산공원 = defineNoteConfig({
-  dir: 'SpecializedPark/HeritagePark',
-  link: '/SpecializedPark/HeritagePark',
-  sidebar: 'auto',
-})
+// const 유산공원 = defineNoteConfig({
+//   dir: 'SpecializedPark/HeritagePark',
+//   link: '/SpecializedPark/HeritagePark',
+//   sidebar: 'auto',
+// })
 
-const 놀이공원 = defineNoteConfig({
-  dir: 'SpecializedPark/FunParks',
-  link: '/SpecializedPark/FunParks',
-  sidebar: 'auto',
-})
+// const 놀이공원 = defineNoteConfig({
+//   dir: 'SpecializedPark/FunParks',
+//   link: '/SpecializedPark/FunParks',
+//   sidebar: 'auto',
+// })
 
-const 어린이공원 = defineNoteConfig({
-  dir: 'SpecializedPark/ChildrenPark',
-  link: '/SpecializedPark/ChildrenPark',
-  sidebar: 'auto',
-})
+// const 어린이공원 = defineNoteConfig({
+//   dir: 'SpecializedPark/ChildrenPark',
+//   link: '/SpecializedPark/ChildrenPark',
+//   sidebar: 'auto',
+// })
 
-const 스포츠및피트니스공원 = defineNoteConfig({
-  dir: 'SpecializedPark/SportsFitness',
-  link: '/SpecializedPark/SportsFitness',
-  sidebar: 'auto',
-})
+// const 스포츠및피트니스공원 = defineNoteConfig({
+//   dir: 'SpecializedPark/SportsFitness',
+//   link: '/SpecializedPark/SportsFitness',
+//   sidebar: 'auto',
+// })
 
-const 워터프론트공원 = defineNoteConfig({
-  dir: 'SpecializedPark/WaterfrontPark',
-  link: '/SpecializedPark/WaterfrontPark',
-  sidebar: 'auto',
-})
+// const 워터프론트공원 = defineNoteConfig({
+//   dir: 'SpecializedPark/WaterfrontPark',
+//   link: '/SpecializedPark/WaterfrontPark',
+//   sidebar: 'auto',
+// })
 
-const 기념공원 = defineNoteConfig({
-  dir: 'SpecializedPark/CommemorativePark',
-  link: '/SpecializedPark/CommemorativePark',
-  sidebar: 'auto',
-})
+// const 기념공원 = defineNoteConfig({
+//   dir: 'SpecializedPark/CommemorativePark',
+//   link: '/SpecializedPark/CommemorativePark',
+//   sidebar: 'auto',
+// })
 
-const 조각공원 = defineNoteConfig({
-  dir: 'SpecializedPark/SculpturePark',
-  link: '/SpecializedPark/SculpturePark',
-  sidebar: 'auto',
-})
-/// 专类公园
+// const 조각공원 = defineNoteConfig({
+//   dir: 'SpecializedPark/SculpturePark',
+//   link: '/SpecializedPark/SculpturePark',
+//   sidebar: 'auto',
+// })
+// /// 专类公园
 
-const 조경된열린공간 = defineNoteConfig({
-  dir: 'LandscapeLeisureGreenSpace',
-  link: '/LandscapeLeisureGreenSpace',
-  sidebar: 'auto',
-})
+// const 조경된열린공간 = defineNoteConfig({
+//   dir: 'LandscapeLeisureGreenSpace',
+//   link: '/LandscapeLeisureGreenSpace',
+//   sidebar: 'auto',
+// })
 
-const 박물관및도서관 = defineNoteConfig({
-  dir: 'Cultural-Sports-Venues',
-  link: '/Cultural-Sports-Venues',
-  sidebar: 'auto',
-})
+// const 박물관및도서관 = defineNoteConfig({
+//   dir: 'Cultural-Sports-Venues',
+//   link: '/Cultural-Sports-Venues',
+//   sidebar: 'auto',
+// })
 
-const 광장및인근지역 = defineNoteConfig({
-  dir: 'SquareBlock',
-  link: '/SquareBlock',
-  sidebar: 'auto',
-})
+// const 광장및인근지역 = defineNoteConfig({
+//   dir: 'SquareBlock',
+//   link: '/SquareBlock',
+//   sidebar: 'auto',
+// })
 
-const 기타 = defineNoteConfig({
-  dir: 'Other',
-  link: '/Other',
-  sidebar: 'auto',
-})
+// const 기타 = defineNoteConfig({
+//   dir: 'Other',
+//   link: '/Other',
+//   sidebar: 'auto',
+// })
 
 
-const 정원투어 = defineNoteConfig({
-  dir: 'TravellingGarden',
-  link: '/TravellingGarden',
-  sidebar: 'auto',
-})
+// const 정원투어 = defineNoteConfig({
+//   dir: 'TravellingGarden',
+//   link: '/TravellingGarden',
+//   sidebar: 'auto',
+// })
 
-export const koNotes = defineNotesConfig({
-  dir: 'ko/notes',
-  link: '/ko/',
-  notes: [커뮤니티공원, 종합공원, 동물원, 식물원, 역사공원, 유산공원, 놀이공원,
-    어린이공원, 스포츠및피트니스공원, 워터프론트공원, 기념공원, 조각공원,
-    조경된열린공간, 박물관및도서관, 광장및인근지역, 기타, 정원투어],
-})
+// export const koNotes = defineNotesConfig({
+//   dir: 'ko/notes',
+//   link: '/ko/',
+//   notes: [커뮤니티공원, 종합공원, 동물원, 식물원, 역사공원, 유산공원, 놀이공원,
+//     어린이공원, 스포츠및피트니스공원, 워터프론트공원, 기념공원, 조각공원,
+//     조경된열린공간, 박물관및도서관, 광장및인근지역, 기타, 정원투어],
+// })
 
 
 /* =================== locale: zh-tw ======================= */
