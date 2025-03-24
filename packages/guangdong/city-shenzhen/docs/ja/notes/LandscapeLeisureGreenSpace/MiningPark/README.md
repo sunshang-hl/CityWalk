@@ -7,3 +7,6 @@ permalink: /ja/LandscapeLeisureGreenSpace/MiningPark/
 ---
 
 xxxx
+
+## 目录
+- [フェニックスマウンテン国立鉱山公園](./1.凤凰山国家矿山公园.md)
