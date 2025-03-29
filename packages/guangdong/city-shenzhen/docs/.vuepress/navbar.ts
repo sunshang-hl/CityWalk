@@ -113,8 +113,16 @@ export const enNavbar = defineNavbarConfig([
     ]
   },
 
-  { text: 'Square&Block', link: '/en/notes/SquareBlock/README.md' },
-  { text: 'Museum&Library', link: '/en/notes/Cultural-Sports-Venues/README.md' },
+  // { text: 'Square&Block', link: '/en/notes/SquareBlock/README.md' },
+  {
+    text: 'Cultural Sports Venues',
+    items: [{ text: 'Sports Center', link: '/en/notes/Cultural-Sports-Venues/SportsCenter/README.md' },
+    { text: 'Museum', link: '/en/notes/Cultural-Sports-Venues/Museum/README.md' },
+    { text: 'Library', link: '/en/notes/Cultural-Sports-Venues/Library/README.md' },
+    { text: 'Culture Museum', link: '/en/notes/Cultural-Sports-Venues/CultureMuseum/README.md' },
+    ]
+  },
+  // { text: 'Cultural Sports Venues', link: '/en/notes/Cultural-Sports-Venues/README.md' },
   // {
   //   text: 'Ecological Conservation Green Space',
   //   items: [{ text: 'Natural Reserve', link: '/en/notes/NaturalReserve/README.md' },
