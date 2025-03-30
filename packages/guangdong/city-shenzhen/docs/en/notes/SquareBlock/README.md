@@ -1,10 +1,9 @@
 ---
-title: 广场和街区
+title: Square Block
 createTime: 2024-11-07 00:12:49
 permalink: /en/SquareBlock/
 ---
-
-以游憩、纪念、集会和避险等功能为主的城市公共活动场地
+Urban public activity venues primarily serving recreational, commemorative, gathering, and shelter functions
 
 ## Catalogue
 - [ssdd](./1.ssdd.md)

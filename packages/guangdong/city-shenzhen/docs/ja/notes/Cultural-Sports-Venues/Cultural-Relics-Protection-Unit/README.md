@@ -4,7 +4,7 @@ createTime: 2025-03-09 18:05:24
 permalink: /ja/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit/
 ---
 
-## 目录
+## 目次
 - [舞の祖霊廟](./光明区-1.麦氏大宗祠.md)
 - [南投古城壁](./南山区-1.南头古城垣.md)
 - [赤湾天后寺遺跡](./南山区-10.赤湾天后庙遗址.md)

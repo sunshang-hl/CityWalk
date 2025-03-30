@@ -110,16 +110,19 @@ export const enNavbar = defineNavbarConfig([
     { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
     { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
     { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    { text: 'A-Level', link: '/en/notes/A-Level/README.md' },
     ]
   },
 
   // { text: 'Square&Block', link: '/en/notes/SquareBlock/README.md' },
   {
     text: 'Cultural Sports Venues',
-    items: [{ text: 'Sports Center', link: '/en/notes/Cultural-Sports-Venues/SportsCenter/README.md' },
+    items: [{ text: 'Sports Center', link: '/en/notes/Cultural-Sports-Venues/Sports-Center/README.md' },
     { text: 'Museum', link: '/en/notes/Cultural-Sports-Venues/Museum/README.md' },
     { text: 'Library', link: '/en/notes/Cultural-Sports-Venues/Library/README.md' },
-    { text: 'Culture Museum', link: '/en/notes/Cultural-Sports-Venues/CultureMuseum/README.md' },
+    { text: 'Art Gallery', link: '/en/notes/Cultural-Sports-Venues/Art-Gallery/README.md' },
+    { text: 'Cultural Relics Protection Unit', link: '/en/notes/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit/README.md' },
+    { text: 'Performance Venue', link: '/en/notes/Cultural-Sports-Venues/Performance-Venue/README.md' }
     ]
   },
   // { text: 'Cultural Sports Venues', link: '/en/notes/Cultural-Sports-Venues/README.md' },

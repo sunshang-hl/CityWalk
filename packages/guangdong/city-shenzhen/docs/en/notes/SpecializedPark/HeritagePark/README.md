@@ -1,9 +1,7 @@
 ---
-title: 遗址公园
+title: Heritage Park
 createTime: 2024-11-07 00:12:49
 permalink: /en/SpecializedPark/HeritagePark/
-
-description: 以重要遗址及其背景环境为主形成的,在遗址保护和展示等方面具有示范意义,并具有文化、游憩等功能的绿地
 ---
 
-以重要遗址及其背景环境为主形成的,在遗址保护和展示等方面具有示范意义,并具有文化、游憩等功能的绿地
+Green spaces that are mainly formed by important sites and their background environment, have demonstrative significance in site protection and display, and have cultural, recreational and other functions

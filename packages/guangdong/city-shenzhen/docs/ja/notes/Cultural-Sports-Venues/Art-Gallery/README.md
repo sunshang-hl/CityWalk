@@ -4,7 +4,7 @@ createTime: 2025-03-09 18:05:23
 permalink: /ja/Cultural-Sports-Venues/Art-Gallery/
 ---
 
-## 目录
+## 目次
 ### 光明區
 - [光明文化芸術センターアートギャラリー](./光明区-1.光明文化艺术中心美术馆.md)
 ### 南山區

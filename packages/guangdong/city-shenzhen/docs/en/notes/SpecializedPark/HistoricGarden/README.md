@@ -1,9 +1,7 @@
 ---
-title: 历史名园
+title: Historic Garden
 createTime: 2024-11-07 00:12:49
 permalink: /en/SpecializedPark/HistoricGarden/
-
-description: 体现一定历史时期代表性的造园艺术,需要特别保护的园林
 ---
 
-体现一定历史时期代表性的造园艺术,需要特别保护的园林
+A garden art that represents a certain historical period and requires special protection.

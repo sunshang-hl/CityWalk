@@ -1,12 +1,9 @@
 ---
-title: 儿童公园
+title: Children Park
 createTime: 2024-11-07 00:12:49
 permalink: /en/SpecializedPark/ChildrenPark/
-
-
 ---
 
-xxxx
 
 ## Catalogue
 ### Pingshan District

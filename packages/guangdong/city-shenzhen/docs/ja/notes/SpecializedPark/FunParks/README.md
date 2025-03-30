@@ -2,8 +2,6 @@
 title: 游乐公园
 createTime: 2024-11-07 00:12:49
 permalink: /ja/SpecializedPark/FunParks/
-
-description: 单独设置,具有大型游乐设施,生态环境较好的绿地
 ---
 
-单独设置,具有大型游乐设施,生态环境较好的绿地
+単独で設置され、大型遊具を備え、生態環境に優れた緑地を備えている。

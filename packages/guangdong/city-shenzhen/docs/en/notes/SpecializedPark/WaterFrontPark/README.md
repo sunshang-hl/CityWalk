@@ -1,12 +1,9 @@
 ---
-title: 滨水公园
+title: Water Front Park
 createTime: 2024-11-07 00:12:49
 permalink: /en/SpecializedPark/WaterFrontPark/
-
-
 ---
 
-xxxx
 
 ## Catalogue
 ### Guangming District 

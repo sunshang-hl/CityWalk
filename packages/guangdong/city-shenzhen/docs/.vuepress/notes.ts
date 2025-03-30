@@ -236,6 +236,12 @@ const TravellingGarden = defineNoteConfig({
   sidebar: 'auto',
 })
 
+const ALevelScenicSpot = defineNoteConfig({
+  dir: 'A-Level',
+  link: '/A-Level',
+  sidebar: 'auto',
+})
+
 const LandscapeLeisureGreenSpace = defineNoteConfig({
   dir: 'LandscapeLeisureGreenSpace',
   link: '/LandscapeLeisureGreenSpace',
@@ -245,6 +251,48 @@ const LandscapeLeisureGreenSpace = defineNoteConfig({
 const CulturalSportsVenues = defineNoteConfig({
   dir: 'Cultural-Sports-Venues',
   link: '/Cultural-Sports-Venues',
+  sidebar: 'auto',
+})
+
+const ArtGallery = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Art-Gallery',
+  link: '/Cultural-Sports-Venues/Art-Gallery',
+  sidebar: 'auto',
+})
+
+const Museum = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Museum',
+  link: '/Cultural-Sports-Venues/Museum',
+  sidebar: 'auto',
+})
+
+const CulturalCenter = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Cultural-Center',
+  link: '/Cultural-Sports-Venues/Cultural-Center',
+  sidebar: 'auto',
+})
+
+const Library = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Library',
+  link: '/Cultural-Sports-Venues/Library',
+  sidebar: 'auto',
+})
+
+const CulturalRelicsProtectionUnit = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Cultural-Relics-Protection-Unit',
+  link: '/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit',
+  sidebar: 'auto',
+})
+
+const PerformanceVenue = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Performance-Venue',
+  link: '/Cultural-Sports-Venues/Performance-Venue',
+  sidebar: 'auto',
+})
+
+const SportCenter = defineNoteConfig({
+  dir: 'Cultural-Sports-Venues/Sports-Center',
+  link: '/Cultural-Sports-Venues/Sports-Center',
   sidebar: 'auto',
 })
 
@@ -264,8 +312,9 @@ const Other = defineNoteConfig({
 export const enNotes = defineNotesConfig({
   dir: 'en/notes',
   link: '/en/',
-  notes: [CommunityPark, ComprehensivePark, SpecializedPark, TravellingGarden, LandscapeLeisureGreenSpace,
-    CulturalSportsVenues, SquareBlock, Other],
+  notes: [CommunityPark, ComprehensivePark, SpecializedPark, TravellingGarden, ALevelScenicSpot, LandscapeLeisureGreenSpace,
+    CulturalSportsVenues, ArtGallery, Museum, CulturalCenter, Library, CulturalRelicsProtectionUnit, PerformanceVenue, SportCenter,
+    SquareBlock, Other],
 })
 
 /* =================== locale: de-DE ======================= */

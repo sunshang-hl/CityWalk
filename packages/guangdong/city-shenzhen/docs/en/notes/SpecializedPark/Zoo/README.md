@@ -1,9 +1,7 @@
 ---
-title: 动物园
+title: Zoo
 createTime: 2024-11-07 00:12:49
 permalink: /en/SpecializedPark/Zoo/
-
-description: 在人工饲养条件下,移地保护野生动物,进行动物饲养、繁殖等科学研究,并供科普、观赏、游憩等活动,具有良好设施和解说标识系统的绿地。
 ---
 
-在人工饲养条件下,移地保护野生动物,进行动物饲养、繁殖等科学研究,并供科普、观赏、游憩等活动,具有良好设施和解说标识系统的绿地。
+Under artificial breeding conditions, green spaces with good facilities and explanatory signage systems are used to protect wild animals, conduct scientific research on animal breeding and reproduction, and provide activities such as science popularization, viewing, and recreation.

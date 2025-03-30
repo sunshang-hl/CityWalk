@@ -85,7 +85,7 @@ export default defineUserConfig({
 
   bundler: viteBundler(),
   // 减少不必要的预加载的带宽消耗
-  // shouldPrefetch: false,
+  shouldPrefetch: false,
 
   theme: plumeTheme({
     // 主题内的多语言配置

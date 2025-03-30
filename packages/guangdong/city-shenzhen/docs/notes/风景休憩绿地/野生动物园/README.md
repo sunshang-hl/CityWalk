@@ -6,4 +6,4 @@ permalink: /LandscapeLeisureGreenSpace/WildlifePark/
 
 ## 目录
 
-需要和专类公园中的动物园合并
+需要和专类公园中的动物园合并。
