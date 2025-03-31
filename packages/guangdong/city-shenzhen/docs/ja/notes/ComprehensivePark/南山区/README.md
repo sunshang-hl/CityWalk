@@ -1,7 +1,7 @@
 ---
 title: 南山区
 createTime: 2025-03-22 17:03:07
-permalink: /zh-tw/ComprehensivePark/南山区/
+permalink: /ja/ComprehensivePark/南山区/
 ---
 
 ## 目次

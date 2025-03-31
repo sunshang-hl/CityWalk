@@ -1,7 +1,7 @@
 ---
 title: Performance-Venue
 createTime: 2025-03-29 18:55:01
-permalink: /zh-tw/Performance-Venue/
+permalink: /en/Performance-Venue/
 ---
 
 ## Catalogue

@@ -1,7 +1,7 @@
 ---
 title: Museum
 createTime: 2025-03-29 18:55:01
-permalink: /zh-tw/Museum/
+permalink: /en/Museum/
 ---
 
 ## Catalogue

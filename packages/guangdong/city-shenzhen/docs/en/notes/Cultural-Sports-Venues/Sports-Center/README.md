@@ -1,7 +1,7 @@
 ---
 title: Sports-Center
 createTime: 2025-03-29 18:55:02
-permalink: /zh-tw/Sports-Center/
+permalink: /en/Sports-Center/
 ---
 
 ## Catalogue

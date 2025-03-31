@@ -1,7 +1,7 @@
 ---
 title: 龍岡地区
 createTime: 2025-03-22 17:03:07
-permalink: /zh-tw/ComprehensivePark/龍岡地区/
+permalink: /ja/ComprehensivePark/龍岡地区/
 ---
 
 ## 目次

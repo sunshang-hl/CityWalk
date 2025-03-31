@@ -109,7 +109,7 @@ export const enNavbar = defineNavbarConfig([
     // { text: 'Community Park', link: '/en/notes/CommunityPark/README.md' },
     { text: 'Specialized Park', link: '/en/notes/SpecializedPark/README.md' },
     { text: 'Landscape Leisure Green Space', link: '/en/notes/LandscapeLeisureGreenSpace/README.md' },
-    { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
+    // { text: 'Travelling Garden', link: '/en/notes/TravellingGarden/README.md' },
     { text: 'A-Level', link: '/en/notes/A-Level/README.md' },
     ]
   },
@@ -241,8 +241,8 @@ export const jaNavbar = defineNavbarConfig([
     text: '公園',
     items: [{ text: '総合公園', link: '/ja/notes/ComprehensivePark/README.md' },
     { text: 'A級景勝地', link: '/ja/notes/A-Level/README.md' },
-    // { text: '専門公園', link: '/ja/notes/SpecializedPark/README.md' },
-    { text: '庭園ツアー ', link: '/ja/notes/TravellingGarden/README.md' },
+      // { text: '専門公園', link: '/ja/notes/SpecializedPark/README.md' },
+      // { text: '庭園ツアー ', link: '/ja/notes/TravellingGarden/README.md' },
     ]
   },
 
@@ -297,8 +297,8 @@ export const jaNavbar = defineNavbarConfig([
     text: 'その他',
     items: [
       { text: '緑道を走る', link: '/ja/notes/Other/Cycling-Greenway/README.md' },
-      { text: '赤い観光', link: '/ja/notes/Other/Red-Tourism-Route/README.md' },
-      { text: 'カーキャンプ', link: '/ja/notes/Other/RVPark/README.md' },
+      // { text: '赤い観光', link: '/ja/notes/Other/Red-Tourism-Route/README.md' },
+      // { text: 'カーキャンプ', link: '/ja/notes/Other/RVPark/README.md' },
     ]
   },
 

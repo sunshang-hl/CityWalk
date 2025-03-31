@@ -1,7 +1,7 @@
 ---
 title: 羅湖区
 createTime: 2025-03-22 17:03:07
-permalink: /zh-tw/ComprehensivePark/羅湖区/
+permalink: /ja/ComprehensivePark/羅湖区/
 ---
 
 ## 目次

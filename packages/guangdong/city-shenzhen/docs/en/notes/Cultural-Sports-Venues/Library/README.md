@@ -1,7 +1,7 @@
 ---
 title: Library
 createTime: 2025-03-29 18:55:01
-permalink: /zh-tw/Library/
+permalink: /en/Library/
 ---
 
 ## Catalogue

@@ -1,7 +1,7 @@
 ---
 title: 大鵬新区
 createTime: 2025-03-22 17:03:07
-permalink: /zh-tw/ComprehensivePark/大鵬新区/
+permalink: /ja/ComprehensivePark/大鵬新区/
 ---
 
 ## 目次

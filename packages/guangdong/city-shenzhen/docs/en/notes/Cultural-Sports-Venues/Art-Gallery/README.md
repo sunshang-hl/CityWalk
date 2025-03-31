@@ -1,7 +1,7 @@
 ---
 title: Art-Gallery
 createTime: 2025-03-29 18:55:00
-permalink: /zh-tw/Art-Gallery/
+permalink: /en/Art-Gallery/
 ---
 
 ## Catalogue

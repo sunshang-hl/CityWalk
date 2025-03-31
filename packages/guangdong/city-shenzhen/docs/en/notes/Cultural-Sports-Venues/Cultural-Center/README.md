@@ -1,7 +1,7 @@
 ---
 title: Cultural-Center
 createTime: 2025-03-29 18:55:00
-permalink: /zh-tw/Cultural-Center/
+permalink: /en/Cultural-Center/
 ---
 
 ## Catalogue
