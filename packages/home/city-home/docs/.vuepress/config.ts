@@ -20,6 +20,8 @@ export default defineUserConfig({
   },
 
   bundler: viteBundler(),
+  // 减少不必要的预加载的带宽消耗
+  // shouldPrefetch: false,
 
   theme: plumeTheme({
     // 添加您的部署域名
