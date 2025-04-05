@@ -7,9 +7,9 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: 城市漫步
+      name: 城市漫步-深圳
       tagline: City Walk 行动指南
-      text:    致力于汇聚深圳市所有的户外活动地点与文化场馆的开放数据平台。探索城市中自然美景与人文景观，规划个性化的运动探险和文化之旅。作为开源项目的一部分，我们鼓励社区参与，共同加入我们，一起开启探索深圳的新篇章，感受这座城市的活力与魅力！
+      text:    致力于汇聚深圳市所有的户外活动地点与文化场馆的开放数据平台。助你探索城市中自然美景与人文景观，规划个性化的运动探险和文化之旅。作为开源项目的一部分，我们鼓励社区参与，共同加入我们，一起开启探索深圳的新篇章，感受这座城市的活力与魅力！
       actions:
         -
           theme: brand
@@ -51,15 +51,6 @@ config:
         title: 搜索、评论
         icon: 🔍
         details: 轻松查找并评价您喜爱的城市景点，分享您的经历和建议，帮助更多人发现最佳的户外活动地点，共同构建一个充满活力和互动性的城市探索社区。
-      # -
-      #   title: 加密
-      #   icon: 🔒
-      #   details: 支持全站加密、部分加密（加密目录、加密文章）
-      # -
-      #   title: Markdown 增强
-      #   icon: 📝
-      #   details: 支持 Markdown 语法，支持 代码块分组、提示容器、任务列表、数学公式、代码演示等
-
   -
     type: image-text
     title: 基础
@@ -115,25 +106,5 @@ config:
   -
     type: custom
 ---
-
-
-<!-- ### 安装
-
-:::code-tabs
-@tab pnpm
-```sh
-pnpm add vuepress@next vuepress-theme-plume vue
-```
-@tab npm
-```sh
-npm install vuepress@next vuepress-theme-plume
-```
-@tab yarn
-```sh
-yarn add vuepress@next vuepress-theme-plume
-```
-:::
-
- -->
 
 

@@ -81,6 +81,19 @@ export default defineUserConfig({
   //     name: 'keywords', content:
   //       '城市漫步,深圳,深圳景点,深圳公园,深圳景点,深圳景点}],
   // ],
+  head: [
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-4050514513058387",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      }
+      //   <script async src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4050514513058387"
+      //  crossorigin = "anonymous" > </script>
+    ]
+  ],
+
 
 
   bundler: viteBundler(),
@@ -195,6 +208,7 @@ export default defineUserConfig({
 
     // 加您的部署域名
     hostname: 'https://shenzhen.citywalk.group',
+
 
 
     // 文章贡献者

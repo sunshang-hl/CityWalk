@@ -19,6 +19,19 @@ export default defineUserConfig({
     },
   },
 
+  head: [
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-4050514513058387",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      }
+      //   <script async src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4050514513058387"
+      //  crossorigin = "anonymous" > </script>
+    ]
+  ],
+
   bundler: viteBundler(),
   // 减少不必要的预加载的带宽消耗
   // shouldPrefetch: false,
