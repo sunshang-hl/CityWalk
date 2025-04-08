@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://shenzhen.citywalk.group/ja/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://shenzhen.citywalk.group/ja/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>深圳を歩く都市</title>
+    <link>https://shenzhen.citywalk.group/ja/</link>
+    <description>深圳を歩く都市</description>
+    <language>ja-JP</language>
+    <pubDate>Tue, 08 Apr 2025 15:17:28 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Apr 2025 15:17:28 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>Shenzhen</title>
+      <link>https://shenzhen.citywalk.group/ja/city-site-map/fr-city-guides-overview/</link>
+      <guid>https://shenzhen.citywalk.group/ja/city-site-map/fr-city-guides-overview/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">Shenzhen</source>
+      <description>CityWalk の全国サイト概要ナビゲーション ページへようこそ。クリックすると、対応する都市に移動します。さまざまな州や都市のサイトを探索できます。 都市ガイドの概要 州ナビゲーション シティステーション 黒龍江省 吉林省 遼寧省 河北省 河南省 山東省 山西省 湖南省 湖北省 江蘇省 安徽省 浙江省 福建省 江西省 広東省 海南省 貴州省 雲南省...</description>
+      <content:encoded><![CDATA[<p>CityWalk の全国サイト概要ナビゲーション ページへようこそ。クリックすると、対応する都市に移動します。さまざまな州や都市のサイトを探索できます。</p>
+<h1>都市ガイドの概要</h1>
+<h2>州ナビゲーション</h2>
+<p>|                                          |                                          |                                           |                                            |                                 |                            |
+|</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Component</title>
+      <link>https://shenzhen.citywalk.group/en/article/ORlKEr8K/</link>
+      <guid>https://shenzhen.citywalk.group/en/article/ORlKEr8K/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">Custom Component</source>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://shenzhen.citywalk.group/en/article/dn-HqIgW/</link>
+      <guid>https://shenzhen.citywalk.group/en/article/dn-HqIgW/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">Markdown</source>
+      <description>Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Bold: Bold text Italic: Italic text Content Highlight Mathematical expression: −(2n−1) ~ 2n−1−1 ∂ωr∂r​(ωyω​)=(ωyω​){(logy)r+∑i=...</description>
+      <content:encoded><![CDATA[<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+<p>Bold: <strong>Bold text</strong></p>
+<p>Italic: <em>Italic text</em></p>
+<p><s>Deleted text</s></p>
+<p>Content <mark>Highlight</mark></p>
+<p>Mathematical expression: <span v-pre="" class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>−</mo><mo stretchy="false">(</mo><msup><mn>2</mn><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">-(2^{n-1})</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mopen">(</span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span><span class="mbin mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span> ~ <span v-pre="" class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mn>2</mn><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>−</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">2^{n-1} -1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8974em;vertical-align:-0.0833em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span><span class="mbin mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span></p>
+<p><span v-pre="" class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><msup><mi mathvariant="normal">∂</mi><mi>r</mi></msup><mrow><mi mathvariant="normal">∂</mi><msup><mi>ω</mi><mi>r</mi></msup></mrow></mfrac><mrow><mo fence="true">(</mo><mfrac><msup><mi>y</mi><mi>ω</mi></msup><mi>ω</mi></mfrac><mo fence="true">)</mo></mrow><mo>=</mo><mrow><mo fence="true">(</mo><mfrac><msup><mi>y</mi><mi>ω</mi></msup><mi>ω</mi></mfrac><mo fence="true">)</mo></mrow><mrow><mo fence="true">{</mo><mo stretchy="false">(</mo><mi>log</mi><mo>⁡</mo><mi>y</mi><msup><mo stretchy="false">)</mo><mi>r</mi></msup><mo>+</mo><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>r</mi></msubsup><mfrac><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><msup><mo stretchy="false">)</mo><mi>I</mi></msup><mi>r</mi><mo>⋯</mo><mo stretchy="false">(</mo><mi>r</mi><mo>−</mo><mi>i</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>log</mi><mo>⁡</mo><mi>y</mi><msup><mo stretchy="false">)</mo><mrow><mi>r</mi><mi>i</mi></mrow></msup></mrow><msup><mi>ω</mi><mi>i</mi></msup></mfrac><mo fence="true">}</mo></mrow></mrow><annotation encoding="application/x-tex">\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
+= \left(\frac {y^{\omega}} {\omega}\right) \left\{(\log y)^r + \sum_{i=1}^r \frac {(-1)^ Ir \cdots (r-i+1) (\log y)^{ri}} {\omega^i} \right\}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.8em;vertical-align:-0.65em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.911em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight" style="margin-right:0.05556em;">∂</span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">ω</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.5935em;"><span style="top:-2.786em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight" style="margin-right:0.05556em;">∂</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7385em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size2">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9631em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">ω</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.4461em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7385em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size2">)</span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.8em;vertical-align:-0.65em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size2">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9631em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">ω</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.4461em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7385em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size2">)</span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size2">{</span></span><span class="mopen">(</span><span class="mop">lo<span style="margin-right:0.01389em;">g</span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mop"><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8043em;"><span style="top:-2.4003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight">=</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2997em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.1284em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">ω</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7571em;"><span style="top:-2.786em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight">i</span></span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.485em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mopen mtight">(</span><span class="mord mtight">−</span><span class="mord mtight">1</span><span class="mclose mtight"><span class="mclose mtight">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9191em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">I</span></span></span></span></span></span></span></span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span><span class="minner mtight">⋯</span><span class="mopen mtight">(</span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight">i</span><span class="mbin mtight">+</span><span class="mord mtight">1</span><span class="mclose mtight">)</span><span class="mopen mtight">(</span><span class="mop mtight"><span class="mtight">l</span><span class="mtight">o</span><span class="mtight" style="margin-right:0.01389em;">g</span></span><span class="mspace mtight" style="margin-right:0.1952em;"></span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span><span class="mclose mtight"><span class="mclose mtight">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9021em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span><span class="mord mathnormal mtight">i</span></span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size2">}</span></span></span></span></span></span></p>
+<p>19<sup>th</sup></p>
+<p>H<sub>2</sub>O</p>
+<div style="text-align:center"><p>content center</p>
+</div><div style="text-align:right"><p>content right</p>
+</div><ul>
+<li>Unordered List 1</li>
+<li>Unordered List 2</li>
+<li>Unordered List 3</li>
+</ul>
+<ol>
+<li>Ordered List 1</li>
+<li>Ordered List 2</li>
+<li>Ordered List 3</li>
+</ol>
+<ul class="task-list-container">
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-0" disabled="disabled"><label class="task-list-item-label" for="task-item-0"> Task List 1</label></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-1" disabled="disabled"><label class="task-list-item-label" for="task-item-1"> Task List 2</label></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-2" checked="checked" disabled="disabled"><label class="task-list-item-label" for="task-item-2"> Task List 3</label></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-3" checked="checked" disabled="disabled"><label class="task-list-item-label" for="task-item-3"> Task List 4</label></li>
+</ul>
+<p>| Tables        |      Are      |  Cool |
+|</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ランドキング観光・深セン・香港窓口</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Land-King-Sightseeing-%C2%B7-Window-of-Shenzhen-and-Hong-Kong/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Land-King-Sightseeing-%C2%B7-Window-of-Shenzhen-and-Hong-Kong/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ランドキング観光・深セン・香港窓口</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>華強北歩行街風景区</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Huaqiang-North-Pedestrian-Street-Scenic-Area/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Huaqiang-North-Pedestrian-Street-Scenic-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">華強北歩行街風景区</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明紅木文化村</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Guangming-Redwood-Cultural-Town/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Guangming-Redwood-Cultural-Town/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">光明紅木文化村</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ローズコースト文化観光リゾート</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Rose-Coast-Cultural-Tourism-Resort/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Rose-Coast-Cultural-Tourism-Resort/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ローズコースト文化観光リゾート</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深センハッピーハーバー観光エリア</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Shenzhen-Happy-Harbor-Tourism-Scenic-Area/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Shenzhen-Happy-Harbor-Tourism-Scenic-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">深センハッピーハーバー観光エリア</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深セン白石園無形文化遺産観光エリア</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Shenzhen-Baishiyuan-Intangible-Cultural-Heritage-Tourism-Area/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Shenzhen-Baishiyuan-Intangible-Cultural-Heritage-Tourism-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">深セン白石園無形文化遺産観光エリア</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>甘坑古鎮文化観光エリア</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Gankeng-Ancient-Town-Cultural-Tourism-Area/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Gankeng-Ancient-Town-Cultural-Tourism-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">甘坑古鎮文化観光エリア</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>海の上の田園</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Sea-Pastoral/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Sea-Pastoral/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">海の上の田園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明農場グランドビューガーデン</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Guangming-Farm-Grand-View-Garden/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Guangming-Farm-Grand-View-Garden/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">光明農場グランドビューガーデン</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>観蘭風景農村観光文化公園</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Guanlan-Landscape-Pastoral-Tourism-and-Cultural-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Guanlan-Landscape-Pastoral-Tourism-and-Cultural-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">観蘭風景農村観光文化公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>水地山観光リゾート</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Shuidishan-Tourism-Resort/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Shuidishan-Tourism-Resort/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">水地山観光リゾート</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OCT 東部</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/OCT-East/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/OCT-East/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">OCT 東部</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>グリーンワールド</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Qingqing-World/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Qingqing-World/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">グリーンワールド</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深セン野生動物公園</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Shenzhen-Wildlife-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Shenzhen-Wildlife-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">深セン野生動物公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>フェアリーレイク植物園</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Xianhu-Botanical-Garden/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Xianhu-Botanical-Garden/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">フェアリーレイク植物園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OCT 観光リゾート - 世界の窓</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/OCT-Tourism-Resort-Window-of-the-World/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/OCT-Tourism-Resort-Window-of-the-World/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">OCT 観光リゾート - 世界の窓</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OCT観光リゾート-錦江之星中国民俗文化村</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/OCT-Tourism-Resort-Splendid-China-Folk-Culture-Village/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/OCT-Tourism-Resort-Splendid-China-Folk-Culture-Village/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">OCT観光リゾート-錦江之星中国民俗文化村</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OCT 観光リゾート ハッピーバレー</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/OCT-Tourism-Resort-Happy-Valley/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/OCT-Tourism-Resort-Happy-Valley/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">OCT 観光リゾート ハッピーバレー</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OCT 観光リゾート ハッピー コースト</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/OCT-Tourism-Resort-Happy-Coast/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/OCT-Tourism-Resort-Happy-Coast/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">OCT 観光リゾート ハッピー コースト</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ミッションヒルズ観光レジャーリゾート</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/Mission-Hills-Tourism-and-Leisure-Resort/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/Mission-Hills-Tourism-and-Leisure-Resort/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ミッションヒルズ観光レジャーリゾート</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>A級景區</title>
+      <link>https://shenzhen.citywalk.group/ja/A-Level/</link>
+      <guid>https://shenzhen.citywalk.group/ja/A-Level/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">A級景區</source>
+      <description>目次</description>
+      <content:encoded><![CDATA[<h2>目次</h2>
+<ul>
+<li><a href="/ja/notes/A-Level/3A-14.%E5%9C%B0%E7%8E%8B%E8%A7%82%E5%85%89%C2%B7%E6%B7%B1%E6%B8%AF%E4%B9%8B%E7%AA%97.html" target="_blank">ランドキング観光・深セン・香港窓口</a></li>
+<li><a href="/ja/notes/A-Level/3A-15.%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%AD%A5%E8%A1%8C%E8%A1%97%E6%99%AF%E5%8C%BA.html" target="_blank">華強北歩行街風景区</a></li>
+<li><a href="/ja/notes/A-Level/3A-16.%E5%85%89%E6%98%8E%E7%BA%A2%E6%9C%A8%E6%96%87%E5%8C%96%E5%B0%8F%E9%95%87.html" target="_blank">光明紅木文化村</a></li>
+<li><a href="/ja/notes/A-Level/3A-17.%E7%8E%AB%E7%91%B0%E6%B5%B7%E5%B2%B8%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA.html" target="_blank">ローズコースト文化観光リゾート</a></li>
+<li><a href="/ja/notes/A-Level/3A-18.%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%AC%A2%E4%B9%90%E6%B8%AF%E6%B9%BE%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA.html" target="_blank">深センハッピーハーバー観光エリア</a></li>
+<li><a href="/ja/notes/A-Level/3A-19.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%99%BE%E5%B8%88%E5%9B%AD%E9%9D%9E%E9%81%97%E6%97%85%E6%B8%B8%E5%8C%BA.html" target="_blank">深セン白石園無形文化遺産観光エリア</a></li>
+<li><a href="/ja/notes/A-Level/3A-20.%E7%94%98%E5%9D%91%E5%8F%A4%E9%95%87%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E5%8C%BA.html" target="_blank">甘坑古鎮文化観光エリア</a></li>
+<li><a href="/ja/notes/A-Level/4A-10.%E6%B5%B7%E4%B8%8A%E7%94%B0%E5%9B%AD.html" target="_blank">海の上の田園</a></li>
+<li><a href="/ja/notes/A-Level/4A-11.%E5%85%89%E6%98%8E%E5%86%9C%E5%9C%BA%E5%A4%A7%E8%A7%82%E5%9B%AD.html" target="_blank">光明農場グランドビューガーデン</a></li>
+<li><a href="/ja/notes/A-Level/4A-12.%E8%A7%82%E6%BE%9C%E5%B1%B1%E6%B0%B4%E7%94%B0%E5%9B%AD%E6%97%85%E6%B8%B8%E6%96%87%E5%8C%96%E5%9B%AD.html" target="_blank">観蘭風景農村観光文化公園</a></li>
+<li><a href="/ja/notes/A-Level/4A-13.%E6%B0%B4%E5%BA%95%E5%B1%B1%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA.html" target="_blank">水地山観光リゾート</a></li>
+<li><a href="/ja/notes/A-Level/4A-6.%E4%B8%9C%E9%83%A8%E5%8D%8E%E4%BE%A8%E5%9F%8E.html" target="_blank">OCT 東部</a></li>
+<li><a href="/ja/notes/A-Level/4A-7.%E9%9D%92%E9%9D%92%E4%B8%96%E7%95%8C.html" target="_blank">グリーンワールド</a></li>
+<li><a href="/ja/notes/A-Level/4A-8.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD.html" target="_blank">深セン野生動物公園</a></li>
+<li><a href="/ja/notes/A-Level/4A-9.%E4%BB%99%E6%B9%96%E6%A4%8D%E7%89%A9%E5%9B%AD.html" target="_blank">フェアリーレイク植物園</a></li>
+<li><a href="/ja/notes/A-Level/5A-1.%E5%8D%8E%E4%BE%A8%E5%9F%8E%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA-%E4%B8%96%E7%95%8C%E4%B9%8B%E7%AA%97.html" target="_blank">OCT 観光リゾート - 世界の窓</a></li>
+<li><a href="/ja/notes/A-Level/5A-2.%E5%8D%8E%E4%BE%A8%E5%9F%8E%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA-%E9%94%A6%E7%BB%A3%E4%B8%AD%E5%8D%8E%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96%E6%9D%91.html" target="_blank">OCT観光リゾート-錦江之星中国民俗文化村</a></li>
+<li><a href="/ja/notes/A-Level/5A-3.%E5%8D%8E%E4%BE%A8%E5%9F%8E%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA-%E6%AC%A2%E4%B9%90%E8%B0%B7.html" target="_blank">OCT 観光リゾート ハッピーバレー</a></li>
+<li><a href="/ja/notes/A-Level/5A-4.%E5%8D%8E%E4%BE%A8%E5%9F%8E%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA-%E6%AC%A2%E4%B9%90%E6%B5%B7%E5%B2%B8.html" target="_blank">OCT 観光リゾート ハッピー コースト</a></li>
+<li><a href="/ja/notes/A-Level/5A-5.%E8%A7%82%E6%BE%9C%E6%B9%96%E6%97%85%E6%B8%B8%E4%BC%91%E9%97%B2%E5%BA%A6%E5%81%87%E5%8C%BA.html" target="_blank">ミッションヒルズ観光レジャーリゾート</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>综合公园</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">综合公园</source>
+      <description>内容が豊富で、各種アウトドアアクティビティを行うのに適しており、完備されたレクリエーションと管理サービス施設を備えた緑地です。 目次</description>
+      <content:encoded><![CDATA[<p>内容が豊富で、各種アウトドアアクティビティを行うのに適しており、完備されたレクリエーションと管理サービス施設を備えた緑地です。</p>
+<h2>目次</h2>
+<ul>
+<li><a href="/ja/notes/ComprehensivePark/%E5%AE%9D%E5%AE%89%E5%8C%BA/" target="_blank">宝安区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%A4%A7%E9%B5%AC%E6%96%B0%E5%8C%BA/" target="_blank">大鵬新区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E7%A6%8F%E7%94%B0%E5%8C%BA/" target="_blank">福田区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E7%BE%85%E6%B9%96%E5%8C%BA/" target="_blank">罗湖区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/" target="_blank">南山区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/" target="_blank">光明区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E9%BE%8D%E5%B2%A1%E5%9C%B0%E5%8C%BA/" target="_blank">龍岡区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%B9%B3%E5%B1%B1%E5%8C%BA/" target="_blank">平山区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E9%BE%8D%E8%8F%AF%E5%8C%BA/" target="_blank">龍華区</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%A1%A9%E7%94%B0%E5%8C%BA/" target="_blank">塩田区</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文体场馆</title>
+      <link>https://shenzhen.citywalk.group/ja/Cultural-Sports-Venues/</link>
+      <guid>https://shenzhen.citywalk.group/ja/Cultural-Sports-Venues/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">文体场馆</source>
+      <description>目次</description>
+      <content:encoded><![CDATA[<h2>目次</h2>
+<p><a href="/ja/notes/Cultural-Sports-Venues/Cultural-Center/" target="_blank">文化館</a>
+<a href="/ja/notes/Cultural-Sports-Venues/Sports-Center/" target="_blank">運動中心</a>
+<a href="/ja/notes/Cultural-Sports-Venues/Museum/" target="_blank">博物館</a>
+<a href="/ja/notes/Cultural-Sports-Venues/Library/" target="_blank">圖書館</a>
+<a href="/ja/notes/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit/" target="_blank">文保單位</a>
+<a href="/ja/notes/Cultural-Sports-Venues/Performance-Venue/" target="_blank">演出場所</a>
+<a href="/ja/notes/Cultural-Sports-Venues/Art-Gallery/" target="_blank">美術館</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>生态保育绿地</title>
+      <link>https://shenzhen.citywalk.group/ja/EcologicalConservation/</link>
+      <guid>https://shenzhen.citywalk.group/ja/EcologicalConservation/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">生态保育绿地</source>
+      <description>为保障城乡生态安全,改善景观质量而进行保护、 恢复和资源培育的绿色空间。主要包括自然保护区、水源保护区、湿地保护区、公益林、水体防护林、生态修复地、生物物种構息地等各类以生态保育功能为主的绿地.</description>
+      <content:encoded><![CDATA[<p>为保障城乡生态安全,改善景观质量而进行保护、 恢复和资源培育的绿色空间。主要包括自然保护区、水源保护区、湿地保护区、公益林、水体防护林、生态修复地、生物物种構息地等各类以生态保育功能为主的绿地.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>风景休憩绿地</title>
+      <link>https://shenzhen.citywalk.group/ja/LandscapeLeisureGreenSpace/</link>
+      <guid>https://shenzhen.citywalk.group/ja/LandscapeLeisureGreenSpace/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">风景休憩绿地</source>
+      <description>A green space with good natural environment, open to the public, and mainly used for leisure and recreation, tourism and sightseeing, entertainment and fitness, scientific research, etc. It has recreational and service facilities.</description>
+      <content:encoded><![CDATA[<p>A green space with good natural environment, open to the public, and mainly used for leisure and recreation, tourism and sightseeing, entertainment and fitness, scientific research, etc. It has recreational and service facilities.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Other</title>
+      <link>https://shenzhen.citywalk.group/ja/Other/</link>
+      <guid>https://shenzhen.citywalk.group/ja/Other/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">Other</source>
+      <description>xxxx</description>
+      <content:encoded><![CDATA[<p>xxxx</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>专类公园</title>
+      <link>https://shenzhen.citywalk.group/ja/SpecializedPark/</link>
+      <guid>https://shenzhen.citywalk.group/ja/SpecializedPark/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">专类公园</source>
+      <description>特定の内容や形式を持ち、対応するレジャーやサービス施設がある緑地。</description>
+      <content:encoded><![CDATA[<p>特定の内容や形式を持ち、対応するレジャーやサービス施設がある緑地。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ssdd</title>
+      <link>https://shenzhen.citywalk.group/ja/SquareBlock/Bhb33GBs/</link>
+      <guid>https://shenzhen.citywalk.group/ja/SquareBlock/Bhb33GBs/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ssdd</source>
+      <description>kkll fdasfads gfds fadsfasd 1jjkhj fadsafds fdsfs fadsfa fadsfasd</description>
+      <content:encoded><![CDATA[<h2>kkll</h2>
+<p>fdasfads</p>
+<h2>gfds</h2>
+<p>fadsfasd</p>
+<h2>1jjkhj</h2>
+<p>fadsafds</p>
+<h3>fdsfs</h3>
+<p>fadsfa</p>
+<p>fadsfasd</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>2ddff</title>
+      <link>https://shenzhen.citywalk.group/ja/SquareBlock/JibfkDny/</link>
+      <guid>https://shenzhen.citywalk.group/ja/SquareBlock/JibfkDny/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">2ddff</source>
+      <description>kkll fdasfads gfds fadsfasd 1jjkhj fadsafds fdsfs fadsfa fadsfasd</description>
+      <content:encoded><![CDATA[<h2>kkll</h2>
+<p>fdasfads</p>
+<h2>gfds</h2>
+<p>fadsfasd</p>
+<h2>1jjkhj</h2>
+<p>fadsafds</p>
+<h3>fdsfs</h3>
+<p>fadsfa</p>
+<p>fadsfasd</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ffgg</title>
+      <link>https://shenzhen.citywalk.group/ja/SquareBlock/Ata8xSY9/</link>
+      <guid>https://shenzhen.citywalk.group/ja/SquareBlock/Ata8xSY9/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ffgg</source>
+      <description>kkll fdasfads gfds fadsfasd 1jjkhj fadsafds fdsfs fadsfa fadsfasd</description>
+      <content:encoded><![CDATA[<h2>kkll</h2>
+<p>fdasfads</p>
+<h2>gfds</h2>
+<p>fadsfasd</p>
+<h2>1jjkhj</h2>
+<p>fadsafds</p>
+<h3>fdsfs</h3>
+<p>fadsfa</p>
+<p>fadsfasd</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>广场和街区</title>
+      <link>https://shenzhen.citywalk.group/ja/SquareBlock/</link>
+      <guid>https://shenzhen.citywalk.group/ja/SquareBlock/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">广场和街区</source>
+      <description>レジャー、記念、集会、避難などの機能を主とする都市公共活動場。 目录</description>
+      <content:encoded><![CDATA[<p>レジャー、記念、集会、避難などの機能を主とする都市公共活動場。</p>
+<h2>目录</h2>
+<ul>
+<li><a href="/ja/notes/SquareBlock/1.ssdd.html" target="_blank">ssdd</a></li>
+<li><a href="/ja/notes/SquareBlock/2ddff.html" target="_blank">2ddff</a></li>
+<li><a href="/ja/notes/SquareBlock/3.ffgg.html" target="_blank">ffgg</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>游园</title>
+      <link>https://shenzhen.citywalk.group/ja/TravellingGarden/</link>
+      <guid>https://shenzhen.citywalk.group/ja/TravellingGarden/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">游园</source>
+      <description>以上の各種公園緑地のほか、敷地が独立しており、規模が小さく、あるいは形状が多様で、住民が近くに入りやすく、一定の休憩機能を持つ緑地である。 目录</description>
+      <content:encoded><![CDATA[<p>以上の各種公園緑地のほか、敷地が独立しており、規模が小さく、あるいは形状が多様で、住民が近くに入りやすく、一定の休憩機能を持つ緑地である。</p>
+<h2>目录</h2>
+<ul>
+<li><a href="/ja/notes/TravellingGarden/hhdhkk.html" target="_blank">hhdhkk</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>hhdhkk</title>
+      <link>https://shenzhen.citywalk.group/ja/TravellingGarden/gnb9pn7m/</link>
+      <guid>https://shenzhen.citywalk.group/ja/TravellingGarden/gnb9pn7m/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">hhdhkk</source>
+      <description>fasdfalkdjshflahjdsk</description>
+      <content:encoded><![CDATA[<p>fasdfalkdjshflahjdsk</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Demo</title>
+      <link>https://shenzhen.citywalk.group/ja/demo/</link>
+      <guid>https://shenzhen.citywalk.group/ja/demo/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">Demo</source>
+      <description>目录</description>
+      <content:encoded><![CDATA[<ul>
+<li><a href="/ja/notes/demo/bar.html" target="_blank">bar</a></li>
+<li><a href="/ja/notes/demo/foo.html" target="_blank">foo</a></li>
+</ul>
+<h2>目录</h2>
+<ul>
+<li><a href="/ja/notes/demo/bar.html" target="_blank">bar</a></li>
+<li><a href="/ja/notes/demo/foo.html" target="_blank">foo</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>bar</title>
+      <link>https://shenzhen.citywalk.group/ja/demo/CSqdOjpK/</link>
+      <guid>https://shenzhen.citywalk.group/ja/demo/CSqdOjpK/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">bar</source>
+      <content:encoded><![CDATA[<p><a href="/ja/notes/demo/foo.html" target="_blank">foo</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>foo</title>
+      <link>https://shenzhen.citywalk.group/ja/demo/YrsICkWW/</link>
+      <guid>https://shenzhen.citywalk.group/ja/demo/YrsICkWW/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">foo</source>
+      <content:encoded><![CDATA[<p><a href="/ja/notes/demo/bar.html" target="_blank">bar</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>虹橋公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Hongqiao-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Hongqiao-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">虹橋公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>開明公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Kaiming-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Kaiming-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">開明公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>石囲公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shiwei-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shiwei-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">石囲公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ニュータウンパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Xincheng-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Xincheng-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ニュータウンパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>百草園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Baicao-Garden/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Baicao-Garden/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">百草園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>フェニックスパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Phoenix-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Phoenix-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">フェニックスパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南光秘境公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Nanguang-Secret-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Nanguang-Secret-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">南光秘境公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>明心園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Mingxin-Garden/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Mingxin-Garden/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">明心園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>北港後山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Beigang-Houshan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Beigang-Houshan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">北港後山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>シティスクエア</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/City-Square/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/City-Square/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">シティスクエア</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>緑湖公園（ロウチュンウォーター）</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Cuihu-Park-(Loucun-Water)/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Cuihu-Park-(Loucun-Water)/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">緑湖公園（ロウチュンウォーター）</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>亀山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Guishan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Guishan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">亀山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>明湖市公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Minghu-City-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Minghu-City-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">明湖市公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>唐家洞街公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Tangjiadong-Street-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Tangjiadong-Street-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">唐家洞街公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>虎地山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Hudishan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Hudishan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">虎地山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>百花洞革命烈士公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Baihuadong-Revolutionary-Martyrs-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Baihuadong-Revolutionary-Martyrs-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">百花洞革命烈士公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>東州文化公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Eastern-Zhou-Cultural-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Eastern-Zhou-Cultural-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">東州文化公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>紅花山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Honghuashan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Honghuashan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">紅花山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明区</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">光明区</source>
+      <description>目次</description>
+      <content:encoded><![CDATA[<h2>目次</h2>
+<ul>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/1.%E8%99%B9%E6%A1%A5%E5%85%AC%E5%9B%AD.html" target="_blank">虹橋公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/10.%E5%BC%80%E6%98%8E%E5%85%AC%E5%9B%AD.html" target="_blank">開明公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/11.%E7%9F%B3%E5%9B%B4%E5%85%AC%E5%9B%AD.html" target="_blank">石囲公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/12.%E6%96%B0%E5%9F%8E%E5%85%AC%E5%9B%AD.html" target="_blank">ニュータウンパーク</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/13.%E7%99%BE%E8%8D%89%E5%9B%AD.html" target="_blank">百草園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/14.%E5%87%A4%E5%87%B0%E5%85%AC%E5%9B%AD.html" target="_blank">フェニックスパーク</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/15.%E5%8D%97%E5%85%89%E7%A7%98%E5%A2%83%E5%85%AC%E5%9B%AD.html" target="_blank">南光秘境公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/16.%E6%98%8E%E5%BF%83%E5%9B%AD.html" target="_blank">明心園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/17.%E5%8C%97%E5%B2%97%E5%90%8E%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">北港後山公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/18.%E5%9F%8E%E5%B8%82%E5%B9%BF%E5%9C%BA.html" target="_blank">シティスクエア</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/2.%E7%BF%A0%E6%B9%96%E5%85%AC%E5%9B%AD%EF%BC%88%E6%A5%BC%E6%9D%91%E6%B0%B4%EF%BC%89.html" target="_blank">緑湖公園（ロウチュンウォーター）</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/3.%E9%BE%9F%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">亀山公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/4.%E6%98%8E%E6%B9%96%E5%9F%8E%E5%B8%82%E5%85%AC%E5%9B%AD.html" target="_blank">明湖市公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/5.%E5%A1%98%E5%AE%B6%E4%B8%9C%E8%A1%97%E5%BF%83%E5%85%AC%E5%9B%AD.html" target="_blank">唐家洞街公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/6.%E8%99%8E%E5%9C%B0%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">虎地山公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/7.%E7%99%BD%E8%8A%B1%E6%B4%9E%E9%9D%A9%E5%91%BD%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD.html" target="_blank">百花洞革命烈士公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/8.%E4%B8%9C%E5%91%A8%E6%96%87%E5%8C%96%E5%85%AC%E5%9B%AD.html" target="_blank">東州文化公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%85%89%E6%98%8E%E5%8C%BA/9.%E7%BA%A2%E8%8A%B1%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">紅花山公園</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>松平山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Songpingshan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Songpingshan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">松平山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>麗翔公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Lixiang-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Lixiang-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">麗翔公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>千海公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Qianhai-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Qianhai-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">千海公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>石鼓山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shigushan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shigushan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">石鼓山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>西里生態公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Xili-Ecological-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Xili-Ecological-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">西里生態公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>小南山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Xiaonanshan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Xiaonanshan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">小南山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>バッテリーパーク左</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zuo-Paotai-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zuo-Paotai-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">バッテリーパーク左</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>中興公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zhongxing-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zhongxing-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">中興公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>前海桂湾公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Qianhai-Guiwan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Qianhai-Guiwan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">前海桂湾公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>前海スポーツ公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Qianhai-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Qianhai-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">前海スポーツ公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深セン土壌水保全技術実証パーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shenzhen-Soil-and-Water-Conservation-Technology-Demonstration-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shenzhen-Soil-and-Water-Conservation-Technology-Demonstration-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">深セン土壌水保全技術実証パーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳湾沿岸レジャーベルト西部</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Western-Section-of-Shenzhen-Bay-Coastal-Leisure-Belt/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Western-Section-of-Shenzhen-Bay-Coastal-Leisure-Belt/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">深圳湾沿岸レジャーベルト西部</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>クラウドガーデン</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yunzhiyuan/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yunzhiyuan/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">クラウドガーデン</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南海公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Nanhai-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Nanhai-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">南海公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>バックシーサイドパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Houhaibin-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Houhaibin-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">バックシーサイドパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>四海公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Sihai-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Sihai-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">四海公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ムーンベイパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yueliangwan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yueliangwan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ムーンベイパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>中山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zhongshan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zhongshan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">中山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>バウヒニアガーデン</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zijing-Garden/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zijing-Garden/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">バウヒニアガーデン</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>センターリバー河口公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zhongxinhekou-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Zhongxinhekou-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">センターリバー河口公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ダーシャ川公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Dashahe-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Dashahe-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ダーシャ川公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南山公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Nanshan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Nanshan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">南山公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ダシャ川生態回廊</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Dasha-River-Ecological-Corridor/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Dasha-River-Ecological-Corridor/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">ダシャ川生態回廊</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳湾公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shenzhen-Bay-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shenzhen-Bay-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">深圳湾公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深センタレントパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shenzhen-Talent-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shenzhen-Talent-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">深センタレントパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>前海石公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Qianhai-Stone-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Qianhai-Stone-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">前海石公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>舞台芸術公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Performing-Arts-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Performing-Arts-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">舞台芸術公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>テクノロジーパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Science-and-Technology-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Science-and-Technology-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">テクノロジーパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>リリンパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Lilin-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Lilin-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">リリンパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南山区</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">南山区</source>
+      <description>目次</description>
+      <content:encoded><![CDATA[<h2>目次</h2>
+<ul>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/1.%E6%9D%BE%E5%9D%AA%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">松平山公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/10.%E8%8D%94%E9%A6%99%E5%85%AC%E5%9B%AD.html" target="_blank">麗翔公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/11.%E5%89%8D%E6%B5%B7%E5%85%AC%E5%9B%AD.html" target="_blank">千海公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/12.%E7%9F%B3%E9%BC%93%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">石鼓山公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/13.%E8%A5%BF%E4%B8%BD%E7%94%9F%E6%80%81%E5%85%AC%E5%9B%AD.html" target="_blank">西里生態公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/14.%E5%B0%8F%E5%8D%97%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">小南山公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/15.%E5%B7%A6%E7%82%AE%E5%8F%B0%E5%85%AC%E5%9B%AD.html" target="_blank">バッテリーパーク左</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/16.%E4%B8%AD%E5%85%B4%E5%85%AC%E5%9B%AD.html" target="_blank">中興公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/17.%E5%89%8D%E6%B5%B7%E6%A1%82%E6%B9%BE%E5%85%AC%E5%9B%AD.html" target="_blank">前海桂湾公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/18.%E5%89%8D%E6%B5%B7%E8%BF%90%E5%8A%A8%E5%85%AC%E5%9B%AD.html" target="_blank">前海スポーツ公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/19.%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%B4%E5%9C%9F%E4%BF%9D%E6%8C%81%E7%A7%91%E6%8A%80%E7%A4%BA%E8%8C%83%E5%9B%AD.html" target="_blank">深セン土壌水保全技術実証パーク</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/2.%E6%B7%B1%E5%9C%B3%E6%B9%BE%E6%BB%A8%E6%B5%B7%E4%BC%91%E9%97%B2%E5%B8%A6%E8%A5%BF%E6%AE%B5.html" target="_blank">深圳湾沿岸レジャーベルト西部</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/20.%E4%BA%91%E4%B9%8B%E5%9B%AD.html" target="_blank">クラウドガーデン</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/21.%E5%8D%97%E6%B5%B7%E5%85%AC%E5%9B%AD.html" target="_blank">南海公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/22.%E5%90%8E%E6%B5%B7%E6%BB%A8%E5%85%AC%E5%9B%AD.html" target="_blank">バックシーサイドパーク</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/23.%E5%9B%9B%E6%B5%B7%E5%85%AC%E5%9B%AD.html" target="_blank">四海公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/24.%E6%9C%88%E4%BA%AE%E6%B9%BE%E5%85%AC%E5%9B%AD.html" target="_blank">ムーンベイパーク</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/25.%E4%B8%AD%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">中山公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/26.%E7%B4%AB%E8%8D%86%E5%9B%AD.html" target="_blank">バウヒニアガーデン</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/27.%E4%B8%AD%E5%BF%83%E6%B2%B3%E6%B2%B3%E5%8F%A3%E5%85%AC%E5%9B%AD.html" target="_blank">センターリバー河口公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/28.%E5%A4%A7%E6%B2%99%E6%B2%B3%E5%85%AC%E5%9B%AD.html" target="_blank">ダーシャ川公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/29.%E5%8D%97%E5%B1%B1%E5%85%AC%E5%9B%AD.html" target="_blank">南山公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/3.%E5%A4%A7%E6%B2%99%E6%B2%B3%E7%94%9F%E6%80%81%E9%95%BF%E5%BB%8A.html" target="_blank">ダシャ川生態回廊</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/4.%E6%B7%B1%E5%9C%B3%E6%B9%BE%E5%85%AC%E5%9B%AD.html" target="_blank">深圳湾公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/5.%E6%B7%B1%E5%9C%B3%E4%BA%BA%E6%89%8D%E5%85%AC%E5%9B%AD.html" target="_blank">深センタレントパーク</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/6.%E5%89%8D%E6%B5%B7%E7%9F%B3%E5%85%AC%E5%9B%AD.html" target="_blank">前海石公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/7.%E6%BC%94%E8%89%BA%E5%85%AC%E5%9B%AD.html" target="_blank">舞台芸術公園</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/8.%E7%A7%91%E6%8A%80%E5%85%AC%E5%9B%AD.html" target="_blank">テクノロジーパーク</a></li>
+<li><a href="/ja/notes/ComprehensivePark/%E5%8D%97%E5%B1%B1%E5%8C%BA/9.%E8%8D%94%E6%9E%97%E5%85%AC%E5%9B%AD.html" target="_blank">リリンパーク</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>塩田中央公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yantian-Central-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yantian-Central-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">塩田中央公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>雲海公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yunhai-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yunhai-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">雲海公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>梅沙湾公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Meisha-Bay-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Meisha-Bay-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">梅沙湾公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>シービューパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Haijing-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Haijing-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">シービューパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>シーマウンテンパーク</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Haishan-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Haishan-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">シーマウンテンパーク</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>内湖公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Neihu-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Neihu-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">内湖公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大梅沙海浜公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Dameisha-Seaside-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Dameisha-Seaside-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">大梅沙海浜公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>燕塘山国際友好公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yandunshan-International-Friendship-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yandunshan-International-Friendship-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">燕塘山国際友好公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>恩上古村生態公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Enshang-Ancient-Village-Ecological-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Enshang-Ancient-Village-Ecological-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">恩上古村生態公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>貯水池レジャーパークグループ</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Reservoir-Leisure-Park-Group/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Reservoir-Leisure-Park-Group/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">貯水池レジャーパークグループ</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深セン憲法公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shenzhen-Constitution-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Shenzhen-Constitution-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">深セン憲法公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>塩田双勇公園</title>
+      <link>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yantian-Shuangyong-Park/</link>
+      <guid>https://shenzhen.citywalk.group/ja/ComprehensivePark/Yantian-Shuangyong-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/ja/rss.xml">塩田双勇公園</source>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
