@@ -10,6 +10,7 @@ config:
       name: Shenzhen City Walk - Urban Exploration Guide
       tagline: Travel in Shenzhen:The Ultimate City Walk Guide
       text:  An open-data platform aggregating all outdoor venues & cultural sites in Shenzhen. Discover urban nature and cultural landmarks to plan personalized travel to Shenzhen adventures. As an open-source project, we invite community collaboration to experience Shenzhen's vibrant energy together!
+
       actions:
         -
           theme: brand
@@ -95,13 +96,6 @@ config:
         title: Nearby Attractions | Extended Travel in Shenzhen Itineraries
         description: Extend your journey! Nearby museums, theaters and cultural venues for enriched travel visa to Shenzhen experiences.
   
-
-  -
-    # type: profile
-    # name: sunshang-hl
-    # description: 踏上取经路，比抵达灵山更重要。
-    # avatar: /images/avatar.png
-
 
 ---
 
