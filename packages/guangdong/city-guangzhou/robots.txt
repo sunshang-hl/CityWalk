@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guangzhou.citywalk.group/sitemap.xml
