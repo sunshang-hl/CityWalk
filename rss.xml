@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://shenzhen.citywalk.group/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://shenzhen.citywalk.group/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>城市漫步-深圳</title>
+    <link>https://shenzhen.citywalk.group/</link>
+    <description>探索深圳的公园与风景名胜</description>
+    <language>zh-CN</language>
+    <pubDate>Sun, 18 May 2025 11:07:58 GMT</pubDate>
+    <lastBuildDate>Sun, 18 May 2025 11:07:58 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>骑行绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling_Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling_Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">骑行绿道</source>
+      <description>目录 罗湖区 南山区 福田区 宝安区 龙华区 大鹏新区 盐田区 龙岗区 光明区 坪山区</description>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>目录</h2>
+<h3>罗湖区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%BD%97%E6%B9%96%E5%8C%BA-1.%E6%A2%A7%E6%A1%90%E7%BB%BF%E9%81%93.html" target="_blank">梧桐绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%BD%97%E6%B9%96%E5%8C%BA-2.%E6%B7%98%E9%87%91%E5%B1%B1%E7%BB%BF%E9%81%93.html" target="_blank">淘金山绿道</a></li>
+</ul>
+<h3>南山区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%8D%97%E5%B1%B1%E5%8C%BA-3.%E5%A4%A7%E6%B2%99%E6%B2%B3%E7%94%9F%E6%80%81%E9%95%BF%E5%BB%8A%E7%BB%BF%E9%81%93.html" target="_blank">大沙河生态长廊绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%8D%97%E5%B1%B1%E5%8C%BA-4.%E4%BA%BA%E6%89%8D%E5%85%AC%E5%9B%AD%E7%BB%BF%E9%81%93.html" target="_blank">人才公园绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%8D%97%E5%B1%B1%E5%8C%BA-5.%E6%B7%B1%E5%9C%B3%E6%B9%BE%E7%BB%BF%E9%81%93.html" target="_blank">深圳湾绿道</a></li>
+</ul>
+<h3>福田区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%A6%8F%E7%94%B0%E5%8C%BA-6.%E9%A6%99%E8%9C%9C%E5%85%AC%E5%9B%AD%E7%BB%BF%E9%81%93.html" target="_blank">香蜜公园绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%A6%8F%E7%94%B0%E5%8C%BA-7.%E7%A6%8F%E8%8D%A3%E9%83%BD%E5%B8%82%E7%BB%BF%E9%81%93.html" target="_blank">福荣都市绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%A6%8F%E7%94%B0%E5%8C%BA-8.%E7%A6%8F%E7%94%B0%E6%B2%B3%E7%BB%BF%E9%81%93.html" target="_blank">福田河绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%A6%8F%E7%94%B0%E5%8C%BA-9.%E6%A2%85%E6%9E%97%E7%BB%BF%E9%81%93.html" target="_blank">梅林绿道</a></li>
+</ul>
+<h3>宝安区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%AE%9D%E5%AE%89%E5%8C%BA-10.%E7%8E%AF%E7%9F%B3%E5%B2%A9%E6%B9%96%E7%BB%BF%E9%81%93.html" target="_blank">环石岩湖绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%AE%9D%E5%AE%89%E5%8C%BA-11.%E5%87%A4%E5%87%B0%E5%B1%B1%E7%BB%BF%E9%81%93.html" target="_blank">凤凰山绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%AE%9D%E5%AE%89%E5%8C%BA-12.%E7%8E%AF%E7%AB%8B%E6%96%B0%E6%B9%96%E7%BB%BF%E9%81%93.html" target="_blank">环立新湖绿道</a></li>
+</ul>
+<h3>龙华区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E9%BE%99%E5%8D%8E%E5%8C%BA-13.%E9%BE%99%E5%8D%8E%E7%8E%AF%E5%9F%8E%E7%BB%BF%E9%81%93%EF%BC%88%E9%98%B3%E5%8F%B0%E5%B1%B1%E6%AE%B5%EF%BC%89.html" target="_blank">龙华环城绿道（阳台山段）</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E9%BE%99%E5%8D%8E%E5%8C%BA-14.%E9%BE%99%E5%8D%8E%E7%8E%AF%E5%9F%8E%E7%BB%BF%E9%81%93%EF%BC%88%E5%A4%A7%E6%B0%B4%E5%9D%91%E6%AE%B5%EF%BC%89.html" target="_blank">龙华环城绿道（大水坑段）</a></li>
+</ul>
+<h3>大鹏新区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-15.%E6%96%B0%E4%B8%9C%E7%BB%BF%E9%81%93.html" target="_blank">新东绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-16.%E7%A6%BE%E5%A1%98%E5%B1%B1%E6%B0%B4%E7%BB%BF%E9%81%93.html" target="_blank">禾塘山水绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-17.%E6%B5%B7%E8%B4%9D%E6%B9%BE-%E7%95%B2%E5%90%93%E6%B9%BE%E7%BB%BF%E9%81%93.html" target="_blank">海贝湾-畲吓湾绿道</a></li>
+</ul>
+<h3>盐田区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%9B%90%E7%94%B0%E5%8C%BA-18.%E8%B0%AD%E4%BB%99%E5%BA%99-%E5%B0%8F%E4%B8%89%E6%B4%B2%E7%BB%BF%E9%81%93.html" target="_blank">谭仙庙-小三洲绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%9B%90%E7%94%B0%E5%8C%BA-19.%E7%9B%90%E7%94%B0%E6%B5%B7%E6%BB%A8%E6%A0%88%E9%81%93.html" target="_blank">盐田海滨栈道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E7%9B%90%E7%94%B0%E5%8C%BA-20.%E5%8D%8A%E5%B1%B1%E7%BB%BF%E9%81%93%EF%BC%88%E6%81%A9%E4%B8%8A-%E7%9B%90%E9%AB%98%E6%AE%B5%EF%BC%89.html" target="_blank">半山绿道（恩上-盐高段）</a></li>
+</ul>
+<h3>龙岗区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E9%BE%99%E5%B2%97%E5%8C%BA-21.%E9%BE%99%E5%9F%8E%E5%85%AC%E5%9B%AD%E7%BB%BF%E9%81%93.html" target="_blank">龙城公园绿道</a></li>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E9%BE%99%E5%B2%97%E5%8C%BA-22.%E5%A4%A7%E8%BF%90%E7%BB%BF%E9%81%93.html" target="_blank">大运绿道</a></li>
+</ul>
+<h3>光明区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%85%89%E6%98%8E%E5%8C%BA-23.%E5%A4%A7%E9%A1%B6%E5%B2%AD%E7%BB%BF%E9%81%93%E5%92%8C%E8%99%B9%E6%A1%A5%E5%85%AC%E5%9B%AD.html" target="_blank">大顶岭绿道和虹桥公园</a></li>
+</ul>
+<h3>坪山区</h3>
+<ul>
+<li><a href="/notes/Other/%E9%AA%91%E8%A1%8C%E7%BB%BF%E9%81%93/%E5%9D%AA%E5%B1%B1%E5%8C%BA-24.%E8%81%9A%E9%BE%99%E5%B1%B1%E5%85%AC%E5%9B%AD%E7%BB%BF%E9%81%93.html" target="_blank">聚龙山公园绿道</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大顶岭绿道和虹桥公园</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Dadingling-Greenway-and-Hongqiao-Park/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Dadingling-Greenway-and-Hongqiao-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">大顶岭绿道和虹桥公园</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大沙河生态长廊绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Dasha-River-Ecological-Corridor-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Dasha-River-Ecological-Corridor-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">大沙河生态长廊绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>人才公园绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Talent-Park-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Talent-Park-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">人才公园绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳湾绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Shenzhen-Bay-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Shenzhen-Bay-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳湾绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>聚龙山公园绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Julongshan-Park-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Julongshan-Park-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">聚龙山公园绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>新东绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Xindong-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Xindong-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">新东绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>禾塘山水绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Hetang-Landscape-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Hetang-Landscape-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">禾塘山水绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>海贝湾-畲吓湾绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Haibei-Bay-Shexia-Bay-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Haibei-Bay-Shexia-Bay-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">海贝湾-畲吓湾绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>环石岩湖绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Huanshiyan-Lake-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Huanshiyan-Lake-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">环石岩湖绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>凤凰山绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Fenghuang-Mountain-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Fenghuang-Mountain-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">凤凰山绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>环立新湖绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Huanli-Xinhu-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Huanli-Xinhu-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">环立新湖绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>谭仙庙-小三洲绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Tanxian-Temple-Xiaosanzhou-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Tanxian-Temple-Xiaosanzhou-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">谭仙庙-小三洲绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>盐田海滨栈道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Yantian-Seaside-Boardwalk/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Yantian-Seaside-Boardwalk/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">盐田海滨栈道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>半山绿道（恩上-盐高段）</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Banshan-Greenway-(Enshang-Yangao-Section)/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Banshan-Greenway-(Enshang-Yangao-Section)/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">半山绿道（恩上-盐高段）</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>香蜜公园绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Xiangmi-Park-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Xiangmi-Park-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">香蜜公园绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福荣都市绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Furong-Urban-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Furong-Urban-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">福荣都市绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田河绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Futian-River-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Futian-River-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">福田河绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>梅林绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Meilin-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Meilin-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">梅林绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>梧桐绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Wutong-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Wutong-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">梧桐绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>淘金山绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Taojin-Mountain-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Taojin-Mountain-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">淘金山绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>龙华环城绿道（阳台山段）</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Longhua-Ring-Greenway-(Yangtai-Mountain-Section)/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Longhua-Ring-Greenway-(Yangtai-Mountain-Section)/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">龙华环城绿道（阳台山段）</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>龙华环城绿道（大水坑段）</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Longhua-Ring-Greenway-(Dashuikeng-Section)/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Longhua-Ring-Greenway-(Dashuikeng-Section)/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">龙华环城绿道（大水坑段）</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>龙城公园绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Longcheng-Park-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Longcheng-Park-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">龙城公园绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大运绿道</title>
+      <link>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Dayun-Greenway/</link>
+      <guid>https://shenzhen.citywalk.group/Other/Cycling-Greenway/Dayun-Greenway/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">大运绿道</source>
+      <pubDate>Sun, 19 Jan 2025 15:46:09 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>地王观光·深港之窗</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Land-King-Sightseeing-%C2%B7-Window-of-Shenzhen-and-Hong-Kong/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Land-King-Sightseeing-%C2%B7-Window-of-Shenzhen-and-Hong-Kong/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">地王观光·深港之窗</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>华强北步行街景区</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Huaqiang-North-Pedestrian-Street-Scenic-Area/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Huaqiang-North-Pedestrian-Street-Scenic-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">华强北步行街景区</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明红木文化小镇</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Guangming-Redwood-Cultural-Town/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Guangming-Redwood-Cultural-Town/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">光明红木文化小镇</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>玫瑰海岸文化旅游度假区</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Rose-Coast-Cultural-Tourism-Resort/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Rose-Coast-Cultural-Tourism-Resort/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">玫瑰海岸文化旅游度假区</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市欢乐港湾旅游景区</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Shenzhen-Happy-Harbor-Tourism-Scenic-Area/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Shenzhen-Happy-Harbor-Tourism-Scenic-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳市欢乐港湾旅游景区</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市百师园非遗旅游区</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Shenzhen-Baishiyuan-Intangible-Cultural-Heritage-Tourism-Area/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Shenzhen-Baishiyuan-Intangible-Cultural-Heritage-Tourism-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳市百师园非遗旅游区</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>甘坑古镇文化旅游区</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Gankeng-Ancient-Town-Cultural-Tourism-Area/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Gankeng-Ancient-Town-Cultural-Tourism-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">甘坑古镇文化旅游区</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>海上田园</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Sea-Pastoral/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Sea-Pastoral/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">海上田园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明农场大观园</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Guangming-Farm-Grand-View-Garden/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Guangming-Farm-Grand-View-Garden/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">光明农场大观园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>观澜山水田园旅游文化园</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Guanlan-Landscape-Pastoral-Tourism-and-Cultural-Park/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Guanlan-Landscape-Pastoral-Tourism-and-Cultural-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">观澜山水田园旅游文化园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>水底山旅游度假区</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Shuidishan-Tourism-Resort/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Shuidishan-Tourism-Resort/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">水底山旅游度假区</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>东部华侨城</title>
+      <link>https://shenzhen.citywalk.group/A-Level/OCT-East/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/OCT-East/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">东部华侨城</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>青青世界</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Qingqing-World/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Qingqing-World/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">青青世界</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市野生动物园</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Shenzhen-Wildlife-Park/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Shenzhen-Wildlife-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳市野生动物园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>仙湖植物园</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Xianhu-Botanical-Garden/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Xianhu-Botanical-Garden/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">仙湖植物园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>华侨城旅游度假区-世界之窗</title>
+      <link>https://shenzhen.citywalk.group/A-Level/OCT-Tourism-Resort-Window-of-the-World/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/OCT-Tourism-Resort-Window-of-the-World/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">华侨城旅游度假区-世界之窗</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>华侨城旅游度假区-锦绣中华民俗文化村</title>
+      <link>https://shenzhen.citywalk.group/A-Level/OCT-Tourism-Resort-Splendid-China-Folk-Culture-Village/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/OCT-Tourism-Resort-Splendid-China-Folk-Culture-Village/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">华侨城旅游度假区-锦绣中华民俗文化村</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>华侨城旅游度假区-欢乐谷</title>
+      <link>https://shenzhen.citywalk.group/A-Level/OCT-Tourism-Resort-Happy-Valley/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/OCT-Tourism-Resort-Happy-Valley/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">华侨城旅游度假区-欢乐谷</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>华侨城旅游度假区-欢乐海岸</title>
+      <link>https://shenzhen.citywalk.group/A-Level/OCT-Tourism-Resort-Happy-Coast/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/OCT-Tourism-Resort-Happy-Coast/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">华侨城旅游度假区-欢乐海岸</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>观澜湖旅游休闲度假区</title>
+      <link>https://shenzhen.citywalk.group/A-Level/Mission-Hills-Tourism-and-Leisure-Resort/</link>
+      <guid>https://shenzhen.citywalk.group/A-Level/Mission-Hills-Tourism-and-Leisure-Resort/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">观澜湖旅游休闲度假区</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大浪体育公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Dalang-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Dalang-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">大浪体育公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>石芽岭信义体育公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Shiyaling-Xinyi-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Shiyaling-Xinyi-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">石芽岭信义体育公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>仙桐体育公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Xiantong-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Xiantong-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">仙桐体育公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田海滨生态体育公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Futian-Seaside-Ecological-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Futian-Seaside-Ecological-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">福田海滨生态体育公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>罗湖体育休闲公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Luohu-Sports-and-Leisure-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/SportsFitness/Luohu-Sports-and-Leisure-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">罗湖体育休闲公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田区儿童乐园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/ChildrenPark/Futian-Children&amp;apos;s-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/ChildrenPark/Futian-Children&amp;apos;s-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">福田区儿童乐园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>罗湖区儿童公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/ChildrenPark/Luohu-Children&amp;apos;s-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/ChildrenPark/Luohu-Children&amp;apos;s-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">罗湖区儿童公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>坪山儿童公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/ChildrenPark/Pingshan-Children&amp;apos;s-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/ChildrenPark/Pingshan-Children&amp;apos;s-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">坪山儿童公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市仙湖植物园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/BotanicalGarden/Shenzhen-Xianhu-Botanical-Garden/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/BotanicalGarden/Shenzhen-Xianhu-Botanical-Garden/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳市仙湖植物园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>玉田水滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Yutian-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Yutian-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">玉田水滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>低碳城滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Low-Carbon-City-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Low-Carbon-City-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">低碳城滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>东坑水滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Dongkeng-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Dongkeng-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">东坑水滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>鹅颈水滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/E&amp;apos;jing-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/E&amp;apos;jing-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">鹅颈水滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>公明排洪渠滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Gongming-Drainage-Channel-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Gongming-Drainage-Channel-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">公明排洪渠滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>楼村水滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Loucun-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Loucun-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">楼村水滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>木墩水滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Mudun-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Mudun-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">木墩水滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>上下村排洪渠滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Shangxiacun-Drainage-Channel-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Shangxiacun-Drainage-Channel-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">上下村排洪渠滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>西田水滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Xitian-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Xitian-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">西田水滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>新陂头河南支滨水公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Xinpiao-River-South-Branch-Waterfront-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/WaterFrontPark/Xinpiao-River-South-Branch-Waterfront-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">新陂头河南支滨水公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>东江纵队北撤纪念公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/CommemorativePark/Dongjiang-Column-Northward-Retreat-Memorial-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/CommemorativePark/Dongjiang-Column-Northward-Retreat-Memorial-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">东江纵队北撤纪念公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文天祥纪念公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/CommemorativePark/Wen-Tianxiang-Memorial-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/CommemorativePark/Wen-Tianxiang-Memorial-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">文天祥纪念公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>回归亭纪念公园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/CommemorativePark/Huihui-Pavilion-Memorial-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/CommemorativePark/Huihui-Pavilion-Memorial-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">回归亭纪念公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>孙中山庚子首义雕塑园</title>
+      <link>https://shenzhen.citywalk.group/SpecializedPark/SculpturePark/Sun-Yat-sen-Gengzi-First-Uprising-Sculpture-Park/</link>
+      <guid>https://shenzhen.citywalk.group/SpecializedPark/SculpturePark/Sun-Yat-sen-Gengzi-First-Uprising-Sculpture-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">孙中山庚子首义雕塑园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明群众体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Guangming-Mass-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Guangming-Mass-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">光明群众体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明区红花山体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Guangming-District-Honghuashan-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Guangming-District-Honghuashan-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">光明区红花山体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳湾体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shenzhen-Bay-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shenzhen-Bay-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳湾体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大沙河公园体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Dasha-River-Park-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Dasha-River-Park-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">大沙河公园体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳湾体育训练基地</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shenzhen-Bay-Sports-Training-Base/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shenzhen-Bay-Sports-Training-Base/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳湾体育训练基地</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳中山公园棒球场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shenzhen-Zhongshan-Park-Baseball-Field/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shenzhen-Zhongshan-Park-Baseball-Field/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳中山公园棒球场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>中山公园棒球场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Zhongshan-Park-Baseball-Field/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Zhongshan-Park-Baseball-Field/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">中山公园棒球场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>蛇口体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shekou-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shekou-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">蛇口体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南山文体中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Nanshan-Cultural-and-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Nanshan-Cultural-and-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">南山文体中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>冰纷万象滑雪场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Bingfen-Wanxiang-Ski-Resort/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Bingfen-Wanxiang-Ski-Resort/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">冰纷万象滑雪场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>锡才体育公园</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Xicai-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Xicai-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">锡才体育公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南海足球公园</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Nanhai-Football-Park/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Nanhai-Football-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">南海足球公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>荔香公园网球场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Lixiang-Park-Tennis-Court/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Lixiang-Park-Tennis-Court/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">荔香公园网球场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>桃源群众篮球网球体育公园</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Taoyuan-Mass-Basketball-and-Tennis-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Taoyuan-Mass-Basketball-and-Tennis-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">桃源群众篮球网球体育公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市坪山区坪山体育中心体育馆</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Pingshan-Sports-Center-Gymnasium-Pingshan-District-Shenzhen/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Pingshan-Sports-Center-Gymnasium-Pingshan-District-Shenzhen/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">深圳市坪山区坪山体育中心体育馆</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>葵涌中学体育场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Middle-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Middle-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">葵涌中学体育场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>葵涌生态体育公园</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Kuichong-Ecological-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Kuichong-Ecological-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">葵涌生态体育公园</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南澳中学体育场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Nan&amp;apos;ao-Middle-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Nan&amp;apos;ao-Middle-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">南澳中学体育场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南澳中心小学体育场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Nan&amp;apos;ao-Central-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Nan&amp;apos;ao-Central-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">南澳中心小学体育场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>人大附中深圳学校高中部体育场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Renmin-University-High-School-Shenzhen-School-High-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Renmin-University-High-School-Shenzhen-School-High-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">人大附中深圳学校高中部体育场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>葵涌第二小学体育场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Second-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Second-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">葵涌第二小学体育场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>溪涌小学体育场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Xichong-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Xichong-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">溪涌小学体育场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>葵涌中心小学体育场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Central-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Central-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">葵涌中心小学体育场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大鹏第二小学体育场</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Dapeng-Second-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Dapeng-Second-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">大鹏第二小学体育场</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大鹏新区葵涌中心小学</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Dapeng-New-District-Kui-Chung-Central-Primary-School/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Dapeng-New-District-Kui-Chung-Central-Primary-School/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">大鹏新区葵涌中心小学</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>宝安区体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-District-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-District-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">宝安区体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>西乡体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Xixiang-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Xixiang-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">西乡体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>松岗体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Songgang-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Songgang-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">松岗体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>石岩体育馆</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shiyan-Gymnasium/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Shiyan-Gymnasium/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">石岩体育馆</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>新桥体育中心</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Xinqiao-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Xinqiao-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">新桥体育中心</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>综合训练馆（室内网球馆）</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Comprehensive-Training-Hall-(Indoor-Tennis-Hall)/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Comprehensive-Training-Hall-(Indoor-Tennis-Hall)/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">综合训练馆（室内网球馆）</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>宝安游泳场馆</title>
+      <link>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-Swimming-Pool/</link>
+      <guid>https://shenzhen.citywalk.group/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-Swimming-Pool/</guid>
+      <source url="https://shenzhen.citywalk.group/rss.xml">宝安游泳场馆</source>
+      <pubDate>Sat, 18 Jan 2025 16:24:52 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://shenzhen.citywalk.group/zh-tw/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://shenzhen.citywalk.group/zh-tw/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>城市漫步-深圳</title>
+    <link>https://shenzhen.citywalk.group/zh-tw/</link>
+    <description>城市漫步-深圳</description>
+    <language>zh-tw</language>
+    <pubDate>Sun, 18 May 2025 11:07:58 GMT</pubDate>
+    <lastBuildDate>Sun, 18 May 2025 11:07:58 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>深圳市梧桐山風景名勝區</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/LandscapeLeisureGreenSpace/ScenicHistoricAreas/Shenzhen-Wutong-Mountain-Scenic-Area/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/LandscapeLeisureGreenSpace/ScenicHistoricAreas/Shenzhen-Wutong-Mountain-Scenic-Area/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市梧桐山風景名勝區</source>
+      <pubDate>Sat, 08 Mar 2025 15:10:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文體場館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">文體場館</source>
+      <pubDate>Fri, 28 Feb 2025 14:49:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">博物館</source>
+      <description>目錄 福田區 羅湖區 南山區 盐田區 寶安區 龍崗區 龍華區 坪山區 光明區 大鵬新區</description>
+      <pubDate>Fri, 28 Feb 2025 14:49:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>目錄</h2>
+<h3>福田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8F%A4%E4%BB%A3%E8%89%BA%E6%9C%AF%E9%A6%86.html" target="_blank">深圳博物館古代藝術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-10.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%93%E5%BB%BA%E6%B3%95%E5%BE%8B%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市卓建法律博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8E%86%E5%8F%B2%E6%B0%91%E4%BF%97%E9%A6%86.html" target="_blank">深圳博物館歷史民俗館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-3.%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%B1%95%E8%A7%88%E9%A6%86.html" target="_blank">深圳市改革開放展覽館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-4.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%A6%8F%E7%94%B0%E5%8C%BA%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市福田區華強北博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-5.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%A6%8F%E7%94%B0%E5%8C%BA%E7%9A%87%E5%B2%97%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市福田區皇崗博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-6.%E6%B7%B1%E5%9C%B3%E9%92%A2%E7%90%B4%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳鋼琴博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-7.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%A6%8F%E7%94%B0%E5%8C%BA%E6%B0%B4%E5%9B%B4%E9%9B%85%E7%9F%B3%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市福田區水圍雅石藝術博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-8.%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%A3%8B%E5%9B%BD%E8%B1%A1%E6%A3%8B%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市棋國象棋博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-9.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%A4%A7%E8%A7%82%E8%8C%B6%E5%85%B7%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市大觀茶具博物館</a></li>
+</ul>
+<h3>羅湖區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%8F%A4%E7%94%9F%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳古生物博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%BD%97%E6%B9%96%E5%8C%BA%E6%83%A0%E9%A3%8E%E5%8F%A4%E9%99%B6%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市羅湖區惠風古陶博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-3.%E6%B7%B1%E5%9C%B3%E7%8E%BA%E5%AE%9D%E6%A5%BC%E9%9D%92%E7%93%B7%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳璽寶樓青瓷博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-4.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%87%91%E7%9F%B3%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市金石藝術博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-5.%E6%B7%B1%E5%9C%B3%E5%B8%82%E8%8B%8F%E5%85%AD%E6%B2%B3%E6%B2%89%E9%A6%99%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市蘇六河沉香博物館</a></li>
+</ul>
+<h3>南山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%97%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市南山博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%97%E5%B1%B1%E5%8C%BA%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%88%E5%8D%97%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E5%88%86%E9%A6%86%EF%BC%89.html" target="_blank">深圳市南山區南頭古城博物館（南山博物館分館）</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-3.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%97%E5%B1%B1%E5%8C%BA%E5%A4%A9%E5%90%8E%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%88%E5%8D%97%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E5%88%86%E9%A6%86%EF%BC%89.html" target="_blank">深圳市南山區天后博物館（南山博物館分館）</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-4.%E6%8B%9B%E5%95%86%E5%B1%80%E5%8E%86%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">招商局歷史博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-5.%E6%B7%B1%E5%9C%B3%E4%B8%AD%E5%9B%BD%E9%92%A2%E7%BB%93%E6%9E%84%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳中國鋼結構博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-6.%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E6%B3%95%E5%BE%8B%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳南山法律文化博物館</a></li>
+</ul>
+<h3>盐田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E7%9B%90%E7%94%B0%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%B8%AD%E8%8B%B1%E8%A1%97%E5%8E%86%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市中英街歷史博物館</a></li>
+</ul>
+<h3>寶安區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%EF%BC%88%E5%AE%9D%E5%AE%89%EF%BC%89%E5%8A%B3%E5%8A%A1%E5%B7%A5%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳（寶安）勞務工博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-10.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%BD%93%E4%BB%A3%E5%90%8D%E5%AE%B6%E6%96%87%E6%88%BF%E5%9B%9B%E5%AE%9D%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市當代名家文房四寶博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-11.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%90%88%E6%AD%A3%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市合正藝術博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-12.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%81%E9%87%8C%E7%BA%A2%E5%A6%86%E6%B0%91%E4%BF%97%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市十里紅妝民俗博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-13.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E5%AE%9D%E5%BC%98%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區寶弘博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-14.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E4%B8%96%E7%BA%AA%E7%90%A5%E7%8F%80%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區世紀琥珀博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-15.%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B5%B7%E4%B9%8B%E6%B4%8B%E8%B4%9D%E5%A3%B3%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市海之洋貝殼博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-16.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E9%BC%8E%E5%9D%A4%E9%99%B6%E7%93%B7%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區鼎坤陶瓷博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-17.%E4%B8%96%E7%BA%AA%E7%90%A5%E7%8F%80%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">世紀琥珀博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-18.%E6%B2%99%E4%BA%95%E8%9A%9D%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">沙井蠔文化博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-2.%E4%B8%AD%E5%85%B1%E5%AE%9D%E5%AE%89%E5%8E%BF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E7%BA%AA%E5%BF%B5%E9%A6%86.html" target="_blank">中共寶安縣第一次代表大會紀念館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-3.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E5%8D%8E%E5%A4%8F%E9%BE%99%E6%B3%89%E9%9D%92%E7%93%B7%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區華夏龍泉青瓷博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-4.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E7%BB%93%E7%BC%98%E5%A5%87%E7%9F%B3%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區結緣奇石博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-5.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E9%94%A6%E8%88%9F%E9%99%B6%E7%93%B7%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區錦舟陶瓷博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-6.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E8%80%81%E6%88%98%E5%A3%AB%E7%BA%AA%E5%BF%B5%E9%A6%86.html" target="_blank">深圳市寶安區老戰士紀念館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-7.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E6%B2%99%E4%BA%95%E8%9A%9D%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區沙井蠔文化博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-8.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E4%B8%80%E9%9B%8D%E7%B4%AB%E7%A0%82%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區一雍紫砂博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-9.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%9D%E5%AE%89%E5%8C%BA%E9%82%B9%E9%B2%81%E6%BD%AE%E6%B1%95%E6%B0%91%E4%BF%97%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市寶安區鄒魯潮汕民俗博物館</a></li>
+</ul>
+<h3>龍崗區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%B2%97%E5%8C%BA%E5%AE%A2%E5%AE%B6%E6%B0%91%E4%BF%97%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市龍崗區客家民俗博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-10.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%99%BE%E5%B8%88%E5%9B%AD%E9%9D%9E%E7%89%A9%E8%B4%A8%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市百師園非物質文化遺產博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-11.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%9A%90%E7%A7%80%E9%AB%98%E5%B0%94%E5%A4%AB%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市隱秀高爾夫博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-12.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%87%91%E9%9B%85%E7%A6%8F%E9%BB%84%E9%87%91%E7%8F%A0%E5%AE%9D%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市金雅福黃金珠寶博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市中醫藥博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-3.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%B2%97%E5%8C%BA%E6%AF%95%E6%98%87%E5%8D%B0%E5%88%B7%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市龍崗區畢昇印刷文化博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-4.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%B2%97%E5%8C%BA%E6%80%A1%E5%88%A9%E7%BF%A1%E7%BF%A0%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市龍崗區怡利翡翠博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-5.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%B2%97%E5%8C%BA%E9%BE%99%E5%B2%AD%E9%82%AE%E7%A5%A8%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市龍崗區龍嶺郵票博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-6.%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%A2%B5%E4%BA%9A%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市梵亞藝術博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-7.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%B2%97%E5%8C%BA%E4%B8%9C%E6%B1%9F%E6%BD%AE%E7%BA%A2%E8%89%B2%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市龍崗區東江潮紅文化博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-8.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%B2%97%E5%8C%BA%E4%B8%87%E5%9B%BD%E7%8F%A0%E5%AE%9D%E6%B1%87%E7%9F%BF%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市龍崗區萬國珠寶匯礦物博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-9.%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%B8%81%E5%85%A8%E5%8C%A0%E4%BD%9C%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市丁全匠作博物館</a></li>
+</ul>
+<h3>龍華區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%8D%8E%E5%8C%BA%E7%99%BD%E7%9F%B3%E9%BE%99%E6%96%87%E5%8C%96%E5%90%8D%E4%BA%BA%E5%A4%A7%E8%90%A5%E6%95%91%E7%BA%AA%E5%BF%B5%E9%A6%86.html" target="_blank">深圳市龍華區白石龍文化名人大營救紀念館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%8D%8E%E5%8C%BA%E5%8D%8E%E5%A4%8F%E5%86%9B%E8%A3%85%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市龍華區華夏軍裝博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-3.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%8D%8E%E5%8C%BA%E7%BE%8E%E8%81%94%E7%BA%A2%E6%9C%A8%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市龍華區美聯紅木藝術博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-4.%E6%B7%B1%E5%9C%B3%E7%BA%A2%E6%9C%A8%E5%AE%B6%E5%85%B7%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳紅木家具博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-5.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%BF%B0%E7%86%99%E5%8F%A4%E9%99%B6%E7%93%B7%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市翰熙古陶瓷博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-6.%E6%B7%B1%E5%9C%B3%E6%9C%9B%E9%87%8E%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳望野博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-7.%E6%B7%B1%E5%9C%B3%E5%B8%82%E8%89%BA%E4%B9%8B%E5%8D%89%E7%99%BE%E5%B9%B4%E6%97%B6%E5%B0%9A%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市藝之探討百年時尚博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-8.%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%90%8D%E4%BA%BA%E5%A4%A7%E8%90%A5%E6%95%91%E7%BA%AA%E5%BF%B5%E9%A6%86.html" target="_blank">中國文化名人大營救紀念館</a></li>
+</ul>
+<h3>坪山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%9D%AA%E5%B1%B1%E5%8C%BA%E4%B8%9C%E6%B1%9F%E7%BA%B5%E9%98%9F%E7%BA%AA%E5%BF%B5%E9%A6%86.html" target="_blank">深圳市坪山區東江縱隊紀念館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%92%8C%E7%95%85%E5%9B%AD%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市及暢園博物館</a></li>
+</ul>
+<h3>光明區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%85%89%E6%98%8E%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%BE%9D%E6%B3%A2%E9%92%9F%E8%A1%A8%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市依波鐘錶文化博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%85%89%E6%98%8E%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%85%89%E6%98%8E%E5%8C%BA%E6%83%9C%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳市光明區惜物博物館</a></li>
+</ul>
+<h3>大鵬新區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-1.%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">大鵬新區博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%8D%9A%E7%89%A9%E9%A4%A8/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E5%8D%8A%E5%B2%9B%E5%9B%BD%E5%AE%B6%E5%9C%B0%E5%9D%80%E5%85%AC%E5%9B%AD%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">深圳大鵬半島國家地址公園博物館</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">圖書館</source>
+      <description>目錄 福田區 羅湖區 南山區 寶安區 鹽田區 龍華區 光明區 坪山區</description>
+      <pubDate>Fri, 28 Feb 2025 14:49:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>目錄</h2>
+<h3>福田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">深圳圖書館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%A6%8F%E7%94%B0%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">深圳市福田區圖書館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-3.%E6%B7%B1%E5%9C%B3%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">深圳少年兒童圖書館</a></li>
+</ul>
+<h3>羅湖區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-1.%E7%BD%97%E6%B9%96%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">羅湖區圖書館</a></li>
+</ul>
+<h3>南山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">深圳大學城圖書館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-2.%E5%8D%97%E5%B1%B1%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">南山圖書館</a></li>
+</ul>
+<h3>寶安區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-1.%E5%AE%9D%E5%AE%89%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">寶安區圖書館</a></li>
+</ul>
+<h3>鹽田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E7%9B%90%E7%94%B0%E5%8C%BA-1.%E7%9B%90%E7%94%B0%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">鹽田區圖書館</a></li>
+</ul>
+<h3>龍華區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-1.%E9%BE%99%E5%8D%8E%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">龍華圖書館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-1.%E9%BE%99%E5%B2%97%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">龍崗區圖書館</a></li>
+</ul>
+<h3>光明區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%85%89%E6%98%8E%E5%8C%BA-1.%E5%85%89%E6%98%8E%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">光明區圖書館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%85%89%E6%98%8E%E5%8C%BA-2.%E5%85%89%E6%98%8E%E5%8C%BA%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">光明區少年兒童圖書館</a></li>
+</ul>
+<h3>坪山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-1.%E5%9D%AA%E5%B1%B1%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">坪山圖書館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-2.%E5%9D%AA%E5%B1%B1%E5%B0%91%E5%84%BF%E5%9B%BE%E4%B9%A6%E9%A6%86.html" target="_blank">坪山兒童圖書館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-3.%E5%9D%AA%E5%B1%B1%E6%96%87%E5%8C%96%E9%A6%86%E5%88%86%E9%A6%86.html" target="_blank">坪山文化館分館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-4.%E9%87%91%E9%BE%9F%E8%87%AA%E7%84%B6%E4%B9%A6%E6%88%BF%E5%88%86%E9%A6%86.html" target="_blank">金龜自然書房分館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-5.%E5%A4%A7%E8%8D%89%E5%9D%AA%E5%85%AC%E5%9B%AD%E5%88%86%E9%A6%86.html" target="_blank">大草坪公園分館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-6.%E5%9D%AA%E5%B1%B1%E5%84%BF%E7%AB%A5%E5%85%AC%E5%9B%AD%E5%88%86%E9%A6%86.html" target="_blank">坪山兒童公園分館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E5%9C%96%E6%9B%B8%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-7.%E5%9D%AA%E5%B1%B1%E5%9B%BE%E4%B9%A6%E9%A6%86%C2%B7%E5%AE%A2%E5%AE%B6%E7%89%B9%E8%97%8F%E9%A6%86.html" target="_blank">坪山圖書館·客家特藏館</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">文化館</source>
+      <description>目錄 福田區 羅湖區 南山區 寶安區 龍崗區 龍華區 盐田區 光明區 坪山區 深汕特別合作區</description>
+      <pubDate>Fri, 28 Feb 2025 14:49:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>目錄</h2>
+<h3>福田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%96%87%E5%8C%96%E9%A6%86.html" target="_blank">深圳市文化館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-2.%E7%A6%8F%E7%94%B0%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83%C2%B7%E9%92%A2%E7%90%B4%E4%B8%BB%E9%A2%98%E9%A6%86.html" target="_blank">福田文體中心·鋼琴主題館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-3.%E7%A6%8F%E7%94%B0%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83%C2%B7%E8%88%9E%E8%B9%88%E4%B8%BB%E9%A2%98%E9%A6%86.html" target="_blank">福田文體中心·舞蹈主題館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-4.%E7%A6%8F%E7%94%B0%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83%C2%B7%E6%A2%A6%E5%B7%A5%E5%9C%BA.html" target="_blank">福田文體中心·夢工場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-5.%E7%A6%8F%E7%94%B0%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83%C2%B7%E9%9D%9E%E9%81%97%E4%B8%BB%E9%A2%98%E9%A6%86.html" target="_blank">福田文體中心·非遺主題館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-6.%E7%A6%8F%E7%94%B0%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83%C2%B7%E6%88%8F%E5%89%A7%E4%B8%BB%E9%A2%98%E9%A6%86.html" target="_blank">福田文體中心·戲劇主題館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-7.%E7%A6%8F%E7%94%B0%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83%C2%B7%E9%9F%B3%E4%B9%90%E4%B9%A6%E7%94%BB%E4%B8%BB%E9%A2%98%E9%A6%86.html" target="_blank">福田文體中心·音樂書畫主題館</a></li>
+</ul>
+<h3>羅湖區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-1.%E7%BD%97%E6%B9%96%E5%8C%BA%E6%96%87%E5%8C%96%E9%A6%86.html" target="_blank">羅湖區文化館</a></li>
+</ul>
+<h3>南山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-1.%E5%8D%97%E5%B1%B1%E5%8C%BA%E6%96%87%E5%8C%96%E9%A6%86.html" target="_blank">南山區文化館</a></li>
+</ul>
+<h3>寶安區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-1.%E5%AE%9D%E5%AE%89%E5%8C%BA%E6%96%87%E5%8C%96%E9%A6%86.html" target="_blank">寶安區文化館</a></li>
+</ul>
+<h3>龍崗區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%B2%97%E5%8C%BA%E6%96%87%E5%8C%96%E9%A6%86.html" target="_blank">深圳市龍崗區文化館</a></li>
+</ul>
+<h3>龍華區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-1.%E9%BE%99%E5%8D%8E%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83.html" target="_blank">龍華文體中心</a></li>
+</ul>
+<h3>盐田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E7%9B%90%E7%94%B0%E5%8C%BA-1.%E7%9B%90%E7%94%B0%E5%8C%BA%E6%96%87%E5%8C%96%E9%A6%86.html" target="_blank">鹽田區文化館</a></li>
+</ul>
+<h3>光明區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E5%85%89%E6%98%8E%E5%8C%BA-1.%E5%85%89%E6%98%8E%E5%8C%BA%E6%96%87%E5%8C%96%E9%A6%86.html" target="_blank">光明區文化館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E5%85%89%E6%98%8E%E5%8C%BA-2.%E5%85%89%E6%98%8E%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.html" target="_blank">光明文化藝術中心</a></li>
+</ul>
+<h3>坪山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-1.%E5%9D%AA%E5%B1%B1%E5%8C%BA%E6%96%87%E5%8C%96%E9%A6%86.html" target="_blank">坪山區文化館</a></li>
+</ul>
+<h3>深汕特別合作區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E5%8C%96%E9%A4%A8/%E6%B7%B1%E6%B1%95%E7%89%B9%E5%88%AB%E5%90%88%E4%BD%9C%E5%8C%BA-1.%E6%B7%B1%E6%B1%95%E8%A5%BF%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83.html" target="_blank">深汕西文體中心</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文保單位</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Relics-Protection-Unit/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">文保單位</source>
+      <description>目錄 福田區 罗湖區 南山區 寶安區 龍崗區 龍華區 盐田區 坪山區 大鵬新區 光明區</description>
+      <pubDate>Fri, 28 Feb 2025 14:49:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>目錄</h2>
+<h3>福田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%A6%8F%E7%94%B0%E5%8C%BA-1.%E9%BB%84%E9%BB%98%E5%A0%82%E5%A2%93.html" target="_blank">黃默堂墓</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%A6%8F%E7%94%B0%E5%8C%BA-2.%E8%8E%B2%E8%8A%B1%E5%B1%B1%E9%82%93%E5%B0%8F%E5%B9%B3%E9%93%9C%E5%83%8F.html" target="_blank">蓮花山鄧小平銅像</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%A6%8F%E7%94%B0%E5%8C%BA-3.%E5%AD%BA%E5%AD%90%E7%89%9B%E9%9B%95%E5%A1%91.html" target="_blank">孺子牛雕塑</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%A6%8F%E7%94%B0%E5%8C%BA-4.%E6%B7%B1%E5%9C%B3%E9%9D%A9%E5%91%BD%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E7%A2%91.html" target="_blank">深圳革命烈士紀念碑</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%A6%8F%E7%94%B0%E5%8C%BA-5.%E9%BB%84%E6%80%9D%E9%93%AD%E5%85%AC%E4%B8%96%E7%A5%A0.html" target="_blank">黃思銘公世祠</a></li>
+</ul>
+<h3>罗湖區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%BD%97%E6%B9%96%E5%8C%BA-1.%E5%85%83%E5%8B%8B%E6%97%A7%E5%9D%80.html" target="_blank">元勳舊址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%BD%97%E6%B9%96%E5%8C%BA-2.%E4%B8%9C%E6%B1%9F%E6%B8%B8%E5%87%BB%E9%98%9F%E6%8C%87%E6%8C%A5%E9%83%A8%E6%97%A7%E5%9D%80.html" target="_blank">東江遊擊隊指揮部舊址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%BD%97%E6%B9%96%E5%8C%BA-3.%E7%9C%81%E6%B8%AF%E5%A4%A7%E7%BD%A2%E5%B7%A5%E5%A7%94%E5%91%98%E4%BC%9A%E6%8E%A5%E5%BE%85%E7%AB%99%E6%97%A7%E5%9D%80.html" target="_blank">省港大罷工委員會接待站舊址</a></li>
+</ul>
+<h3>南山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-1.%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E%E5%9E%A3.html" target="_blank">南頭古城垣</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-10.%E8%B5%A4%E6%B9%BE%E5%A4%A9%E5%90%8E%E5%BA%99%E9%81%97%E5%9D%80.html" target="_blank">赤灣天后廟遺址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-11.%E6%B1%AA%E5%88%98%E4%BA%8C%E5%85%AC%E7%A5%A0.html" target="_blank">汪劉二公祠</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-12.%E8%B5%A4%E6%B9%BE%E7%83%9F%E5%A2%A9.html" target="_blank">赤灣煙墩</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-13.%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E%E5%9D%80.html" target="_blank">南頭古城址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-14.%E2%80%9C%E6%97%B6%E9%97%B4%E5%B0%B1%E6%98%AF%E9%87%91%E9%92%B1%EF%BC%8C%E6%95%88%E7%8E%87%E5%B0%B1%E6%98%AF%E7%94%9F%E5%91%BD%E2%80%9D%E6%A0%87%E8%AF%AD%E7%89%8C.html" target="_blank">時間就是金錢，效率就是生命"標語牌</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-15.%E5%89%8D%E6%B5%B7%E7%9F%B3.html" target="_blank">前海石</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-2.%E5%B1%8B%E8%83%8C%E5%B2%AD%E9%81%97%E5%9D%80.html" target="_blank">屋背嶺遺址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-3.%E8%B5%A4%E6%B9%BE%E5%B7%A6%E7%82%AE%E5%8F%B0.html" target="_blank">赤灣左砲台</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-4.%E5%AE%8B%E5%B0%91%E5%B8%9D%E9%99%B5.html" target="_blank">宋少帝陵</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-5.%E4%BF%A1%E5%9B%BD%E5%85%AC%E6%96%87%E6%B0%8F%E7%A5%A0.html" target="_blank">信國公文氏祠</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-6.%E8%82%B2%E5%A9%B4%E5%A0%82.html" target="_blank">育嬰堂</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-7.%E8%A7%A3%E6%94%BE%E5%86%85%E4%BC%B6%E4%BB%83%E7%BA%AA%E5%BF%B5%E7%A2%91.html" target="_blank">解放內伶仃紀念碑</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-8.%E9%99%88%E9%83%81%E6%95%85%E5%B1%85.html" target="_blank">陳鬱故居</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%8D%97%E5%B1%B1%E5%8C%BA-9.%E4%B8%9C%E8%8E%9E%E4%BC%9A%E9%A6%86.html" target="_blank">東莞會館</a></li>
+</ul>
+<h3>寶安區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-1.%E6%9B%BE%E6%B0%8F%E5%A4%A7%E5%AE%97%E7%A5%A0.html" target="_blank">曾氏大宗祠</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-10.%E6%B2%99%E4%BA%95%E6%99%BA%E7%86%99%E5%AE%B6%E5%A1%BE.html" target="_blank">沙井智熙家塾</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-11.%E9%94%A6%E5%BA%AD%E4%B9%A6%E5%AE%A4.html" target="_blank">錦庭書室</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-12.%E4%B8%AD%E5%85%B1%E5%AE%9D%E5%AE%89%E5%8E%BF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%85%9A%E4%BB%A3%E4%BC%9A%E4%BC%9A%E5%9D%80%EF%BC%88%E7%B4%A0%E7%99%BD%E9%99%88%E5%85%AC%E7%A5%A0%EF%BC%89.html" target="_blank">中共寶安縣第一次黨代會會址（素白陳公祠）</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-2.%E9%93%81%E4%BB%94%E5%B1%B1%E5%8F%A4%E5%A2%93%E7%BE%A4.html" target="_blank">鐵仔山古墓群</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-3.%E7%BB%AE%E4%BA%91%E4%B9%A6%E5%AE%A4.html" target="_blank">綺雲書室</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-4.%E9%BE%99%E6%B4%A5%E7%9F%B3%E5%A1%94.html" target="_blank">龍津石塔</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-5.%E6%B0%B8%E5%85%B4%E6%A1%A5.html" target="_blank">永興橋</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-6.%E5%87%A4%E5%87%B0%E5%A1%94.html" target="_blank">鳳凰塔</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-7.%E6%96%87%E6%98%8C%E9%98%81.html" target="_blank">文昌閣</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-8.%E9%BB%84%E6%B0%8F%E5%AE%97%E7%A5%A0%E5%8F%A4%E5%BB%BA%E7%BE%A4.html" target="_blank">黃氏宗祠古建群</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%AE%9D%E5%AE%89%E5%8C%BA-9.%E7%8E%8B%E5%A4%A7%E4%B8%AD%E4%B8%9E%E7%A5%A0.html" target="_blank">王大中丞祠</a></li>
+</ul>
+<h3>龍崗區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E9%BE%99%E5%B2%97%E5%8C%BA-1.%E9%B9%A4%E6%B9%96%E6%96%B0%E5%B1%85.html" target="_blank">鶴湖新居</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E9%BE%99%E5%B2%97%E5%8C%BA-2.%E8%8C%82%E7%9B%9B%E4%B8%96%E5%B1%85.html" target="_blank">茂盛世居</a></li>
+</ul>
+<h3>龍華區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E9%BE%99%E5%8D%8E%E5%8C%BA-1.%E8%90%A5%E6%95%91%E6%96%87%E5%8C%96%E5%90%8D%E4%BA%BA%E6%97%A7%E5%9D%80%EF%BC%88%E7%99%BD%E7%9F%B3%E9%BE%99%E6%9D%91%E5%A4%A9%E4%B8%BB%E5%A0%82%EF%BC%89.html" target="_blank">營救文化名人舊址（白石龍村天主堂）</a></li>
+</ul>
+<h3>盐田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%9B%90%E7%94%B0%E5%8C%BA-1.%E4%B8%AD%E8%8B%B1%E8%A1%97%E7%95%8C%E7%A2%91.html" target="_blank">中英街界碑</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%9B%90%E7%94%B0%E5%8C%BA-2.%E5%A4%A7%E6%A2%85%E6%B2%99%E5%8F%A4%E9%81%97%E5%9D%80.html" target="_blank">大梅沙古遺址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%9B%90%E7%94%B0%E5%8C%BA-3.%E6%B2%99%E5%A4%B4%E8%A7%92%E4%B8%AD%E8%8B%B1%E8%A1%97.html" target="_blank">沙頭角中英街</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%9B%90%E7%94%B0%E5%8C%BA-4.%E6%B2%99%E6%A0%8F%E5%90%93%E5%A4%A9%E5%90%8E%E5%AE%AB.html" target="_blank">沙欄嚇天后宮</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E7%9B%90%E7%94%B0%E5%8C%BA-5.%E6%B2%99%E6%A0%8F%E5%90%93%E5%90%B4%E6%B0%8F%E5%AE%97%E7%A5%A0.html" target="_blank">沙欄嚇吳氏宗祠</a></li>
+</ul>
+<h3>坪山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%9D%AA%E5%B1%B1%E5%8C%BA-1.%E5%A4%A7%E4%B8%87%E4%B8%96%E5%B1%85.html" target="_blank">大萬世居</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%9D%AA%E5%B1%B1%E5%8C%BA-2.%E9%BE%99%E7%94%B0%E4%B8%96%E5%B1%85.html" target="_blank">龍田世居</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%9D%AA%E5%B1%B1%E5%8C%BA-3.%E4%B8%9C%E6%B1%9F%E7%BA%B5%E9%98%9F%E3%80%8A%E5%89%8D%E8%BF%9B%E6%8A%A5%E7%A4%BE%E3%80%8B%E6%97%A7%E5%9D%80.html" target="_blank">東江縱隊《前進報社》舊址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%9D%AA%E5%B1%B1%E5%8C%BA-4.%E6%96%87%E6%AD%A6%E5%B8%9D%E5%AE%AB.html" target="_blank">文武帝宮</a></li>
+</ul>
+<h3>大鵬新區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-1.%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E.html" target="_blank">大鵬所城</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-2.%E5%9C%9F%E6%B4%8B%E6%9D%91%E4%B8%9C%E6%B1%9F%E7%BA%B5%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%97%A7%E5%9D%80.html" target="_blank">土洋村東江縱隊司令部舊址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-3.%E5%92%B8%E5%A4%B4%E5%B2%AD%E9%81%97%E5%9D%80.html" target="_blank">鹹頭嶺遺址</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-4.%E5%88%98%E8%B5%B7%E9%BE%99%E5%A2%93.html" target="_blank">劉起龍墓</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-5.%E4%B8%9C%E5%B1%B1%E5%AF%BA%E7%9F%B3%E7%89%8C%E5%9D%8A.html" target="_blank">東山寺石牌坊</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-6.%E6%8C%AF%E5%A8%81%E5%B0%86%E5%86%9B%E8%B5%96%E6%81%A9%E7%88%B5%E5%A2%93.html" target="_blank">振威將軍賴恩爵墓</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-7.%E8%B5%96%E5%A4%AA%E6%AF%8D%E5%A2%93.html" target="_blank">賴太母墓</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-8.%E5%A4%A7%E5%9D%91%E7%83%9F%E5%A2%A9.html" target="_blank">大坑煙墩</a></li>
+</ul>
+<h3>光明區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%96%87%E4%BF%9D%E5%96%AE%E4%BD%8D/%E5%85%89%E6%98%8E%E5%8C%BA-1.%E9%BA%A6%E6%B0%8F%E5%A4%A7%E5%AE%97%E7%A5%A0.html" target="_blank">麥氏大宗祠</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>表演場所</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">表演場所</source>
+      <description>目錄 福田區 羅湖區 南山區 寶安區 龍崗區 龍華區 坪山區 光明區</description>
+      <pubDate>Fri, 28 Feb 2025 14:49:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>目錄</h2>
+<h3>福田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%A6%8F%E7%94%B0%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E9%9F%B3%E4%B9%90%E5%8E%85.html" target="_blank">深圳音樂廳</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%A6%8F%E7%94%B0%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B0%91%E5%B9%B4%E5%AE%AB%EF%BC%88%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%B0%91%E5%84%BF%E7%A7%91%E6%8A%80%E9%A6%86%EF%BC%89.html" target="_blank">深圳少年宮（深圳市兒童科技館）</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%A6%8F%E7%94%B0%E5%8C%BA-3.%E7%A6%8F%E7%94%B0%E6%96%87%E5%8C%96%E9%A6%86%C2%B7%E9%9F%B3%E4%B9%90%E4%B8%BB%E9%A2%98%E9%A6%86.html" target="_blank">福田文化館‧音樂主題館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%A6%8F%E7%94%B0%E5%8C%BA-4.%E7%A6%8F%E7%94%B0%E6%96%87%E5%8C%96%E9%A6%86%C2%B7%E8%88%9E%E8%B9%88%E4%B8%BB%E9%A2%98%E9%A6%86.html" target="_blank">福田文化館·舞蹈主題館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%A6%8F%E7%94%B0%E5%8C%BA-5.%E7%A6%8F%E7%94%B0%E6%96%87%E5%8C%96%E9%A6%86%C2%B7%E7%9F%B3%E5%8E%A6%E6%88%8F%E5%89%A7%E4%B8%BB%E9%A2%98%E9%A6%86.html" target="_blank">福田文化館·石廈戲劇主題館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%A6%8F%E7%94%B0%E5%8C%BA-6.%E5%A6%87%E5%84%BF%E5%89%A7%E5%9C%BA.html" target="_blank">婦兒劇場</a></li>
+</ul>
+<h3>羅湖區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%BD%97%E6%B9%96%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%89%A7%E9%99%A2.html" target="_blank">深圳大劇院</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%BD%97%E6%B9%96%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E6%88%8F%E9%99%A2.html" target="_blank">深圳戲院</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E7%BD%97%E6%B9%96%E5%8C%BA-3.%E5%87%A4%E5%87%B0%E5%89%A7%E5%9C%BA.html" target="_blank">鳳凰劇場</a></li>
+</ul>
+<h3>南山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%8D%97%E5%B1%B1%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E4%BF%9D%E5%88%A9%E5%89%A7%E9%99%A2.html" target="_blank">深圳保利劇院</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%8D%97%E5%B1%B1%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%A4%8F%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83%EF%BC%88%E5%A4%A7%E5%89%A7%E5%9C%BA%E3%80%81%E5%B0%8F%E5%89%A7%E5%9C%BA%EF%BC%89.html" target="_blank">深圳華夏藝術中心（大劇場、小劇場）</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%8D%97%E5%B1%B1%E5%8C%BA-3.%E4%B8%87%E8%B1%A1%E5%A4%A9%E5%9C%B0%E5%89%A7%E5%9C%BA.html" target="_blank">萬像天地劇場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%8D%97%E5%B1%B1%E5%8C%BA-4.%E5%8D%97%E5%B1%B1%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83%E5%89%A7%E9%99%A2%EF%BC%88%E5%A4%A7%E3%80%81%E5%B0%8F%E5%89%A7%E9%99%A2%EF%BC%89.html" target="_blank">南山文體中心劇院（大、小劇場）</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%8D%97%E5%B1%B1%E5%8C%BA-5.%E8%9B%87%E5%8F%A3%E9%A3%8E%E5%8D%8E%E5%A4%A7%E5%89%A7%E9%99%A2.html" target="_blank">蛇口風華大劇院</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%8D%97%E5%B1%B1%E5%8C%BA-6.%E5%8D%97%E5%B1%B1%E5%8C%BA%E6%96%87%E5%8C%96%E9%A6%86%E5%89%A7%E9%99%A2.html" target="_blank">南山區文化館劇院</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%8D%97%E5%B1%B1%E5%8C%BA-7.O%C2%B7POWER%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83POWER%E5%89%A7%E5%9C%BA.html" target="_blank">O·POWER文化藝術中心POWER劇場</a></li>
+</ul>
+<h3>寶安區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%AE%9D%E5%AE%89%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E6%BB%A8%E6%B5%B7%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.html" target="_blank">深圳濱海藝術中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%AE%9D%E5%AE%89%E5%8C%BA-2.%E6%B5%B7%E9%9B%85%E5%A4%A7%E5%89%A7%E9%99%A2.html" target="_blank">海雅大劇院</a></li>
+</ul>
+<h3>龍崗區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E9%BE%99%E5%B2%97%E5%8C%BA-1.%E9%BE%99%E5%B2%97%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83.html" target="_blank">龍崗文化中心</a></li>
+</ul>
+<h3>龍華區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E9%BE%99%E5%8D%8E%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%BA%A2%E5%B1%B1%E5%89%A7%E5%9C%BA.html" target="_blank">深圳開心麻花紅山劇場</a></li>
+</ul>
+<h3>坪山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%9D%AA%E5%B1%B1%E5%8C%BA-1.%E5%9D%AA%E5%B1%B1%E5%A4%A7%E5%89%A7%E9%99%A2.html" target="_blank">坪山大劇院</a></li>
+</ul>
+<h3>光明區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E6%BC%94%E5%87%BA%E5%A0%B4%E6%89%80/%E5%85%89%E6%98%8E%E5%8C%BA-1.%E5%85%89%E6%98%8E%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.html" target="_blank">光明文化藝術中心</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>美術館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">美術館</source>
+      <description>目錄 福田區 羅湖區 南山區 寶安區 龍崗區 龍華區 盐田區 光明區 坪山區</description>
+      <pubDate>Fri, 28 Feb 2025 14:49:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>目錄</h2>
+<h3>福田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%85%B3%E5%B1%B1%E6%9C%88%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">深圳市關山月美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E4%B8%8E%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92%E9%A6%86.html" target="_blank">深圳市當代藝術與城市規劃館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-3.%E7%A6%8F%E7%94%B0%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">福田美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-4.%E6%9C%A8%E6%98%9F%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">木星美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-5.%E6%96%B0%E6%96%B0%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">新新美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-6.%E6%B3%93%E5%B2%AD%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">泓嶺美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%A6%8F%E7%94%B0%E5%8C%BA-7.%E5%A4%A9%E7%A9%BA%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">天空美術館</a></li>
+</ul>
+<h3>羅湖區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E7%BE%8E%E6%9C%AF%E9%A6%86%EF%BC%88%E4%B8%9C%E6%B9%96%E9%A6%86%EF%BC%89.html" target="_blank">深圳美術館（東湖館）</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E7%94%BB%E9%99%A2%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">深圳畫院美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-3.%E7%BD%97%E6%B9%96%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">羅湖美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-4.%E8%B6%8A%E4%BC%97%E5%8E%86%E5%8F%B2%E5%BD%B1%E5%83%8F%E9%A6%86.html" target="_blank">越眾歷史影像館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%BD%97%E6%B9%96%E5%8C%BA-5.%E8%A2%81%E6%9C%BA%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">袁機美術館</a></li>
+</ul>
+<h3>南山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-1.%E4%BD%95%E9%A6%99%E5%87%9D%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">何香凝美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">深圳大學美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-3.%E9%9B%85%E6%98%8C%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.html" target="_blank">雅昌藝術中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-4.%E5%8D%8E%E4%BE%A8%E5%9F%8E%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83(%E5%8D%8E%C2%B7%E7%BE%8E%E6%9C%AF%E9%A6%86).html" target="_blank">華僑城當代藝術中心(華·美術館)</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-5.%E8%9B%87%E5%8F%A3%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.html" target="_blank">蛇口海上世界文化藝術中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-6.%E5%BE%90%E6%82%B2%E9%B8%BF%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.html" target="_blank">徐悲鴻文化藝術中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%8D%97%E5%B1%B1%E5%8C%BA-7.%E5%8D%8E%E6%B6%A6%E5%A4%A7%E5%8E%A6%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">華潤大廈藝術中心美術館</a></li>
+</ul>
+<h3>寶安區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-1.%E6%97%AD%E7%94%9F%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">旭生美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-2.%E4%B8%80%E9%9B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">一雍美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%AE%9D%E5%AE%89%E5%8C%BA-3.%E8%87%B3%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">至美術館</a></li>
+</ul>
+<h3>龍崗區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-1.%E5%A4%A7%E8%8A%AC%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">大芬美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-2.%E5%A4%AA%E9%98%B3%E5%B1%B1%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.html" target="_blank">太陽山藝術中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-3.%E7%A5%A5%E5%B1%B1%E8%89%BA%E6%9C%AF%E9%A6%86.html" target="_blank">祥山藝術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%B2%97%E5%8C%BA-4.%E7%A6%BE%E8%8A%B1%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">禾花美術館</a></li>
+</ul>
+<h3>龍華區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">深圳美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-2.%E8%A7%82%E6%BE%9C%E7%89%88%E7%94%BB%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86.html" target="_blank">觀瀾版畫藝術博物館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-3.%E8%A7%82%E6%BE%9C%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">觀瀾美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-4.%E8%89%BA%E4%B9%8B%E5%8D%89%E6%96%B0%E9%94%90%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">藝之廈新銳美術館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E9%BE%99%E5%8D%8E%E5%8C%BA-5.%E9%B3%8C%E6%B9%96%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">鰲湖美術館</a></li>
+</ul>
+<h3>盐田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E7%9B%90%E7%94%B0%E5%8C%BA-1.%E6%A2%85%E6%B2%99%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.html" target="_blank">梅沙藝術中心</a></li>
+</ul>
+<h3>光明區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%85%89%E6%98%8E%E5%8C%BA-1.%E5%85%89%E6%98%8E%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">光明文化藝術中心美術館</a></li>
+</ul>
+<h3>坪山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E7%BE%8E%E8%A1%93%E9%A4%A8/%E5%9D%AA%E5%B1%B1%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%9D%AA%E5%B1%B1%E5%8C%BA%E7%BE%8E%E6%9C%AF%E9%A6%86.html" target="_blank">深圳市坪山區美術館</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>體育場館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">體育場館</source>
+      <description>目錄 福田區 羅湖區 南山區 寶安區 龍崗區 龍華區 鹽田區 坪山區 大鵬新區 光明區 深汕合作區</description>
+      <pubDate>Fri, 28 Feb 2025 14:49:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>目錄</h2>
+<h3>福田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E6%B8%B8%E6%B3%B3%E8%B7%B3%E6%B0%B4%E9%A6%86.html" target="_blank">深圳游泳跳水族館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-2.%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%BD%91%E7%BE%BD%E4%B8%AD%E5%BF%83.html" target="_blank">深圳市網羽中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-3.%E7%A6%8F%E7%94%B0%E6%B5%B7%E6%BB%A8%E7%94%9F%E6%80%81%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">福田海濱生態運動公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-4.%E7%A6%8F%E7%94%B0%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">福田體育公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-5.%E8%8E%B2%E8%8A%B1%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">蓮花體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-6.%E9%A6%99%E8%9C%9C%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">香蜜體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-7.%E9%BB%84%E6%9C%A8%E5%B2%97%E7%BD%91%E7%90%83%E4%B8%AD%E5%BF%83.html" target="_blank">黃木崗網球中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-8.%E6%99%AF%E9%B9%8F%E5%B0%8F%E5%AD%A6.html" target="_blank">景鵬小學</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%A6%8F%E7%94%B0%E5%8C%BA-9.%E7%A6%8F%E7%94%B0%E5%8C%BA%E6%99%AF%E7%94%B0%E7%BD%91%E7%90%83%E4%B8%AD%E5%BF%83.html" target="_blank">福田區景田網球中心</a></li>
+</ul>
+<h3>羅湖區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%BD%97%E6%B9%96%E5%8C%BA-1.%E7%BD%97%E6%B9%96%E4%BD%93%E8%82%B2%E9%A6%86.html" target="_blank">羅湖體育館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%BD%97%E6%B9%96%E5%8C%BA-2.%E7%BD%97%E6%B9%96%E7%BD%91%E7%90%83%E4%B8%AD%E5%BF%83.html" target="_blank">羅湖網球中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%BD%97%E6%B9%96%E5%8C%BA-3.%E7%BD%97%E6%B9%96%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E5%85%AC%E5%9B%AD.html" target="_blank">羅湖運動休閒公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%BD%97%E6%B9%96%E5%8C%BA-4.%E7%B2%A4%E6%B5%B7%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E5%85%AC%E5%9B%AD.html" target="_blank">粵海運動休閒公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%BD%97%E6%B9%96%E5%8C%BA-5.%E4%BB%99%E6%A1%90%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">仙桐體育公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%BD%97%E6%B9%96%E5%8C%BA-6.%E7%BF%A0%E6%B9%96%E6%96%87%E4%BD%93%E5%85%AC%E5%9B%AD.html" target="_blank">翠湖文體公園</a></li>
+</ul>
+<h3>南山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E6%B9%BE%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">深圳灣體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-10.%E5%A4%A7%E6%B2%99%E6%B2%B3%E5%85%AC%E5%9B%AD%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">大沙河公園運動中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-11.%E6%B7%B1%E5%9C%B3%E6%B9%BE%E4%BD%93%E8%82%B2%E8%AE%AD%E7%BB%83%E5%9F%BA%E5%9C%B0.html" target="_blank">深圳灣運動訓練基地</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-12.%E6%B7%B1%E5%9C%B3%E4%B8%AD%E5%B1%B1%E5%85%AC%E5%9B%AD%E6%A3%92%E7%90%83%E5%9C%BA.html" target="_blank">深圳中山公園棒球場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-2.%E4%B8%AD%E5%B1%B1%E5%85%AC%E5%9B%AD%E6%A3%92%E7%90%83%E5%9C%BA.html" target="_blank">中山公園棒球場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-3.%E8%9B%87%E5%8F%A3%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">蛇口體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-4.%E5%8D%97%E5%B1%B1%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83.html" target="_blank">南山文體中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-5.%E5%86%B0%E7%BA%B7%E4%B8%87%E8%B1%A1%E6%BB%91%E9%9B%AA%E5%9C%BA.html" target="_blank">冰紛萬象滑雪場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-6.%E9%94%A1%E6%89%8D%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">錫才體育公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-7.%E5%8D%97%E6%B5%B7%E8%B6%B3%E7%90%83%E5%85%AC%E5%9B%AD.html" target="_blank">南海足球公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-8.%E8%8D%94%E9%A6%99%E5%85%AC%E5%9B%AD%E7%BD%91%E7%90%83%E5%9C%BA.html" target="_blank">荔香公園網球場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%8D%97%E5%B1%B1%E5%8C%BA-9.%E6%A1%83%E6%BA%90%E7%BE%A4%E4%BC%97%E7%AF%AE%E7%90%83%E7%BD%91%E7%90%83%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">桃源群眾籃球網球運動公園</a></li>
+</ul>
+<h3>寶安區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-1.%E5%AE%9D%E5%AE%89%E5%8C%BA%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">寶安區體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-2.%E8%A5%BF%E4%B9%A1%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">西鄉運動中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-3.%E6%9D%BE%E5%B2%97%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">松崗體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-4.%E7%9F%B3%E5%B2%A9%E4%BD%93%E8%82%B2%E9%A6%86.html" target="_blank">石岩體育館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-5.%E6%96%B0%E6%A1%A5%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">新橋體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-6.%E7%BB%BC%E5%90%88%E8%AE%AD%E7%BB%83%E9%A6%86%EF%BC%88%E5%AE%A4%E5%86%85%E7%BD%91%E7%90%83%E9%A6%86%EF%BC%89.html" target="_blank">綜合訓練館（室內網球館）</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-7.%E5%AE%9D%E5%AE%89%E6%B8%B8%E6%B3%B3%E5%9C%BA%E9%A6%86.html" target="_blank">寶安游泳場館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-8.%E5%AE%9D%E5%AE%89%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">寶安體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%AE%9D%E5%AE%89%E5%8C%BA-9.%E5%AE%9D%E5%AE%89%E4%BD%93%E8%82%B2%E9%A6%86.html" target="_blank">寶安體育館</a></li>
+</ul>
+<h3>龍崗區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%B2%97%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%A4%A7%E8%BF%90%E4%B8%AD%E5%BF%83.html" target="_blank">深圳大運中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%B2%97%E5%8C%BA-2.%E9%BE%99%E5%9F%8E%E5%85%AC%E5%9B%AD%E5%9C%B0%E9%93%81%E4%B8%8A%E7%9B%96%E6%B4%BB%E5%8A%9B%E8%B0%B7%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">龍城公園地鐵上蓋活力谷運動公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%B2%97%E5%8C%BA-3.%E9%BE%99%E5%B2%97%E5%8C%BA%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">龍崗區體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%B2%97%E5%8C%BA-4.%E5%B9%B3%E6%B9%96%E5%A4%A7%E5%B2%AD%E8%B6%B3%E7%90%83%E5%9C%BA.html" target="_blank">平湖大嶺足球場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%B2%97%E5%8C%BA-5.%E5%A4%A7%E4%B8%8E%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83.html" target="_blank">大與文體中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%B2%97%E5%8C%BA-6.%E6%98%86%E4%BB%91%E9%B8%BF%E6%98%9F%E5%86%B0%E7%90%83%E6%B0%94%E8%86%9C%E9%A6%86.html" target="_blank">崑崙鴻星冰球氣膜館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%B2%97%E5%8C%BA-7.%E7%9F%B3%E8%8A%BD%E5%B2%AD%E4%BF%A1%E4%B9%89%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">石芽嶺信義體育公園</a></li>
+</ul>
+<h3>龍華區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%8D%8E%E5%8C%BA-1.%E7%AE%80%E4%B8%8A%E4%BD%93%E8%82%B2%E7%BB%BC%E5%90%88%E4%BD%93.html" target="_blank">簡上體育綜合體</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%8D%8E%E5%8C%BA-2.%E4%B9%9D%E9%BE%99%E5%B1%B1%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">九龍山運動公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%8D%8E%E5%8C%BA-3.%E6%B0%91%E6%B2%BB%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">民治體育公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%8D%8E%E5%8C%BA-4.%E9%BE%99%E5%8D%8E%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83.html" target="_blank">龍華文體中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E9%BE%99%E5%8D%8E%E5%8C%BA-5.%E5%A4%A7%E6%B5%AA%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">大浪體育公園</a></li>
+</ul>
+<h3>鹽田區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%9B%90%E7%94%B0%E5%8C%BA-1.%E7%9B%90%E7%94%B0%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">鹽田體育中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%9B%90%E7%94%B0%E5%8C%BA-2.%E7%9B%90%E7%94%B0%E5%8C%BA%E4%BD%93%E8%82%B2%E5%8F%91%E5%B1%95%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83%E7%BD%91%E7%90%83%E5%9C%BA.html" target="_blank">鹽田區體育發展服務中心網球場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%9B%90%E7%94%B0%E5%8C%BA-3.%E7%9B%90%E7%94%B0%E5%8C%BA%E6%B8%B8%E6%B3%B3%E9%A6%86.html" target="_blank">鹽田區游泳池</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%9B%90%E7%94%B0%E5%8C%BA-4.%E7%9B%90%E7%94%B0%E5%8C%BA%E6%B8%B8%E6%B3%B3%E9%A6%86%E4%BA%8C%E6%A5%BC%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%86.html" target="_blank">鹽田區游泳池二樓羽毛球館</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E7%9B%90%E7%94%B0%E5%8C%BA-5.%E6%B2%99%E5%A4%B4%E8%A7%92%E4%BD%93%E8%82%B2%E9%A6%86.html" target="_blank">沙頭角體育館</a></li>
+</ul>
+<h3>坪山區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%9D%AA%E5%B1%B1%E5%8C%BA-1.%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%9D%AA%E5%B1%B1%E5%8C%BA%E5%9D%AA%E5%B1%B1%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83%E4%BD%93%E8%82%B2%E9%A6%86.html" target="_blank">深圳市坪山區坪山體育中心體育館</a></li>
+</ul>
+<h3>大鵬新區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-1.%E8%91%B5%E6%B6%8C%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">葵樂中學體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-10.%E8%91%B5%E6%B6%8C%E7%94%9F%E6%80%81%E4%BD%93%E8%82%B2%E5%85%AC%E5%9B%AD.html" target="_blank">葵湧生態運動公園</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-2.%E5%8D%97%E6%BE%B3%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">南澳中學體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-3.%E5%8D%97%E6%BE%B3%E4%B8%AD%E5%BF%83%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">南澳中心小學體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-4.%E4%BA%BA%E5%A4%A7%E9%99%84%E4%B8%AD%E6%B7%B1%E5%9C%B3%E5%AD%A6%E6%A0%A1%E9%AB%98%E4%B8%AD%E9%83%A8%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">人大附中深圳學校高中部體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-5.%E8%91%B5%E6%B6%8C%E7%AC%AC%E4%BA%8C%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">葵樂第二小學體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-6.%E6%BA%AA%E6%B6%8C%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">溪湧小學體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-7.%E8%91%B5%E6%B6%8C%E4%B8%AD%E5%BF%83%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">葵湧中心小學體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-8.%E5%A4%A7%E9%B9%8F%E7%AC%AC%E4%BA%8C%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E5%9C%BA.html" target="_blank">大鵬第二小學體育場</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA-9.%E5%A4%A7%E9%B9%8F%E6%96%B0%E5%8C%BA%E8%91%B5%E6%B6%8C%E4%B8%AD%E5%BF%83%E5%B0%8F%E5%AD%A6.html" target="_blank">大鵬新區葵湧中心小學</a></li>
+</ul>
+<h3>光明區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%85%89%E6%98%8E%E5%8C%BA-1.%E5%85%89%E6%98%8E%E7%BE%A4%E4%BC%97%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">光明群眾運動中心</a></li>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E5%85%89%E6%98%8E%E5%8C%BA-2.%E5%85%89%E6%98%8E%E5%8C%BA%E7%BA%A2%E8%8A%B1%E5%B1%B1%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83.html" target="_blank">光明區紅花山運動中心</a></li>
+</ul>
+<h3>深汕合作區</h3>
+<ul>
+<li><a href="/zh-tw/notes/%E6%96%87%E9%AB%94%E5%A0%B4%E9%A4%A8/%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83/%E6%B7%B1%E6%B1%95%E5%90%88%E4%BD%9C%E5%8C%BA-1.%E6%B7%B1%E6%B1%95%E8%A5%BF%E6%96%87%E4%BD%93%E4%B8%AD%E5%BF%83.html" target="_blank">深汕西文體中心</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市依波鐘錶文化博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Eboh-Watch-Cultural-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Eboh-Watch-Cultural-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市依波鐘錶文化博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市光明區惜物博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Guangming-District-Treasure-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Guangming-District-Treasure-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市光明區惜物博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市南山博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Nanshan-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Nanshan-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市南山博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市南山區南頭古城博物館（南山博物館分館）</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Nanshan-District-Nantou-Ancient-City-Museum-(Nanshan-Museum-Branch)/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Nanshan-District-Nantou-Ancient-City-Museum-(Nanshan-Museum-Branch)/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市南山區南頭古城博物館（南山博物館分館）</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市南山區天后博物館（南山博物館分館）</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Nanshan-District-Tianhou-Museum-(Nanshan-Museum-Branch)/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Nanshan-District-Tianhou-Museum-(Nanshan-Museum-Branch)/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市南山區天后博物館（南山博物館分館）</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市坪山區東江縱隊紀念館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Pingshan-District-Dongjiang-Column-Memorial-Hall/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Pingshan-District-Dongjiang-Column-Memorial-Hall/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市坪山區東江縱隊紀念館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大鵬新區博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Dapeng-New-District-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Dapeng-New-District-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">大鵬新區博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳（寶安）勞務工博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-(Bao&amp;apos;an)-Migrant-Workers-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-(Bao&amp;apos;an)-Migrant-Workers-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳（寶安）勞務工博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>世紀琥珀博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Century-Amber-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Century-Amber-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">世紀琥珀博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>沙井蠔文化博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shajing-Oyster-Culture-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shajing-Oyster-Culture-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">沙井蠔文化博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市中英街歷史博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Zhongying-Street-History-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Zhongying-Street-History-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市中英街歷史博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳博物館歷史民俗館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Museum-History-and-Folklore-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Museum-History-and-Folklore-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳博物館歷史民俗館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市龍華區美聯紅木藝術博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Longhua-District-Meilian-Redwood-Art-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Longhua-District-Meilian-Redwood-Art-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市龍華區美聯紅木藝術博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳望野博物館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Wangye-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Museum/Shenzhen-Wangye-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳望野博物館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明區少年兒童圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Guangming-District-Children&amp;apos;s-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Guangming-District-Children&amp;apos;s-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">光明區少年兒童圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南山圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Nanshan-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Nanshan-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">南山圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>坪山圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">坪山圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>坪山兒童圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Children&amp;apos;s-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Children&amp;apos;s-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">坪山兒童圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>坪山文化館分館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Cultural-Center-Branch/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Cultural-Center-Branch/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">坪山文化館分館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>金龜自然書房分館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Golden-Turtle-Natural-Bookstore-Branch/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Golden-Turtle-Natural-Bookstore-Branch/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">金龜自然書房分館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大草坪公園分館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Big-Lawn-Park-Branch/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Big-Lawn-Park-Branch/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">大草坪公園分館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>坪山兒童公園分館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Children&amp;apos;s-Park-Branch/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Children&amp;apos;s-Park-Branch/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">坪山兒童公園分館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>坪山圖書館·客家特藏館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Library%C2%B7Hakka-Special-Collections/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Pingshan-Library%C2%B7Hakka-Special-Collections/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">坪山圖書館·客家特藏館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>寶安區圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Bao&amp;apos;an-District-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Bao&amp;apos;an-District-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">寶安區圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>鹽田區圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Yantian-District-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Yantian-District-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">鹽田區圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Shenzhen-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Shenzhen-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市福田區圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Shenzhen-Futian-District-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Shenzhen-Futian-District-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市福田區圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳少年兒童圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Shenzhen-Children&amp;apos;s-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Shenzhen-Children&amp;apos;s-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳少年兒童圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>龍華圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Longhua-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Longhua-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">龍華圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>龍崗區圖書館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Longgang-District-Library/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Library/Longgang-District-Library/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">龍崗區圖書館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明區文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Guangming-District-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Guangming-District-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">光明區文化館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明文化藝術中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Guangming-Culture-and-Art-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Guangming-Culture-and-Art-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">光明文化藝術中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南山區文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Nanshan-District-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Nanshan-District-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">南山區文化館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>坪山區文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Pingshan-District-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Pingshan-District-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">坪山區文化館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>寶安區文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Bao&amp;apos;an-District-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Bao&amp;apos;an-District-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">寶安區文化館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深汕西文體中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Shenshan-West-Culture-and-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Shenshan-West-Culture-and-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深汕西文體中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>鹽田區文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Yantian-District-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Yantian-District-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">鹽田區文化館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Shenzhen-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Shenzhen-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市文化館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田文體中心·鋼琴主題館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Piano-Theme-Pavilion/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Piano-Theme-Pavilion/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田文體中心·鋼琴主題館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田文體中心·舞蹈主題館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Dance-Theme-Pavilion/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Dance-Theme-Pavilion/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田文體中心·舞蹈主題館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田文體中心·夢工場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Dream-Factory/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Dream-Factory/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田文體中心·夢工場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田文體中心·非遺主題館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Intangible-Cultural-Heritage-Theme-Pavilion/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Intangible-Cultural-Heritage-Theme-Pavilion/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田文體中心·非遺主題館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田文體中心·音樂書畫主題館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Music-Calligraphy-and-Painting-Theme-Pavilion/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Futian-Cultural-and-Sports-Center%C2%B7Music-Calligraphy-and-Painting-Theme-Pavilion/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田文體中心·音樂書畫主題館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>羅湖區文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Luohu-District-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Luohu-District-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">羅湖區文化館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>龍華文體中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Longhua-District-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Longhua-District-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">龍華文體中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市龍崗區文化館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Longgang-District-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Cultural-Center/Longgang-District-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市龍崗區文化館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南山文體中心劇院（大、小劇場）</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Nanshan-Cultural-and-Sports-Center-Theater-(large-and-small-theaters)/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Nanshan-Cultural-and-Sports-Center-Theater-(large-and-small-theaters)/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">南山文體中心劇院（大、小劇場）</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>蛇口風華大劇院</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Shekou-Fenghua-Theater/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Shekou-Fenghua-Theater/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">蛇口風華大劇院</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳濱海藝術中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Shenzhen-Binhai-Art-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Shenzhen-Binhai-Art-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳濱海藝術中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田文化館·舞蹈主題館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Futian-Cultural-Center%C2%B7Dance-Theme-Pavilion/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Futian-Cultural-Center%C2%B7Dance-Theme-Pavilion/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田文化館·舞蹈主題館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田文化館·石廈戲劇主題館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Futian-Cultural-Center%C2%B7Shixia-Drama-Theme-Pavilion/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Futian-Cultural-Center%C2%B7Shixia-Drama-Theme-Pavilion/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田文化館·石廈戲劇主題館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>龍崗文化中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Longgang-Cultural-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Performance-Venue/Longgang-Cultural-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">龍崗文化中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>何香凝美術館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/He-Xiangning-Art-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/He-Xiangning-Art-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">何香凝美術館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>蛇口海上世界文化藝術中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Sea-World-Culture-and-Art-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Sea-World-Culture-and-Art-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">蛇口海上世界文化藝術中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>華潤大廈藝術中心美術館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/China-Resources-Art-Center-Art-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/China-Resources-Art-Center-Art-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">華潤大廈藝術中心美術館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市坪山區美術館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Pingshan-Art-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Pingshan-Art-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市坪山區美術館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>至美術館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Zhi-Art-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Zhi-Art-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">至美術館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市關山月美術館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Guan-Shanyue-Art-Museum-Shenzhen/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Guan-Shanyue-Art-Museum-Shenzhen/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市關山月美術館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳美術館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Shenzhen-Art-Museum/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Art-Gallery/Shenzhen-Art-Museum/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳美術館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光明群眾運動中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Guangming-Mass-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Guangming-Mass-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">光明群眾運動中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳灣體育中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shenzhen-Bay-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shenzhen-Bay-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳灣體育中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大沙河公園運動中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Dasha-River-Park-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Dasha-River-Park-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">大沙河公園運動中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳灣運動訓練基地</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shenzhen-Bay-Sports-Training-Base/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shenzhen-Bay-Sports-Training-Base/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳灣運動訓練基地</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳中山公園棒球場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shenzhen-Zhongshan-Park-Baseball-Field/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shenzhen-Zhongshan-Park-Baseball-Field/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳中山公園棒球場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>蛇口體育中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shekou-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shekou-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">蛇口體育中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南山文體中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Nanshan-Cultural-and-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Nanshan-Cultural-and-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">南山文體中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>冰紛萬象滑雪場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Bingfen-Wanxiang-Ski-Resort/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Bingfen-Wanxiang-Ski-Resort/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">冰紛萬象滑雪場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>錫才體育公園</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Xicai-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Xicai-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">錫才體育公園</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南海足球公園</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Nanhai-Football-Park/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Nanhai-Football-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">南海足球公園</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>荔香公園網球場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Lixiang-Park-Tennis-Court/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Lixiang-Park-Tennis-Court/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">荔香公園網球場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>桃源群眾籃球網球運動公園</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Taoyuan-Mass-Basketball-and-Tennis-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Taoyuan-Mass-Basketball-and-Tennis-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">桃源群眾籃球網球運動公園</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深圳市坪山區坪山體育中心體育館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Pingshan-Sports-Center-Gymnasium-Pingshan-District-Shenzhen/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Pingshan-Sports-Center-Gymnasium-Pingshan-District-Shenzhen/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深圳市坪山區坪山體育中心體育館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>葵樂中學體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Middle-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Middle-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">葵樂中學體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>葵湧生態運動公園</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Kuichong-Ecological-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Kuichong-Ecological-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">葵湧生態運動公園</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南澳中學體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Nan&amp;apos;ao-Middle-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Nan&amp;apos;ao-Middle-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">南澳中學體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>南澳中心小學體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Nan&amp;apos;ao-Central-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Nan&amp;apos;ao-Central-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">南澳中心小學體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>人大附中深圳學校高中部體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Renmin-University-High-School-Shenzhen-School-High-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Renmin-University-High-School-Shenzhen-School-High-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">人大附中深圳學校高中部體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>葵樂第二小學體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Second-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Second-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">葵樂第二小學體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>溪湧小學體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Xichong-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Xichong-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">溪湧小學體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>葵湧中心小學體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Central-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Kwai-Chung-Central-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">葵湧中心小學體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大鵬第二小學體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Dapeng-Second-Primary-School-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Dapeng-Second-Primary-School-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">大鵬第二小學體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>大鵬新區葵湧中心小學</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Dapeng-New-District-Kui-Chung-Central-Primary-School/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Dapeng-New-District-Kui-Chung-Central-Primary-School/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">大鵬新區葵湧中心小學</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>綜合訓練館（室內網球館）</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Comprehensive-Training-Hall-(Indoor-Tennis-Hall)/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Comprehensive-Training-Hall-(Indoor-Tennis-Hall)/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">綜合訓練館（室內網球館）</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>寶安游泳場館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-Swimming-Pool/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-Swimming-Pool/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">寶安游泳場館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>寶安體育場</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-Stadium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-Stadium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">寶安體育場</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>寶安體育館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-Gymnasium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Bao&amp;apos;an-Gymnasium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">寶安體育館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>深汕西文體中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shenshan-West-Cultural-and-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shenshan-West-Cultural-and-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">深汕西文體中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>沙頭角體育館</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shatoujiao-Gymnasium/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Shatoujiao-Gymnasium/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">沙頭角體育館</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田海濱生態運動公園</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Futian-Seaside-Ecological-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Futian-Seaside-Ecological-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田海濱生態運動公園</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>福田體育公園</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Futian-Sports-Park/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Futian-Sports-Park/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">福田體育公園</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>蓮花體育中心</title>
+      <link>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Lotus-Sports-Center/</link>
+      <guid>https://shenzhen.citywalk.group/zh-tw/Cultural-Sports-Venues/Sports-Center/Lotus-Sports-Center/</guid>
+      <source url="https://shenzhen.citywalk.group/zh-tw/rss.xml">蓮花體育中心</source>
+      <pubDate>Wed, 26 Feb 2025 12:23:40 GMT</pubDate>
+      <content:encoded><![CDATA[<!-- 轮播图组件 -->
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
